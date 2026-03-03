@@ -1,7 +1,7 @@
 {
-    "Name": "Nebezpecná zóna",
-    "Year": "",
-    "Author": "",
+    "Name": "Nebezpecn\u00e1 z\u00f3na",
+    "Year": "2007",
+    "Author": "Dr. Killer",
     "Places of Occurrences": [
         "UlozTo_1",
         "UlozTo_2",
@@ -18,6 +18,11 @@
         "UlozTo_23",
         "Webshare_1",
         "Webshare_2",
-        "Webshare_3"
+        "Webshare_3",
+        "maps-of-bulanci.wz.cz",
+        "bulani.wbs.cz",
+        "bulanci-levely.tym.cz",
+        "bulanci.ososba.cz",
+        "drkiller.blog.cz"
     ]
 }

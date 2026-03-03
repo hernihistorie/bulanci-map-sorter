@@ -1,5 +1,5 @@
 {
-    "Name": "Válka",
+    "Name": "V\u00e1lka",
     "Year": "",
     "Author": "",
     "Places of Occurrences": [
@@ -20,6 +20,9 @@
         "UlozTo_19",
         "UlozTo_23",
         "Webshare_1",
-        "Webshare_2"
+        "Webshare_2",
+        "maps-of-bulanci.wz.cz",
+        "bulani.wbs.cz",
+        "bulanci.ososba.cz"
     ]
 }

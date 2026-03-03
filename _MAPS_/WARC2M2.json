@@ -1,11 +1,13 @@
 {
-    "Name": "WARCZMZ",
-    "Year": "",
-    "Author": "",
+    "Name": "WARC2M2",
+    "Year": "2007",
+    "Author": "Made",
     "Places of Occurrences": [
         "UlozTo_5",
         "UlozTo_6",
         "UlozTo_7",
-        "UlozTo_14"
+        "UlozTo_14",
+        "bulanci.yc.cz",
+        "nbulanci.blog.cz"
     ]
 }

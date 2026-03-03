@@ -1,8 +1,11 @@
 {
-    "Name": "Beta základna",
-    "Year": "",
-    "Author": "",
+    "Name": "Beta z\u00e1kladna",
+    "Year": "2007",
+    "Author": "Made",
     "Places of Occurrences": [
-        "UlozTo_18"
+        "UlozTo_18",
+        "nbulanci.blog.cz",
+        "bulanci-levely.tym.cz",
+        "bulanci.ososba.cz"
     ]
 }

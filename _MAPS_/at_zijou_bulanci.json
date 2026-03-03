@@ -1,7 +1,7 @@
 {
-    "Name": "At žijou Bulánci!",
-    "Year": "",
-    "Author": "",
+    "Name": "At \u017eijou Bul\u00e1nci!",
+    "Year": "2007",
+    "Author": "Dr. Killer",
     "Places of Occurrences": [
         "UlozTo_1",
         "UlozTo_2",
@@ -22,6 +22,10 @@
         "UlozTo_22",
         "UlozTo_23",
         "Webshare_1",
-        "Webshare_2"
+        "Webshare_2",
+        "maps-of-bulanci.wz.cz",
+        "bulani.wbs.cz",
+        "bulanci-levely.tym.cz",
+        "drkiller.blog.cz"
     ]
 }

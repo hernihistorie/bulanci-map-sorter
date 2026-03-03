@@ -1,5 +1,5 @@
 {
-    "Name": "Nocní show",
+    "Name": "Nocn\u00ed show",
     "Year": "",
     "Author": "",
     "Places of Occurrences": [
@@ -9,6 +9,9 @@
         "UlozTo_14",
         "UlozTo_22",
         "UlozTo_23",
-        "Webshare_1"
+        "Webshare_1",
+        "bulanci.wbl.sk",
+        "bulanci.yc.cz",
+        "nbulanci.blog.cz"
     ]
 }

@@ -1,8 +1,13 @@
 {
-    "Name": "Bludište",
-    "Year": "",
-    "Author": "",
+    "Name": "Bludi\u0161te",
+    "Year": "2007",
+    "Author": "Carl114",
     "Places of Occurrences": [
-        "UlozTo_18"
+        "UlozTo_18",
+        "maps-of-bulanci.wz.cz",
+        "bulani.wbs.cz",
+        "bulanci-levely.tym.cz",
+        "parime.estranky.cz",
+        "bulanci.ososba.cz"
     ]
 }

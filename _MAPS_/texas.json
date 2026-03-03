@@ -1,8 +1,10 @@
 {
     "Name": "Texas",
-    "Year": "",
-    "Author": "",
+    "Year": "2008",
+    "Author": "Hofik",
     "Places of Occurrences": [
-        "UlozTo_18"
+        "UlozTo_18",
+        "bulanci-levely.tym.cz",
+        "bulanci.ososba.cz"
     ]
 }

@@ -1,9 +1,12 @@
 {
     "Name": "Museum of Curiosities",
-    "Year": "",
-    "Author": "",
+    "Year": "2007",
+    "Author": "AvilX",
     "Places of Occurrences": [
         "UlozTo_23",
-        "Webshare_1"
+        "Webshare_1",
+        "bulani.wbs.cz",
+        "bulanci-levely.tym.cz",
+        "bulanci.ososba.cz"
     ]
 }

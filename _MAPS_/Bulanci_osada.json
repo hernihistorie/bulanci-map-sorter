@@ -1,10 +1,13 @@
 {
-    "Name": "Buláncí osada",
-    "Year": "",
+    "Name": "Bul\u00e1nc\u00ed osada",
+    "Year": "2007",
     "Author": "",
     "Places of Occurrences": [
         "UlozTo_8",
         "UlozTo_9",
-        "UlozTo_18"
+        "UlozTo_18",
+        "bulani.wbs.cz",
+        "bulanci-levely.tym.cz",
+        "bulanci.ososba.cz"
     ]
 }
