@@ -14,7 +14,8 @@ def main():
         print("2. Run Name Getter")
         print("3. Run Screenshoter")
         print("4. Make new HTML overview")
-        print("5. Exit")
+        print("5. Delete place")
+        print("6. Exit")
 
         choice = input("Select option (1-5): ")
 
@@ -27,6 +28,8 @@ def main():
         elif choice == "4":
             run_script("maps_overview.py")
         elif choice == "5":
+            run_script("delete_place.py")    
+        elif choice == "6":
             break
         else:
             print("Invalid choice. Try again.")
