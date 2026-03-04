@@ -566,3 +566,14 @@
 |+| Čtyřkolo.eap = 8aa63786a3ab1edc635883f3097aa0c1
 |+| strelnice.eap = a9a897908560f71db9a92473e1e80690
 |+| tank.eap = 2c543675049cb05b2280cd7299e8e67f
+|+| bitka 1.eap = 6e51caab012181bf6e0c62b30f50115b
+|+| bitka 2.eap = ffa7c6d349350f45593eca06ff475355
+|+| bitka vianocny special.eap = be9dd0281c0a122c7fbd289f3fa878e6
+|+| Bitva u Lupan.eap = 7c6393ffa497b0b3a6f070e4af7dee6e
+|+| bunker 2.eap = 540f83c55455b38ae1ceebb0b6799519
+|+| bunker 3.eap = ebe857fc812e86585c3b01448cbe477d
+|+| bunker.eap = 9e52d37629e952093355a17e026ac697
+|+| Ertal.eap = b572dafbccbee29b5073c135eacc8ed0
+|+| nuda.eap = ab0bf62703f4a7baa9ee10cfedaa822e
+|+| procesor.eap = f3a96c435e064903b1536fd22da4e37f
+|+| zakop.eap = ae92447af895b69f77606f6c85512631
