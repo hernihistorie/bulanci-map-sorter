@@ -104,7 +104,50 @@ if __name__ == "__main__":
     maps_for_sort_dir = Path("./unsorted_maps")
     sorted_maps_dir = Path("./_MAPS_/")
     hash_ls = "hashes.txt"
-    print("What is the origin of the files (write ID)?")
-    place = input("Enter place ID: ")
-    for file in maps_for_sort_dir.glob('*.eap'):
-        main()
+
+    # Check if unsorted_maps contains subfolders
+    subfolders = [f for f in maps_for_sort_dir.iterdir() if f.is_dir()]
+
+    if subfolders:
+        print("Folder mode detected (using subfolder names as place IDs).")
+
+        for folder in subfolders:
+            place = folder.name
+            print(f"\nProcessing folder: {place}")
+
+            for file in folder.glob("*.eap"):
+                try:
+                    file_hash = compute_file_hash(file)
+                    print(f"{file} = {file_hash}")
+
+                    y = check_hash(file_hash, place)
+
+                    if y:
+                        os.remove(file)
+                    else:
+                        new_filename = move_with_rename(file, sorted_maps_dir)
+                        write_hash(file_hash, new_filename)
+
+                except FileNotFoundError:
+                    print("File not found!")
+
+    else:
+        # Fallback to old manual mode
+        print("Single folder mode detected.")
+        place = input("Enter place ID: ")
+
+        for file in maps_for_sort_dir.glob("*.eap"):
+            try:
+                file_hash = compute_file_hash(file)
+                print(f"{file} = {file_hash}")
+
+                y = check_hash(file_hash, place)
+
+                if y:
+                    os.remove(file)
+                else:
+                    new_filename = move_with_rename(file, sorted_maps_dir)
+                    write_hash(file_hash, new_filename)
+
+            except FileNotFoundError:
+                print("File not found!")
