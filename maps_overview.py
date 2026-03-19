@@ -11,7 +11,7 @@ for filename in os.listdir(MAPS_DIR):
         filepath = os.path.join(MAPS_DIR, filename)
 
         base_name = filename[:-5]  # remove .json
-
+        print(f"Processing {filename}...")
         with open(filepath, "r", encoding="utf-8") as f:
             data = json.load(f)
 
