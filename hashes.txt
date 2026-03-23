@@ -587,3 +587,5 @@
 |+| pirati_1.eap = 77363c33f5f5e085310eba60732cb080
 |+| Pirati_z_Karibiku_2.eap = b74f18f303255ef331584d1b1b9156e3
 |+| podzim.eap = de5fc06512ec14cf0546a4c62b9f9a95
+|+| OrigWar.eap = a646fb1e874e86c2ce95020edd25e709
+|+| owar.eap = 50424cdeac53df2c2bc2a0ba22f5e3e8
