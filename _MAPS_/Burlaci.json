@@ -1,12 +1,14 @@
 {
     "Name": "Burlaci",
-    "Year": "",
-    "Author": "Tomáš Kukal",
+    "Year": "2007",
+    "Author": "Tom\u00e1\u0161 Kukal",
     "Places of Occurrences": [
         "Webshare_1",
         "nbulanci.blog.cz",
         "parime.estranky.cz",
         "tomaskukal.blog.cz",
-        "bulankov.blog.cz"
+        "bulankov.blog.cz",
+        "klansvobodnibulanci.blog.cz",
+        "mapsbulanci.blog.cz"
     ]
 }
