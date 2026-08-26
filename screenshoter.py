@@ -7,13 +7,54 @@ from subscriptable_path import Path
 from PIL import ImageGrab
 
 def bulanci_menu_clicker():
+    pyautogui.moveTo(285, 213)
+    time.sleep(1.5)
     os.system("gnome-terminal -- wine bulanci_hra/bulanci.exe")
     time.sleep(5.5)
-    pyautogui.click(x=285, y=213) #Click on "2 hráči"
+    pyautogui.moveTo(285, 213)
+    pyautogui.click(285, 213) #Click on "2 hráči"
+    pyautogui.click(285, 213)
+    pyautogui.click(285, 213)
+    pyautogui.click(285, 213)
+    pyautogui.click(285, 213)
     pyautogui.press("enter") #Click on "Dále"
     pyautogui.moveTo(275, 420)
-    pyautogui.click() #Click on Map
-    time.sleep(0.5)
+    pyautogui.click(275, 420) #Click on Map
+    pyautogui.click(275, 420)
+    pyautogui.click(275, 420)
+    pyautogui.click(275, 420)
+    pyautogui.click(275, 420)
+    pyautogui.click(275, 420)
+    pyautogui.click(275, 420)
+    pyautogui.click(275, 420)
+    pyautogui.click(275, 420)
+    pyautogui.click(275, 420)
+    pyautogui.click(275, 420)
+    pyautogui.click(275, 420)
+    pyautogui.click(275, 420)
+    pyautogui.click(275, 420)
+    pyautogui.click(275, 420)
+    pyautogui.click(275, 420)
+    pyautogui.click(275, 420)
+    pyautogui.click(275, 420)
+    pyautogui.click(275, 420)
+    pyautogui.click(275, 420)
+    pyautogui.click(275, 420)
+    pyautogui.click(275, 420)
+    pyautogui.click(275, 420)
+    pyautogui.click(275, 420)
+    pyautogui.click(275, 420)
+    pyautogui.click(275, 420)
+    pyautogui.click(275, 420)
+    pyautogui.click(275, 420)
+    pyautogui.click(275, 420)
+    pyautogui.click(275, 420)
+    pyautogui.click(275, 420)
+    pyautogui.click(275, 420)
+    pyautogui.click(275, 420)
+    pyautogui.click(275, 420)
+    pyautogui.click(275, 420) #Click on Map (This sometimes works and sometimes doesnt, so this is why it is spammed)
+    time.sleep(2)
     pyautogui.press("enter") #Click on "Začít hru"
     return True
 
@@ -22,7 +63,7 @@ def bulanci_screenshot(file_name):
     green = (135, 210, 33, 255)
     counter = 0
     while True:
-        time.sleep(0.5)
+        time.sleep(0.45)
         counter = counter + 1
         color = getpixelcolor.pixel(550, 574)
         print(color)
