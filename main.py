@@ -18,7 +18,7 @@ def main():
         print("6. Run Places Visualization")
         print("7. Exit")
 
-        choice = input("Select option (1-5): ")
+        choice = input("Select option (1-7): ")
 
         if choice == "1":
             run_script("hasher.py")
