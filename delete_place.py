@@ -1,7 +1,7 @@
 import os
 import json
 
-MAPS_DIR = "./_MAPS_"
+MAPS_DIR = "./maps_metadata"  # Directory containing the JSON files
 
 def remove_place_from_all():
     place_to_remove = input("Enter place to remove: ").strip()

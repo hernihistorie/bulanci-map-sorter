@@ -1,7 +1,8 @@
 import os
 import json
 
-MAPS_DIR = "./_MAPS_"
+MAPS_DIR = "./maps_metadata"  # Directory containing the JSON files
+IMG_DIR = "./maps"  # Directory containing the images
 OUTPUT_FILE = "maps_overview.html"
 
 rows_html = ""
@@ -33,8 +34,8 @@ for filename in os.listdir(MAPS_DIR):
                 <td>{author}</td>
                 <td>{places}</td>
                 <td>{places_count}</td>
-                <td><a href="{MAPS_DIR}/{image_main}" target="_blank"><img src="{MAPS_DIR}/{image_main}" class="thumb"></a></td>
-                <td><a href="{MAPS_DIR}/{image_load}" target="_blank"><img src="{MAPS_DIR}/{image_load}" class="thumb"></a></td>
+                <td><a href="{IMG_DIR}/{image_main}" target="_blank"><img src="{IMG_DIR}/{image_main}" class="thumb"></a></td>
+                <td><a href="{IMG_DIR}/{image_load}" target="_blank"><img src="{IMG_DIR}/{image_load}" class="thumb"></a></td>
             </tr>
 
             """

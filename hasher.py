@@ -30,7 +30,7 @@ def find_map_name(start_str, end_str):
         return substring
 
 def add_occurence(substring):
-    json_file = f"./_MAPS_/{substring[:-4]}.json"
+    json_file = f"./maps_metadata/{substring[:-4]}.json"
     print(json_file)
     # Load existing file
     with open(json_file, "r", encoding="utf-8") as file:
