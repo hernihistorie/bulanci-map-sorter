@@ -9,7 +9,7 @@ from collections import defaultdict
 
 # ── 1. Načtení dat ────────────────────────────────────────────────────────────
 
-MAPS_DIR = "_MAPS_"
+MAPS_DIR = "maps_metadata"  # Directory containing the JSON files
 
 poo_to_maps = defaultdict(set)
 

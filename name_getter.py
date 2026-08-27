@@ -34,12 +34,12 @@ def chceck_if_named(json_file):
 
 def main():
     file = str(file_path)
-    file = file.replace('maps/', '')
+    file = file.replace('_MAPS_/', '')
     json_file = f"./maps_metadata/{file[:-4]}.json"
     print(f"Checking {file}")
     y = chceck_if_named(json_file)
     if y == False:
-        shutil.copy(f"./maps/{file}", "./bulanci_hra/")
+        shutil.copy(f"./_MAPS_/{file}", "./bulanci_hra/")
         bulanci_menu_clicker()
         Name = bulanci_screenshot().strip()
         print(Name)
@@ -55,6 +55,6 @@ def main():
         os.remove(f"./bulanci_hra/{file}")
 
 if __name__ == "__main__":
-    maps = Path("./maps/")
+    maps = Path("./_MAPS_/")
     for file_path in maps.glob('*.eap'):
         main()

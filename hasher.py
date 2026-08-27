@@ -55,10 +55,10 @@ def check_hash(file_hash, place):
             file_str = str(file)
             file_str = file_str.replace('unsorted_maps/', '')
             base_name = (file_str)[:-4]
-            json_file = f"./_MAPS_/{base_name}.json"
+            json_file = f"./maps_metadata/{base_name}.json"
             counter = 1
             while os.path.exists(json_file):
-                json_file = f"./_MAPS_/{base_name}_{counter}.json"
+                json_file = f"./maps_metadata/{base_name}_{counter}.json"
                 counter += 1
             data = {
                 "Name": "",

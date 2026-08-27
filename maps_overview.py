@@ -2,7 +2,7 @@ import os
 import json
 
 MAPS_DIR = "./maps_metadata"  # Directory containing the JSON files
-IMG_DIR = "./maps"  # Directory containing the images
+IMG_DIR = "./_MAPS_"  # Directory containing the images
 OUTPUT_FILE = "maps_overview.html"
 
 rows_html = ""
