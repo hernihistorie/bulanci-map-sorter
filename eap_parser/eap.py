@@ -333,11 +333,6 @@ def read_tags(audio: bytes) -> Tags:
     return Tags(bitrate=getattr(mp3.info, 'bitrate', None), **text)
 
 
-def _decode_images(blobs: Iterable[bytes]) -> list[Image.Image]:
-    """Decode JPEG/BMP blobs with Pillow."""
-    return [Image.open(io.BytesIO(blob)) for blob in blobs]
-
-
 @dataclass(frozen=True)
 class MapData:
     """Everything one .eap file holds, parsed in a single pass.
