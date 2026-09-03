@@ -792,3 +792,6 @@
 |+| Union Cave.eap = ea5f9ac33fe4b7ea4271a3edbf97fffd
 |+| Victory Road.eap = ea54f789d78a1926eee5a8914287b7bc
 |+| Violet City.eap = 2b9c2d969c6b84b35c43e282830d2173
+|+| svandyksovo.eap = e5448bfcfd463c656f44bb223c946829
+|+| svandyksovo2.eap = 6914a2d011a2e17d1ea80a657c894ed9
+|+| svandyksovo3.eap = b2288e3b36e1f202dd85126eece7f9af
