@@ -1,0 +1,25 @@
+[project]
+name = "bulanci-map-sorter"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Sanqui", email = "me@sanqui.net" }
+]
+requires-python = ">=3.14"
+dependencies = [
+    "mutagen>=1.48.1",
+    "pillow>=12.3.0",
+]
+
+[project.scripts]
+bulanci-map-sorter = "bulanci_map_sorter:main"
+
+[build-system]
+requires = ["uv_build>=0.12.3,<0.13.0"]
+build-backend = "uv_build"
+
+[dependency-groups]
+dev = [
+    "pytest>=9.1.1",
+]
