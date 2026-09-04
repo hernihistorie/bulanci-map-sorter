@@ -11,8 +11,8 @@ def main():
     while True:
         print("\n=== MAIN MENU ===")
         print("1. Run Hasher")
-        print("2. Run Name Getter")
-        print("3. Run Screenshoter")
+        print("2. Get metadata from EAP files")
+        print("3. Get screenshots of maps")
         print("4. Make new HTML overview")
         print("5. Delete place")
         print("6. Run Places Visualization")
@@ -23,7 +23,7 @@ def main():
         if choice == "1":
             run_script("hasher.py")
         elif choice == "2":
-            run_script("name_getter.py")
+            run_script("metadata_from_eap.py")
         elif choice == "3":
             run_script("screenshoter.py")
         elif choice == "4":
