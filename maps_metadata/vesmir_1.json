@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "Vesmír",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "Cronos",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "Cronos"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "bulanci-levely.tym.cz",
         "bulanci.ososba.cz",

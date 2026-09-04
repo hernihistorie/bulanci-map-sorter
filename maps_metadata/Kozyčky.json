@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "A Kozyčky",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "Helča, Jirka",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "Helča, Jirka"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "UlozTo_gSEBSQra",
         "UlozTo_VJlDP5drkp1n",

@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "ru-zakladna",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "Iron Killer",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "Iron Killer"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "bulanci.ezin.cz"
     ]

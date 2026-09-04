@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "Zóna Bulánci",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "Iunfardos",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "Iunfardos"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "UlozTo_ZKerZ3ut",
         "bulanci.ezin.cz"

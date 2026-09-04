@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "Nekropolis",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "Spooky",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "Spooky"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "UlozTo_VJlDP5drkp1n",
         "bulanci.ezin.cz"

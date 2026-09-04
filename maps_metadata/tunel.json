@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "Tunel",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "2006",
-    "Author": "SnoPPi",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "SnoPPi"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "Webshare_1",
         "Webshare_2",

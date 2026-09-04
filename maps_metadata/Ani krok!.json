@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "Ani krok!",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "Michal Jungwirth",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "Michal Jungwirth"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "bulanci.ezin.cz"
     ]

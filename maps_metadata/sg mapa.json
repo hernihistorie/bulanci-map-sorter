@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "StarGate Atlantis level",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "Padouch.hr",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "Padouch.hr"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "Webshare_1",
         "UlozTo_VJlDP5drkp1n",

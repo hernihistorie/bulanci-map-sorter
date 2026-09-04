@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "WILD WEST",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "kaja_benes@seznam.cz",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "kaja_benes@seznam.cz"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "bulanci-levely.tym.cz",
         "UlozTo_ptcURkBxC",

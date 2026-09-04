@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "medieval slenderman",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "Jožoman & Luboman",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "Jožoman & Luboman"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "bulanci.ezin.cz"
     ]

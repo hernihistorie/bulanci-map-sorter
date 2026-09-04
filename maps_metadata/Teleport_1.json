@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "Teleport",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "Carl114",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "Carl114"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "Webshare_1",
         "bulanci-levely.tym.cz",

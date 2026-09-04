@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "Na podlaze...",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "Filip Řeha",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "Filip Řeha"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "bulanci.wbl.sk",
         "bulanci.yc.cz",

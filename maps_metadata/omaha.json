@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "omaha beach",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "K. Beneš",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "K. Beneš"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "UlozTo_kebj5JKv",
         "bulanci.osoba.cz",

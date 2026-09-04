@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "charlieho dragon",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "Charlie Stevens",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "Charlie Stevens"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "bulanci-levely.tym.cz",
         "UlozTo_5PsfU2pb917t",

@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "Antarktida",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "Hofik",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "Hofik"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "bulanci-levely.tym.cz",
         "UlozTo_5PsfU2pb917t",

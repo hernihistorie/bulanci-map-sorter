@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "Zootycoon2",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "2008",
-    "Author": "Jatka, Marketa",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "Jatka, Marketa"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "UlozTo_Xv9k9GeW",
         "jatka666.blog.cz",

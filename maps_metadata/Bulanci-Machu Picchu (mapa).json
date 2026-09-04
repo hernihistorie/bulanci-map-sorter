@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "Machu Picchu",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        ""
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "UlozTo_K7XJQ2YN",
         "bulanci.ezin.cz"

@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "_Švandyksovo_2",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "2026",
-    "Author": "Made",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "Made"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         ""
     ]

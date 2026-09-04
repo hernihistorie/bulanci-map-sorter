@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "Richard",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "Richard Podzemský",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "Richard Podzemský"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "bulanci-levely.tym.cz",
         "bulanci.ezin.cz"

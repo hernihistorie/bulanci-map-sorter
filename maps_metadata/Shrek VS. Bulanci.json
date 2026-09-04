@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "Shrek VS. Bulanci",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "MENTYR",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "MENTYR"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "UlozTo_AGMeJdR",
         "UlozTo_VJlDP5drkp1n",

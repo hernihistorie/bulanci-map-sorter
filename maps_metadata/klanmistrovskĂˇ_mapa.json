@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "Klanmistrovská mapa",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "2007",
-    "Author": "Tomáš Kukal",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "Tomáš Kukal"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "nbulanci.blog.cz",
         "parime.estranky.cz",

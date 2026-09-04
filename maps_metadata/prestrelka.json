@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "Přestřelka",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "Mirek Schnaubert",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "Mirek Schnaubert"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "bulanci.wbl.sk",
         "bulanci.yc.cz",

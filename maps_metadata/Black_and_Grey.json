@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "Black and Grey",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "2007",
-    "Author": "40cent, Blade",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "40cent, Blade"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "bulanci.ososba.cz",
         "UlozTo_5PsfU2pb917t",

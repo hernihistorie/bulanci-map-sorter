@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "bitka vianocny special",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "DOPELLSOLDER",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "DOPELLSOLDER"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "UlozTo_Z2A9PWMFt",
         "bulanci.ezin.cz"

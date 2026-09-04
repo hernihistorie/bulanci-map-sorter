@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "Kdo se bojí, neobstojí!",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "2007",
-    "Author": "Michal Hinda",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "Michal Hinda"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "Webshare_1",
         "nbulanci.blog.cz",

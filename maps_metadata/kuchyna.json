@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "V Kuchyni",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "2008",
-    "Author": "wupuchim",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "wupuchim"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "bulanci.ososba.cz",
         "UlozTo_5PsfU2pb917t",

@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "Mexiko",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "2008",
-    "Author": "Dr. Killer",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "Dr. Killer"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "Webshare_1",
         "drkiller.blog.cz",

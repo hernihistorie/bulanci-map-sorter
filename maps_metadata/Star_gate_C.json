@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "Star gate ©",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "2007",
-    "Author": "Petty",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "Petty"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "bulanci.ososba.cz",
         "UlozTo_5PsfU2pb917t",

@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "Minecraft",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "Bert.Q",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "Bert.Q"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "UlozTo_k2MCMoM1"
     ]

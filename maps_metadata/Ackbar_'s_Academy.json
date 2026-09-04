@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "Ackbar's Academy",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "2007",
-    "Author": "Kraamis",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "Kraamis"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "bulanci.ososba.cz",
         "UlozTo_5PsfU2pb917t",

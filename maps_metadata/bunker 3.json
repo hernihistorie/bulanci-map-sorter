@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "rezygame.eu - bunker 3",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        ""
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "UlozTo_Z2A9PWMFt",
         "bulanci.ezin.cz"

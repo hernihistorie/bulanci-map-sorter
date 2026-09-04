@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "Level",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "2007",
-    "Author": "Made",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "Made"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "nbulanci.blog.cz",
         "bulanci-levely.tym.cz",

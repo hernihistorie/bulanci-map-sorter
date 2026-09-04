@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "The War ©",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "Jan Homolka",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "Jan Homolka"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "bulanci.ezin.cz"
     ]

@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "Keltové",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "2009",
-    "Author": "Tomáš Kukal",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "Tomáš Kukal"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "Webshare_1",
         "klansvobodnibulanci.blog.cz",

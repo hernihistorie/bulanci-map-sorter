@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "Tanky ][",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "BOREC XL",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "BOREC XL"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "UlozTo_aV4hqDNG",
         "bulanci.ezin.cz"

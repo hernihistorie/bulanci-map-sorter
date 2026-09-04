@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "*Reign of Pillows",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        ""
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "bulani.wbs.cz",
         "UlozTo_r1oHhJas",

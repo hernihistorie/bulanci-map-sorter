@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "MOTOR ČB by TONY-VOCKO",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "TONY-VOCKO",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "TONY-VOCKO"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "UlozTo_5qb7gq1d",
         "UlozTo_nzMRJyGG",

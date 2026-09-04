@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "Twister",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "2008",
-    "Author": "Ján Kucan",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "Ján Kucan"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "Webshare_1",
         "bulani.wbs.cz",

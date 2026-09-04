@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "Bludiště 3 ",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "2007",
-    "Author": "Knoflík",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "Knoflík"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "bulanci9.blog.cz",
         "bulanci-levely.tym.cz",

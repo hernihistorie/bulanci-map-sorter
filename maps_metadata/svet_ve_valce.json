@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "Svět Ve Válce",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "NJDG30rPP",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "NJDG30rPP"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "UlozTo_VkVQwzH5",
         "UlozTo_nzMRJyGG",

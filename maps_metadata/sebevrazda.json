@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "Worms3-sebevražedná verze",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "2008",
-    "Author": "Jatka",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "Jatka"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "UlozTo_Xv9k9GeW",
         "jatka666.blog.cz",

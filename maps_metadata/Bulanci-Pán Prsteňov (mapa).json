@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "Pán Prsteňov",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        ""
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "UlozTo_7T8Bjs5A",
         "bulanci.ezin.cz"

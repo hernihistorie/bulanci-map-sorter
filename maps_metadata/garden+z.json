@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "Sven: Garten (+zombies)",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "Takk Moil",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "Takk Moil"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "bulanci.ososba.cz",
         "parime.estranky.cz",

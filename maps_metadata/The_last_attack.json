@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "The last attack",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "Michael de Vile",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "Michael de Vile"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "bulanci.ososba.cz",
         "UlozTo_5PsfU2pb917t",

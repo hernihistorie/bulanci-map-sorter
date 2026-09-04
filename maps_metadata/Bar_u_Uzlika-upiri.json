@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "Bar u Uzlíka-Upíři",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        ""
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "jatka666.blog.cz",
         "UlozTo_5PsfU2pb917t",

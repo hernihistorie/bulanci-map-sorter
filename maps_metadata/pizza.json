@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "PizZa",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "SCRAT",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "SCRAT"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "UlozTo_VJlDP5drkp1n",
         "bulanci.ezin.cz"

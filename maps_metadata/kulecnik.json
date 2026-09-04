@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "Kulečník",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "Filip Řeha",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "Filip Řeha"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "Webshare_1",
         "bulanci.wbl.sk",

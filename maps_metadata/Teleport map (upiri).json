@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "Teleport map (upiri)",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "B&D Team",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "B&D Team"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "UlozTo_GNA9yQZa",
         "UlozTo_gSEBSQra",

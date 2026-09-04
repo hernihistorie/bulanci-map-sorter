@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "Šťaba chčije",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        ""
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "UlozTo_STRfY5GX",
         "bulanci.ezin.cz"

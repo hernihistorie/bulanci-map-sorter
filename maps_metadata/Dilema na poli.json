@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "Dilema na poli",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "TheLukasluk",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "TheLukasluk"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "UlozTo_MiwQUcMc"
     ]

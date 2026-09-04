@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "Na památku",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "ondraxa",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "ondraxa"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "bulanci-levely.tym.cz"
     ]

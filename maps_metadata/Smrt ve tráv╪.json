@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "Smrt ve trávě",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "bulda15",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "bulda15"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "UlozTo_2ee8Dsdi",
         "UlozTo_nzMRJyGG",

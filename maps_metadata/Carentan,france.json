@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "Carentan,France",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "FoSSie",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "FoSSie"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "bulanci.ezin.cz"
     ]

@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "Popraviště",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "Memphis",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "Memphis"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "bulanci.ezin.cz"
     ]

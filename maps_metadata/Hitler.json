@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "Hitler",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "Dr. Killer",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "Dr. Killer"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "bulanci.ezin.cz"
     ]

@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "Přejetý",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "Septiq",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "Septiq"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "parime.estranky.cz",
         "bulankov.blog.cz",

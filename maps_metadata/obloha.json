@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "obloha",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "Znicitel",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "Znicitel"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "UlozTo_gSEBSQra",
         "UlozTo_VJlDP5drkp1n",

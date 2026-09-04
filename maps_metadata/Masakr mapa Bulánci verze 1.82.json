@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "Masakr",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "Doby",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "Doby"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "UlozTo_wqq2iX666Ie1"
     ]

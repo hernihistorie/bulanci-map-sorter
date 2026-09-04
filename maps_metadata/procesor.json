@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "Procesor",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "Andrej Macuľa",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "Andrej Macuľa"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "UlozTo_Z2A9PWMFt",
         "bulanci.ezin.cz"

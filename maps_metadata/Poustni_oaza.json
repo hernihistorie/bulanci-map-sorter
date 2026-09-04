@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "Pouštní oáza",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        ""
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "bulani.wbs.cz",
         "UlozTo_PtFJEKLMB",

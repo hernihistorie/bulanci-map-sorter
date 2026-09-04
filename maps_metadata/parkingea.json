@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "Parking (easy)",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "Smiley",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "Smiley"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "UlozTo_Y1Td8sC",
         "bulanci.ezin.cz"

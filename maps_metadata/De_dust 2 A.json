@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "De_Dust 2 A",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        ""
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "bulanci-map.webnode.sk"
     ]

@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "Halloween 2-bez nepřátel",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "Tomáš Kukal",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "Tomáš Kukal"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "bulanci.ezin.cz",
         "mapsbulanci.blog.cz",

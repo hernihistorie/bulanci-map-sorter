@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "Dárek pro každého",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "TERCIE-B",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "TERCIE-B"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "bulanci-levely.tym.cz",
         "UlozTo_5PsfU2pb917t",

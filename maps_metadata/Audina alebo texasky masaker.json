@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "Audina alebo Masaker texaskou...",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "DzUsiK",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "DzUsiK"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "bulanci.ezin.cz"
     ]

@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "Ruská základna",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "Minatory",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "Minatory"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "bulankov.blog.cz",
         "bulanci.ezin.cz"

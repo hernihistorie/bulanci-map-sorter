@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "Vietcong - čínské ruiny",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "Paull25",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "Paull25"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "bulanci.ezin.cz"
     ]

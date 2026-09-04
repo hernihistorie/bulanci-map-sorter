@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "Lavice",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "2007",
-    "Author": "ANONYM",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "ANONYM"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "bulanci.ososba.cz",
         "UlozTo_5PsfU2pb917t",

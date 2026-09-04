@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "Zaminovano obcas zombie ...",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "X_warcraft_X",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "X_warcraft_X"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "UlozTo_VJlDP5drkp1n",
         "bulanci.ezin.cz"

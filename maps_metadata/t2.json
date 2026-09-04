@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "TutRemake",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "Green Killer",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "Green Killer"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "s-clan.wz.cz"
     ]

@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "Pat and Mat",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "funMahdi",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "funMahdi"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "bulanci.ezin.cz",
         "bulanci-levely.tym.cz"

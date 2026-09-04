@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "duch a jednorožec",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "2007",
-    "Author": "Tomáš Kukal",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "Tomáš Kukal"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "tomaskukal.blog.cz",
         "bulankov.blog.cz",

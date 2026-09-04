@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "Owar boj",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "53rgi",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "53rgi"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "bulankov.blog.cz",
         "bulanci.ezin.cz"

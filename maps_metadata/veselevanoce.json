@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "Veselé Vánoce",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "2007",
-    "Author": "Dr. Killer",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "Dr. Killer"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "drkiller.blog.cz",
         "UlozTo_VJlDP5drkp1n",

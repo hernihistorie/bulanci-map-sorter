@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "Violet City",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "Snorlax",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "Snorlax"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "bulanci.ezin.cz"
     ]

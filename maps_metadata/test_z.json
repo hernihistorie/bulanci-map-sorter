@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "Zabíjená",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        ""
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "s-clan.wz.cz",
         "bulanci.ezin.cz"

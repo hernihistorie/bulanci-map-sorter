@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "pozor",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "2008",
-    "Author": "Ján Kucan",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "Ján Kucan"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "UlozTo_gSEBSQra",
         "UlozTo_PKBUhQsy",

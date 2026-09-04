@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "Fotbal na ledu",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "Made",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "Made"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "bulanci.ezin.cz",
         "tomaskukal.blog.cz",

@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "Stonehenge",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "2007",
-    "Author": "Gandalf",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "Gandalf"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "bulanci-levely.tym.cz",
         "gandalf.estranky.cz",

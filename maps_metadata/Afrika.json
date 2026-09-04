@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "Afrika",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "2008",
-    "Author": "Red Bull",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "Red Bull"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "UlozTo_Xv9k9GeW",
         "jatka666.blog.cz",

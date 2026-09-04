@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "Moskva",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "Skull55",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "Skull55"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "UlozTo_hSv82xliMxgF"
     ]

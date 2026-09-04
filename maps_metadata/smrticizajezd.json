@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "Smrtící zájezd",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "2010",
-    "Author": "JP3035",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "JP3035"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "levelydobulanku.wbs.cz",
         "bulanci.ezin.cz"

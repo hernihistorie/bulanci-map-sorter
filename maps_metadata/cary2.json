@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "Čáry XXL",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "2007",
-    "Author": "Knoflík",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "Knoflík"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "bulanci9.blog.cz",
         "UlozTo_r1oHhJas",

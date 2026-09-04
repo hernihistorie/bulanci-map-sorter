@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "Divokej Bill",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "2007",
-    "Author": "TERCIE-B",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "TERCIE-B"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "bulanci-levely.tym.cz",
         "bulanci.ososba.cz",

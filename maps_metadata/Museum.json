@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "Museum of Curiosities",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "2007",
-    "Author": "AvilX",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "AvilX"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "Webshare_1",
         "bulani.wbs.cz",

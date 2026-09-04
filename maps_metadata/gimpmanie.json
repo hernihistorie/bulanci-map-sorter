@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "Gimpmánie",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "Lineman",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "Lineman"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "bulanci-levely.tym.cz",
         "UlozTo_5PsfU2pb917t",

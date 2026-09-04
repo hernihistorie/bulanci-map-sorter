@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "svět 3005",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "2006",
-    "Author": "Zombík",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "Zombík"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "Webshare_1",
         "Webshare_2",

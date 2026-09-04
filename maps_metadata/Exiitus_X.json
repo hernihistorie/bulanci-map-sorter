@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "Exitus X domeček",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "Dominik",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "Dominik"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "bulanci.ezin.cz"
     ]

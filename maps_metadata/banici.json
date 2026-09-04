@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "bulančia baňa",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "Jozuo",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "Jozuo"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "bulanci.ezin.cz"
     ]

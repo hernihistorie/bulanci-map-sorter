@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "Captain America",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        ""
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "UlozTo_Dq1SQBT7",
         "bulanci.ezin.cz"

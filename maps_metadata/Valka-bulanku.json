@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "Válka bulánků",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "2007",
-    "Author": "Tomba",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "Tomba"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "bulanci.ososba.cz",
         "UlozTo_5PsfU2pb917t",

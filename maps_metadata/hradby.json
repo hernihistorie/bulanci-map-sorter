@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "On the Castle",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "2007",
-    "Author": "",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        ""
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "bulanci-levely.tym.cz",
         "parime.estranky.cz",

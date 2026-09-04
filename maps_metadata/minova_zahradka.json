@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "Minová Zahrádka",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "2007",
-    "Author": "Knoflík",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "Knoflík"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "UlozTo_5PsfU2pb917t",
         "klubhobit.blog.cz",

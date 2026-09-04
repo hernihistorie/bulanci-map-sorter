@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "bludiště",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "Stoky",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "Stoky"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "UlozTo_jFfzxErC",
         "bulanci.ezin.cz"

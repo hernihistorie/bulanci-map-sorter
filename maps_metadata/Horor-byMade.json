@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": ".:>Horor<:.",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "2006",
-    "Author": "Made",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "Made"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "nbulanci.blog.cz",
         "UlozTo_VJlDP5drkp1n",

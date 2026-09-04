@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "level 111",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "Made",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "Made"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "Webshare_1",
         "bulanci.ezin.cz"

@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "minová obloha",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "Mirek Schnaubert",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "Mirek Schnaubert"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "bulanci-levely.tym.cz",
         "UlozTo_5PsfU2pb917t",

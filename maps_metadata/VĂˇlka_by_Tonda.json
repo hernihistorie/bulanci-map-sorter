@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "Válka by Tonda",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "smartwas, Tonda",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "smartwas, Tonda"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "bulanci.ososba.cz",
         "UlozTo_5PsfU2pb917t",

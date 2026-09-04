@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "Kulečník by TONY-VOCKO",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "TONY-VOCKO",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "TONY-VOCKO"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "UlozTo_1wd1dzZC",
         "bulanci.ezin.cz"

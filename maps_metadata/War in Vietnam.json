@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "War In Vietnam",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "Master",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "Master"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "UlozTo_fSUcKKQb",
         "UlozTo_nzMRJyGG",

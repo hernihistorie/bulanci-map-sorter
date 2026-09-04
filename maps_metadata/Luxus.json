@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "Luxus",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "2007",
-    "Author": "Ulfshardje",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "Ulfshardje"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "bulani.wbs.cz",
         "bulanci.ososba.cz",

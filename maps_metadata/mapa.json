@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "LoM_Mapa",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "Démon industries",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "Démon industries"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "UlozTo_jq3GuuQpc",
         "bulanci.ezin.cz"

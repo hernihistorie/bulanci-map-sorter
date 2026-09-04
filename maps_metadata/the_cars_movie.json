@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "The Cars Movie",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "TERCIE-B",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "TERCIE-B"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "bulanci.ososba.cz",
         "UlozTo_5PsfU2pb917t",

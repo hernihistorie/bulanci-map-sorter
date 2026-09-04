@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "Vězení",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "Doby",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "Doby"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "UlozTo_9GWKxHiY19CD"
     ]

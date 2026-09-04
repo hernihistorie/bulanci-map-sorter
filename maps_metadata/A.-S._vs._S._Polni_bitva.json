@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "A.-S. vs. S. Polní bitva",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "smartwas",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "smartwas"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "bulani.wbs.cz",
         "UlozTo_r1oHhJas",

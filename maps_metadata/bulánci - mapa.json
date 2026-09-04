@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "Dobývání pevnosti",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "Iunfardos",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "Iunfardos"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "UlozTo_jhD22xiN",
         "bulanci.ezin.cz"

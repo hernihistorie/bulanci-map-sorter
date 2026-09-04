@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "Válka",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "2006",
-    "Author": "Honza",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "Honza"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "Webshare_1",
         "Webshare_2",

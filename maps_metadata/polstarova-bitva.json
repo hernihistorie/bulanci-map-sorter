@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "Polštářová bitva",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "Rox Cox",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "Rox Cox"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "bulani.wbs.cz",
         "UlozTo_r1oHhJas",

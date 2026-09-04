@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "Vesnice",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "Xmilan",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "Xmilan"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "bulanci-levely.tym.cz",
         "UlozTo_5PsfU2pb917t",

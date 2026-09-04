@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "Windows",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "tomo.",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "tomo."
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "UlozTo_pkKPfQRK",
         "bulanci.ezin.cz"

@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "Těžké časy",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "Jary ml",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "Jary ml"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "bulanci.ezin.cz"
     ]

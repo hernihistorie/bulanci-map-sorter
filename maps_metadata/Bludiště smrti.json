@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "Bludiště smrti",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        ""
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "UlozTo_cgWj8DS6",
         "bulanci.ezin.cz"

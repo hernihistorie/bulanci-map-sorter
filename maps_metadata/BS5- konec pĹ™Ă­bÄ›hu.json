@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "BS5- konec příběhu",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "2008",
-    "Author": "smartwas",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "smartwas"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "bulanci.ososba.cz",
         "UlozTo_5PsfU2pb917t",

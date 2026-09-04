@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "2krát nic bez chleba",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "2007",
-    "Author": "Tomáš Kukal",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "Tomáš Kukal"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "tomaskukal.blog.cz",
         "bulankov.blog.cz",

@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "Western",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "2006",
-    "Author": "Petike",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "Petike"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "Webshare_1",
         "Webshare_2",

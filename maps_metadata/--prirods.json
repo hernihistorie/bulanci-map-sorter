@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "Přežít v přírodě",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "Risa Weiss",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "Risa Weiss"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "bulanci.ezin.cz"
     ]

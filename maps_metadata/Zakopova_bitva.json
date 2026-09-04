@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "*Zákopová válka",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "2007",
-    "Author": "",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        ""
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "bulani.wbs.cz",
         "bulanci.ososba.cz",

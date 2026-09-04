@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "Western",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "Petike",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "Petike"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "bulanci-levely.tym.cz",
         "parime.estranky.cz",

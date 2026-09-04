@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "Půdorys",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "2007",
-    "Author": "Mostly Harmless",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "Mostly Harmless"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "nbulanci.blog.cz",
         "bulanci.ososba.cz",

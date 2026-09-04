@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "prepad nákupného centra",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "jozuou",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "jozuou"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "bulanci.ezin.cz"
     ]

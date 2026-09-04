@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "No name",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "Beerman",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "Beerman"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "UlozTo_bVGedWL3",
         "bulanci.ezin.cz"

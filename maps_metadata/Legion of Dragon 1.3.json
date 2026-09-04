@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "Legion_of_Dragon_1.3",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "Drakensang",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "Drakensang"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "UlozTo_8hDRF5zu",
         "UlozTo_nzMRJyGG",

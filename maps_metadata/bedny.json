@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "bedny",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "davidpalecek@seznam.cz",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "davidpalecek@seznam.cz"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "UlozTo_R65uFeHd",
         "UlozTo_bVGedWL3",

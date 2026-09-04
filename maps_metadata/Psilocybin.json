@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "Psilocybe",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        ""
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "UlozTo_RwUo5R313",
         "bulanci.ezin.cz"

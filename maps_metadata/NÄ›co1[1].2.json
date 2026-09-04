@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "Něco_1.2",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "Nequos",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "Nequos"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "bulanci.ososba.cz",
         "UlozTo_5PsfU2pb917t",

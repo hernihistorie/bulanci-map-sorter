@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "Stanica",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "DRURY",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "DRURY"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "Webshare_1",
         "bulani.wbs.cz",

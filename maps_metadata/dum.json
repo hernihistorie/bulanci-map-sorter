@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "Všude dobře, doma nejlíp",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "witiko",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "witiko"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "bulanci-levely.tym.cz",
         "UlozTo_5PsfU2pb917t",

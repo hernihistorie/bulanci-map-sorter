@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "Holi LVL",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "Lukáš Holeczy",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "Lukáš Holeczy"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "UlozTo_5PsfU2pb917t",
         "bulanci.ezin.cz"

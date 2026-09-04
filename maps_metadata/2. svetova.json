@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "2. svetova",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "Sergejovic",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "Sergejovic"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "bulanci.ezin.cz"
     ]

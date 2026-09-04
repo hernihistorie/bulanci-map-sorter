@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "detoxikace 2",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "2007",
-    "Author": "Kuba",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "Kuba"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "Webshare_1",
         "nbulanci.blog.cz",

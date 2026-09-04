@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "Mofilo",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "Michael de Vile",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "Michael de Vile"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "bulanci.ezin.cz"
     ]

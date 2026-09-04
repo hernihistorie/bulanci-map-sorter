@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "V zajetí lesa",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        ""
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "UlozTo_FoW0g0KYtHNp"
     ]

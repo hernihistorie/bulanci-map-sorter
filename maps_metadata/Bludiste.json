@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "Bludiště",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "2006",
-    "Author": "Carl114",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "Carl114"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "maps-of-bulanci.wz.cz",
         "bulani.wbs.cz",

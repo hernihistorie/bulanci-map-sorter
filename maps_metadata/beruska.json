@@ -1,7 +1,16 @@
 {
+    "GUID": "",
     "Name": "Zmutovaná beruška XXX",
+    "Privacy": "visible",
+    "NSFW": "false",
     "Year": "",
-    "Author": "paprii",
+    "Description": "",
+    "Description_source": "",
+    "Author": [
+        "paprii"
+    ],
+    "Author_eap": "",
+    "Music": "",
     "Places of Occurrences": [
         "nbulanci.blog.cz",
         "bulanci-levely.tym.cz",
