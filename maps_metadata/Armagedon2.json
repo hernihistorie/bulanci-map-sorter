@@ -1,5 +1,5 @@
 {
-    "guid": "",
+    "guid": "43EBA000-D91D-43DC-B04A-34D6A6700C32",
     "name": "Armagedon",
     "privacy": "visible",
     "nsfw": false,
@@ -9,7 +9,7 @@
     "author": [
         "Kejo"
     ],
-    "author_eap": "",
+    "author_eap": "kejo",
     "music": "",
     "places_of_occurrences": [
         "bulanci.ezin.cz"

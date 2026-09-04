@@ -1,5 +1,5 @@
 {
-    "guid": "",
+    "guid": "08FCF65A-CCC0-4B08-BC69-8ADBBB18BB16",
     "name": "Přestřelka",
     "privacy": "visible",
     "nsfw": false,
@@ -9,8 +9,8 @@
     "author": [
         "Mirek Schnaubert"
     ],
-    "author_eap": "",
-    "music": "",
+    "author_eap": "SCHNAUBELT",
+    "music": "AudioTrack 03 (Tatu)",
     "places_of_occurrences": [
         "bulanci.wbl.sk",
         "bulanci.yc.cz",

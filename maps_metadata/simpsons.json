@@ -1,5 +1,5 @@
 {
-    "guid": "",
+    "guid": "04B2FF55-9FDF-44D9-826F-9E76E8906E78",
     "name": "Simpsons",
     "privacy": "visible",
     "nsfw": false,
@@ -9,8 +9,8 @@
     "author": [
         "Ján Kucan"
     ],
-    "author_eap": "",
-    "music": "",
+    "author_eap": "Ján Kucan",
+    "music": "AudioTrack 02 (no artist)",
     "places_of_occurrences": [
         "Webshare_1",
         "UlozTo_gSEBSQra",
