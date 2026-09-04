@@ -46,9 +46,3 @@ if __name__ == "__main__":
     maps = Path("./_MAPS_/")
     for file_path in maps.glob('*.eap'):
         main()
-    if skipped_maps:
-        print(f"\nSKIPPED MAPS")
-        for map_name in skipped_maps:
-            print(f"{map_name}")
-    else:
-        print("\nNo maps were skipped.")
