@@ -1,17 +1,17 @@
 {
-    "GUID": "",
-    "Name": "WCROOM",
-    "Privacy": "visible",
-    "NSFW": "false",
-    "Year": "",
-    "Description": "",
-    "Description_source": "",
-    "Author": [
+    "guid": "",
+    "name": "WCROOM",
+    "privacy": "visible",
+    "nsfw": false,
+    "year": "",
+    "description": "",
+    "description_source": "",
+    "author": [
         ""
     ],
-    "Author_eap": "",
-    "Music": "",
-    "Places of Occurrences": [
+    "author_eap": "",
+    "music": "",
+    "places_of_occurrences": [
         "UlozTo_RNHnUu49",
         "bulanci.ezin.cz"
     ]

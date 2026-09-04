@@ -1,17 +1,17 @@
 {
-    "GUID": "",
-    "Name": "Zabíjená",
-    "Privacy": "visible",
-    "NSFW": "false",
-    "Year": "",
-    "Description": "",
-    "Description_source": "",
-    "Author": [
+    "guid": "",
+    "name": "Zabíjená",
+    "privacy": "visible",
+    "nsfw": false,
+    "year": "",
+    "description": "",
+    "description_source": "",
+    "author": [
         ""
     ],
-    "Author_eap": "",
-    "Music": "",
-    "Places of Occurrences": [
+    "author_eap": "",
+    "music": "",
+    "places_of_occurrences": [
         "s-clan.wz.cz",
         "bulanci.ezin.cz"
     ]

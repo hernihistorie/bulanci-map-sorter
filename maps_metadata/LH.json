@@ -1,17 +1,17 @@
 {
-    "GUID": "",
-    "Name": "Mafia Little Italy",
-    "Privacy": "visible",
-    "NSFW": "false",
-    "Year": "",
-    "Description": "",
-    "Description_source": "",
-    "Author": [
+    "guid": "",
+    "name": "Mafia Little Italy",
+    "privacy": "visible",
+    "nsfw": false,
+    "year": "",
+    "description": "",
+    "description_source": "",
+    "author": [
         ""
     ],
-    "Author_eap": "",
-    "Music": "",
-    "Places of Occurrences": [
+    "author_eap": "",
+    "music": "",
+    "places_of_occurrences": [
         "UlozTo_oiRcpJY0HX29",
         "bulanci.ezin.cz"
     ]

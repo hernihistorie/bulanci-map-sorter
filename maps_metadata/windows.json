@@ -1,17 +1,17 @@
 {
-    "GUID": "",
-    "Name": "Windows XP",
-    "Privacy": "visible",
-    "NSFW": "false",
-    "Year": "",
-    "Description": "",
-    "Description_source": "",
-    "Author": [
+    "guid": "",
+    "name": "Windows XP",
+    "privacy": "visible",
+    "nsfw": false,
+    "year": "",
+    "description": "",
+    "description_source": "",
+    "author": [
         "witiko"
     ],
-    "Author_eap": "",
-    "Music": "",
-    "Places of Occurrences": [
+    "author_eap": "",
+    "music": "",
+    "places_of_occurrences": [
         "bulanci-levely.tym.cz",
         "UlozTo_5PsfU2pb917t",
         "bulanci.ezin.cz"

@@ -1,17 +1,17 @@
 {
-    "GUID": "",
-    "Name": "Modrá díra FB",
-    "Privacy": "visible",
-    "NSFW": "false",
-    "Year": "",
-    "Description": "",
-    "Description_source": "",
-    "Author": [
+    "guid": "",
+    "name": "Modrá díra FB",
+    "privacy": "visible",
+    "nsfw": false,
+    "year": "",
+    "description": "",
+    "description_source": "",
+    "author": [
         "JP3035"
     ],
-    "Author_eap": "",
-    "Music": "",
-    "Places of Occurrences": [
+    "author_eap": "",
+    "music": "",
+    "places_of_occurrences": [
         "levelydobulanku.wbs.cz",
         "bulanci.ezin.cz"
     ]

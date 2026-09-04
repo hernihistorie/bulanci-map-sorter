@@ -1,17 +1,17 @@
 {
-    "GUID": "",
-    "Name": "Sven Made 2",
-    "Privacy": "visible",
-    "NSFW": "false",
-    "Year": "2007",
-    "Description": "",
-    "Description_source": "",
-    "Author": [
+    "guid": "",
+    "name": "Sven Made 2",
+    "privacy": "visible",
+    "nsfw": false,
+    "year": 2007,
+    "description": "",
+    "description_source": "",
+    "author": [
         "Made"
     ],
-    "Author_eap": "",
-    "Music": "",
-    "Places of Occurrences": [
+    "author_eap": "",
+    "music": "",
+    "places_of_occurrences": [
         "bulanci-levely.tym.cz",
         "bulanci.ososba.cz",
         "tomaskukal.blog.cz",

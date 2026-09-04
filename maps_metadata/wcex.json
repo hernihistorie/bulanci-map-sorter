@@ -1,17 +1,17 @@
 {
-    "GUID": "",
-    "Name": "WarCraft express",
-    "Privacy": "visible",
-    "NSFW": "false",
-    "Year": "2008",
-    "Description": "",
-    "Description_source": "",
-    "Author": [
+    "guid": "",
+    "name": "WarCraft express",
+    "privacy": "visible",
+    "nsfw": false,
+    "year": 2008,
+    "description": "",
+    "description_source": "",
+    "author": [
         "Made"
     ],
-    "Author_eap": "",
-    "Music": "",
-    "Places of Occurrences": [
+    "author_eap": "",
+    "music": "",
+    "places_of_occurrences": [
         "bulani.wbs.cz",
         "nbulanci.blog.cz",
         "UlozTo_r1oHhJas",

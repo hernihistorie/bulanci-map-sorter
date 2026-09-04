@@ -1,17 +1,17 @@
 {
-    "GUID": "",
-    "Name": "WILD WEST",
-    "Privacy": "visible",
-    "NSFW": "false",
-    "Year": "",
-    "Description": "",
-    "Description_source": "",
-    "Author": [
+    "guid": "",
+    "name": "WILD WEST",
+    "privacy": "visible",
+    "nsfw": false,
+    "year": "",
+    "description": "",
+    "description_source": "",
+    "author": [
         "kaja_benes@seznam.cz"
     ],
-    "Author_eap": "",
-    "Music": "",
-    "Places of Occurrences": [
+    "author_eap": "",
+    "music": "",
+    "places_of_occurrences": [
         "bulanci-levely.tym.cz",
         "UlozTo_ptcURkBxC",
         "UlozTo_kebj5JKv",

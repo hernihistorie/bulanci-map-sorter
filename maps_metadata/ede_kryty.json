@@ -1,17 +1,17 @@
 {
-    "GUID": "",
-    "Name": "Šedé kryty",
-    "Privacy": "visible",
-    "NSFW": "false",
-    "Year": "",
-    "Description": "",
-    "Description_source": "",
-    "Author": [
+    "guid": "",
+    "name": "Šedé kryty",
+    "privacy": "visible",
+    "nsfw": false,
+    "year": "",
+    "description": "",
+    "description_source": "",
+    "author": [
         "Tomáš Kukal"
     ],
-    "Author_eap": "",
-    "Music": "",
-    "Places of Occurrences": [
+    "author_eap": "",
+    "music": "",
+    "places_of_occurrences": [
         "UlozTo_Xv9k9GeW",
         "bulanci.ezin.cz"
     ]

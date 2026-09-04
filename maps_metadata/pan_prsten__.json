@@ -1,17 +1,17 @@
 {
-    "GUID": "",
-    "Name": "Pán prstenů",
-    "Privacy": "visible",
-    "NSFW": "false",
-    "Year": "",
-    "Description": "",
-    "Description_source": "",
-    "Author": [
+    "guid": "",
+    "name": "Pán prstenů",
+    "privacy": "visible",
+    "nsfw": false,
+    "year": "",
+    "description": "",
+    "description_source": "",
+    "author": [
         "Wil Turnerr"
     ],
-    "Author_eap": "",
-    "Music": "",
-    "Places of Occurrences": [
+    "author_eap": "",
+    "music": "",
+    "places_of_occurrences": [
         "UlozTo_Xv9k9GeW",
         "mapsbulanci.blog.cz",
         "bulankov.blog.cz",

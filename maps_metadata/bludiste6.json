@@ -1,17 +1,17 @@
 {
-    "GUID": "",
-    "Name": "-Bludiště XXL 6-",
-    "Privacy": "visible",
-    "NSFW": "false",
-    "Year": "2008",
-    "Description": "",
-    "Description_source": "",
-    "Author": [
+    "guid": "",
+    "name": "-Bludiště XXL 6-",
+    "privacy": "visible",
+    "nsfw": false,
+    "year": 2008,
+    "description": "",
+    "description_source": "",
+    "author": [
         "Knoflík"
     ],
-    "Author_eap": "",
-    "Music": "",
-    "Places of Occurrences": [
+    "author_eap": "",
+    "music": "",
+    "places_of_occurrences": [
         "bulanci9.blog.cz",
         "UlozTo_PKBUhQsy",
         "UlozTo_r1oHhJas",

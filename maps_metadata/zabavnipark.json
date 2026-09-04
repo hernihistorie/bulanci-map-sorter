@@ -1,17 +1,17 @@
 {
-    "GUID": "",
-    "Name": "Zábavní park",
-    "Privacy": "visible",
-    "NSFW": "false",
-    "Year": "2007",
-    "Description": "",
-    "Description_source": "",
-    "Author": [
+    "guid": "",
+    "name": "Zábavní park",
+    "privacy": "visible",
+    "nsfw": false,
+    "year": 2007,
+    "description": "",
+    "description_source": "",
+    "author": [
         "K. Beneš"
     ],
-    "Author_eap": "",
-    "Music": "",
-    "Places of Occurrences": [
+    "author_eap": "",
+    "music": "",
+    "places_of_occurrences": [
         "bulanci-levely.tym.cz",
         "bulanci.ososba.cz",
         "UlozTo_kebj5JKv",

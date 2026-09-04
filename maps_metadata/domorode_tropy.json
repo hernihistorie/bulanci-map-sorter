@@ -1,17 +1,17 @@
 {
-    "GUID": "",
-    "Name": "Domorodé tropy",
-    "Privacy": "visible",
-    "NSFW": "false",
-    "Year": "2007",
-    "Description": "",
-    "Description_source": "",
-    "Author": [
+    "guid": "",
+    "name": "Domorodé tropy",
+    "privacy": "visible",
+    "nsfw": false,
+    "year": 2007,
+    "description": "",
+    "description_source": "",
+    "author": [
         "Hofik"
     ],
-    "Author_eap": "",
-    "Music": "",
-    "Places of Occurrences": [
+    "author_eap": "",
+    "music": "",
+    "places_of_occurrences": [
         "bulanci-levely.tym.cz",
         "bulanci.ososba.cz",
         "UlozTo_kebj5JKv",

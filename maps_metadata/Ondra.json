@@ -1,17 +1,17 @@
 {
-    "GUID": "",
-    "Name": "Ondra",
-    "Privacy": "visible",
-    "NSFW": "false",
-    "Year": "2007",
-    "Description": "",
-    "Description_source": "",
-    "Author": [
+    "guid": "",
+    "name": "Ondra",
+    "privacy": "visible",
+    "nsfw": false,
+    "year": 2007,
+    "description": "",
+    "description_source": "",
+    "author": [
         "Made, Ondra"
     ],
-    "Author_eap": "",
-    "Music": "",
-    "Places of Occurrences": [
+    "author_eap": "",
+    "music": "",
+    "places_of_occurrences": [
         "Webshare_1",
         "nbulanci.blog.cz",
         "tomaskukal.blog.cz",

@@ -1,17 +1,17 @@
 {
-    "GUID": "",
-    "Name": "RALLY",
-    "Privacy": "visible",
-    "NSFW": "false",
-    "Year": "2007",
-    "Description": "",
-    "Description_source": "",
-    "Author": [
+    "guid": "",
+    "name": "RALLY",
+    "privacy": "visible",
+    "nsfw": false,
+    "year": 2007,
+    "description": "",
+    "description_source": "",
+    "author": [
         "Dadinka"
     ],
-    "Author_eap": "",
-    "Music": "",
-    "Places of Occurrences": [
+    "author_eap": "",
+    "music": "",
+    "places_of_occurrences": [
         "Webshare_1",
         "nbulanci.blog.cz",
         "parime.estranky.cz",

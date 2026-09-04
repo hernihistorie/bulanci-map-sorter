@@ -1,17 +1,17 @@
 {
-    "GUID": "",
-    "Name": "Graffity",
-    "Privacy": "visible",
-    "NSFW": "false",
-    "Year": "2008",
-    "Description": "",
-    "Description_source": "",
-    "Author": [
+    "guid": "",
+    "name": "Graffity",
+    "privacy": "visible",
+    "nsfw": false,
+    "year": 2008,
+    "description": "",
+    "description_source": "",
+    "author": [
         "Jatka"
     ],
-    "Author_eap": "",
-    "Music": "",
-    "Places of Occurrences": [
+    "author_eap": "",
+    "music": "",
+    "places_of_occurrences": [
         "UlozTo_Xv9k9GeW",
         "UlozTo_jFfzxErC",
         "jatka666.blog.cz",

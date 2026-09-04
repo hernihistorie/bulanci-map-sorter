@@ -1,17 +1,17 @@
 {
-    "GUID": "",
-    "Name": "GTA San Andreas",
-    "Privacy": "visible",
-    "NSFW": "false",
-    "Year": "2011",
-    "Description": "",
-    "Description_source": "",
-    "Author": [
+    "guid": "",
+    "name": "GTA San Andreas",
+    "privacy": "visible",
+    "nsfw": false,
+    "year": 2011,
+    "description": "",
+    "description_source": "",
+    "author": [
         "Bert.Q"
     ],
-    "Author_eap": "",
-    "Music": "",
-    "Places of Occurrences": [
+    "author_eap": "",
+    "music": "",
+    "places_of_occurrences": [
         "UlozTo_k2MCMoM1"
     ]
 }

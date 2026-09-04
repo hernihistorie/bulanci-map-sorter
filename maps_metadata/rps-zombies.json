@@ -1,17 +1,17 @@
 {
-    "GUID": "",
-    "Name": "RPS-zombies",
-    "Privacy": "visible",
-    "NSFW": "false",
-    "Year": "2008",
-    "Description": "",
-    "Description_source": "",
-    "Author": [
+    "guid": "",
+    "name": "RPS-zombies",
+    "privacy": "visible",
+    "nsfw": false,
+    "year": 2008,
+    "description": "",
+    "description_source": "",
+    "author": [
         "Made"
     ],
-    "Author_eap": "",
-    "Music": "",
-    "Places of Occurrences": [
+    "author_eap": "",
+    "music": "",
+    "places_of_occurrences": [
         "nbulanci.blog.cz",
         "UlozTo_VJlDP5drkp1n",
         "bulanci.ezin.cz"

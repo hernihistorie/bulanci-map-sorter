@@ -1,17 +1,17 @@
 {
-    "GUID": "",
-    "Name": "Western",
-    "Privacy": "visible",
-    "NSFW": "false",
-    "Year": "2006",
-    "Description": "",
-    "Description_source": "",
-    "Author": [
+    "guid": "",
+    "name": "Western",
+    "privacy": "visible",
+    "nsfw": false,
+    "year": 2006,
+    "description": "",
+    "description_source": "",
+    "author": [
         "Petike"
     ],
-    "Author_eap": "",
-    "Music": "",
-    "Places of Occurrences": [
+    "author_eap": "",
+    "music": "",
+    "places_of_occurrences": [
         "Webshare_1",
         "Webshare_2",
         "maps-of-bulanci.wz.cz",

@@ -1,17 +1,17 @@
 {
-    "GUID": "",
-    "Name": "Piráti z Karibiku- loď",
-    "Privacy": "visible",
-    "NSFW": "false",
-    "Year": "2007",
-    "Description": "",
-    "Description_source": "",
-    "Author": [
+    "guid": "",
+    "name": "Piráti z Karibiku- loď",
+    "privacy": "visible",
+    "nsfw": false,
+    "year": 2007,
+    "description": "",
+    "description_source": "",
+    "author": [
         "Tomáš Kukal"
     ],
-    "Author_eap": "",
-    "Music": "",
-    "Places of Occurrences": [
+    "author_eap": "",
+    "music": "",
+    "places_of_occurrences": [
         "tomaskukal.blog.cz",
         "klansvobodnibulanci.blog.cz",
         "mapsbulanci.blog.cz",

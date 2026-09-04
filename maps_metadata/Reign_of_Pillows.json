@@ -1,17 +1,17 @@
 {
-    "GUID": "",
-    "Name": "*Reign of Pillows",
-    "Privacy": "visible",
-    "NSFW": "false",
-    "Year": "",
-    "Description": "",
-    "Description_source": "",
-    "Author": [
+    "guid": "",
+    "name": "*Reign of Pillows",
+    "privacy": "visible",
+    "nsfw": false,
+    "year": "",
+    "description": "",
+    "description_source": "",
+    "author": [
         ""
     ],
-    "Author_eap": "",
-    "Music": "",
-    "Places of Occurrences": [
+    "author_eap": "",
+    "music": "",
+    "places_of_occurrences": [
         "bulani.wbs.cz",
         "UlozTo_r1oHhJas",
         "bulanci.ezin.cz"

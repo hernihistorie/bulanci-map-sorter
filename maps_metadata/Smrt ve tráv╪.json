@@ -1,17 +1,17 @@
 {
-    "GUID": "",
-    "Name": "Smrt ve trávě",
-    "Privacy": "visible",
-    "NSFW": "false",
-    "Year": "",
-    "Description": "",
-    "Description_source": "",
-    "Author": [
+    "guid": "",
+    "name": "Smrt ve trávě",
+    "privacy": "visible",
+    "nsfw": false,
+    "year": "",
+    "description": "",
+    "description_source": "",
+    "author": [
         "bulda15"
     ],
-    "Author_eap": "",
-    "Music": "",
-    "Places of Occurrences": [
+    "author_eap": "",
+    "music": "",
+    "places_of_occurrences": [
         "UlozTo_2ee8Dsdi",
         "UlozTo_nzMRJyGG",
         "bulanci.ezin.cz"

@@ -1,17 +1,17 @@
 {
-    "GUID": "",
-    "Name": "Psycho by TONY-VOCKO",
-    "Privacy": "visible",
-    "NSFW": "false",
-    "Year": "",
-    "Description": "",
-    "Description_source": "",
-    "Author": [
+    "guid": "",
+    "name": "Psycho by TONY-VOCKO",
+    "privacy": "visible",
+    "nsfw": false,
+    "year": "",
+    "description": "",
+    "description_source": "",
+    "author": [
         "TONY-VOCKO"
     ],
-    "Author_eap": "",
-    "Music": "",
-    "Places of Occurrences": [
+    "author_eap": "",
+    "music": "",
+    "places_of_occurrences": [
         "UlozTo_9jrZSQic",
         "UlozTo_nzMRJyGG",
         "bulanci.ezin.cz"

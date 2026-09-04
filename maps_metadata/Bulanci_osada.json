@@ -1,17 +1,17 @@
 {
-    "GUID": "",
-    "Name": "Bulánčí osada",
-    "Privacy": "visible",
-    "NSFW": "false",
-    "Year": "2007",
-    "Description": "",
-    "Description_source": "",
-    "Author": [
+    "guid": "",
+    "name": "Bulánčí osada",
+    "privacy": "visible",
+    "nsfw": false,
+    "year": 2007,
+    "description": "",
+    "description_source": "",
+    "author": [
         "Lakomy"
     ],
-    "Author_eap": "",
-    "Music": "",
-    "Places of Occurrences": [
+    "author_eap": "",
+    "music": "",
+    "places_of_occurrences": [
         "bulani.wbs.cz",
         "bulanci-levely.tym.cz",
         "bulanci.ososba.cz",

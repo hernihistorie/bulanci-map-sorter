@@ -1,17 +1,17 @@
 {
-    "GUID": "",
-    "Name": "Polštářová bitva",
-    "Privacy": "visible",
-    "NSFW": "false",
-    "Year": "",
-    "Description": "",
-    "Description_source": "",
-    "Author": [
+    "guid": "",
+    "name": "Polštářová bitva",
+    "privacy": "visible",
+    "nsfw": false,
+    "year": "",
+    "description": "",
+    "description_source": "",
+    "author": [
         "Rox Cox"
     ],
-    "Author_eap": "",
-    "Music": "",
-    "Places of Occurrences": [
+    "author_eap": "",
+    "music": "",
+    "places_of_occurrences": [
         "bulani.wbs.cz",
         "UlozTo_r1oHhJas",
         "UlozTo_jFfzxErC",

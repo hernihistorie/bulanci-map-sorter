@@ -1,17 +1,17 @@
 {
-    "GUID": "",
-    "Name": "Svět Ve Válce",
-    "Privacy": "visible",
-    "NSFW": "false",
-    "Year": "",
-    "Description": "",
-    "Description_source": "",
-    "Author": [
+    "guid": "",
+    "name": "Svět Ve Válce",
+    "privacy": "visible",
+    "nsfw": false,
+    "year": "",
+    "description": "",
+    "description_source": "",
+    "author": [
         "NJDG30rPP"
     ],
-    "Author_eap": "",
-    "Music": "",
-    "Places of Occurrences": [
+    "author_eap": "",
+    "music": "",
+    "places_of_occurrences": [
         "UlozTo_VkVQwzH5",
         "UlozTo_nzMRJyGG",
         "UlozTo_scx11i53",

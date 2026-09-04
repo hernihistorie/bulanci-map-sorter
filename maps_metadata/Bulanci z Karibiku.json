@@ -1,17 +1,17 @@
 {
-    "GUID": "",
-    "Name": "Bulanci z Karibiku",
-    "Privacy": "visible",
-    "NSFW": "false",
-    "Year": "",
-    "Description": "",
-    "Description_source": "",
-    "Author": [
+    "guid": "",
+    "name": "Bulanci z Karibiku",
+    "privacy": "visible",
+    "nsfw": false,
+    "year": "",
+    "description": "",
+    "description_source": "",
+    "author": [
         "MENTYR"
     ],
-    "Author_eap": "",
-    "Music": "",
-    "Places of Occurrences": [
+    "author_eap": "",
+    "music": "",
+    "places_of_occurrences": [
         "nbulanci.blog.cz",
         "UlozTo_VJlDP5drkp1n",
         "UlozTo_zLfghw3",

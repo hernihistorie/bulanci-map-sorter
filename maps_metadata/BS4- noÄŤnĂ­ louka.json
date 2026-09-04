@@ -1,17 +1,17 @@
 {
-    "GUID": "",
-    "Name": "BS4- noční louka",
-    "Privacy": "visible",
-    "NSFW": "false",
-    "Year": "2008",
-    "Description": "",
-    "Description_source": "",
-    "Author": [
+    "guid": "",
+    "name": "BS4- noční louka",
+    "privacy": "visible",
+    "nsfw": false,
+    "year": 2008,
+    "description": "",
+    "description_source": "",
+    "author": [
         "smartwas"
     ],
-    "Author_eap": "",
-    "Music": "",
-    "Places of Occurrences": [
+    "author_eap": "",
+    "music": "",
+    "places_of_occurrences": [
         "bulanci.ososba.cz",
         "UlozTo_5PsfU2pb917t",
         "bulanci.ezin.cz"

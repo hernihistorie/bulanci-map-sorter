@@ -1,17 +1,17 @@
 {
-    "GUID": "",
-    "Name": "V Kuchyni",
-    "Privacy": "visible",
-    "NSFW": "false",
-    "Year": "2008",
-    "Description": "",
-    "Description_source": "",
-    "Author": [
+    "guid": "",
+    "name": "V Kuchyni",
+    "privacy": "visible",
+    "nsfw": false,
+    "year": 2008,
+    "description": "",
+    "description_source": "",
+    "author": [
         "wupuchim"
     ],
-    "Author_eap": "",
-    "Music": "",
-    "Places of Occurrences": [
+    "author_eap": "",
+    "music": "",
+    "places_of_occurrences": [
         "bulanci.ososba.cz",
         "UlozTo_5PsfU2pb917t",
         "bulanci.ezin.cz"

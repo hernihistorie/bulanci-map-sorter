@@ -1,17 +1,17 @@
 {
-    "GUID": "",
-    "Name": "Bulanci útočí na plochu",
-    "Privacy": "visible",
-    "NSFW": "false",
-    "Year": "",
-    "Description": "",
-    "Description_source": "",
-    "Author": [
+    "guid": "",
+    "name": "Bulanci útočí na plochu",
+    "privacy": "visible",
+    "nsfw": false,
+    "year": "",
+    "description": "",
+    "description_source": "",
+    "author": [
         "MENTYR"
     ],
-    "Author_eap": "",
-    "Music": "",
-    "Places of Occurrences": [
+    "author_eap": "",
+    "music": "",
+    "places_of_occurrences": [
         "UlozTo_G1LQdin",
         "UlozTo_VJlDP5drkp1n",
         "bulanci.ezin.cz"

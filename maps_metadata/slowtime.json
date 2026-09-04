@@ -1,17 +1,17 @@
 {
-    "GUID": "",
-    "Name": "SlowTime",
-    "Privacy": "visible",
-    "NSFW": "false",
-    "Year": "",
-    "Description": "",
-    "Description_source": "",
-    "Author": [
+    "guid": "",
+    "name": "SlowTime",
+    "privacy": "visible",
+    "nsfw": false,
+    "year": "",
+    "description": "",
+    "description_source": "",
+    "author": [
         "B&D Team"
     ],
-    "Author_eap": "",
-    "Music": "",
-    "Places of Occurrences": [
+    "author_eap": "",
+    "music": "",
+    "places_of_occurrences": [
         "UlozTo_GNA9yQZa",
         "UlozTo_gSEBSQra",
         "UlozTo_VJlDP5drkp1n",

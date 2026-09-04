@@ -1,17 +1,17 @@
 {
-    "GUID": "",
-    "Name": "Keltové",
-    "Privacy": "visible",
-    "NSFW": "false",
-    "Year": "2009",
-    "Description": "",
-    "Description_source": "",
-    "Author": [
+    "guid": "",
+    "name": "Keltové",
+    "privacy": "visible",
+    "nsfw": false,
+    "year": 2009,
+    "description": "",
+    "description_source": "",
+    "author": [
         "Tomáš Kukal"
     ],
-    "Author_eap": "",
-    "Music": "",
-    "Places of Occurrences": [
+    "author_eap": "",
+    "music": "",
+    "places_of_occurrences": [
         "Webshare_1",
         "klansvobodnibulanci.blog.cz",
         "bulanci.ezin.cz"
