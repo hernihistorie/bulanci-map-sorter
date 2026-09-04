@@ -3,7 +3,7 @@ import pyautogui
 import time
 import shutil
 import getpixelcolor
-from subscriptable_path import Path
+from pathlib import Path
 from PIL import ImageGrab
 
 def bulanci_menu_clicker():
