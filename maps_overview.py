@@ -16,10 +16,11 @@ for filename in os.listdir(MAPS_DIR):
         with open(filepath, "r", encoding="utf-8") as f:
             data = json.load(f)
 
-            name = data.get("Name", "")
-            year = data.get("Year", "")
-            author = data.get("Author", "")
-            places_list = data.get("Places of Occurrences", [])
+            name = data.get("name", "")
+            year = data.get("year", "")
+            author_list = data.get("author", [])
+            places_list = data.get("places_of_occurrences", [])
+            author = ", ".join(author_list)
             places = ", ".join(places_list)
             places_count = len(places_list)
 

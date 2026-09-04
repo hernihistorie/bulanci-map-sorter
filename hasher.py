@@ -36,8 +36,8 @@ def add_occurence(substring):
     with open(json_file, "r", encoding="utf-8") as file:
         data = json.load(file)
     # Add place
-    if place not in data["Places of Occurrences"]:
-        data["Places of Occurrences"].append(place)
+    if place not in data["places_of_occurrences"]:
+        data["places_of_occurrences"].append(place)
     # Save back
     with open(json_file, "w", encoding="utf-8") as file:
         json.dump(data, file, indent=4)
@@ -61,13 +61,20 @@ def check_hash(file_hash, place):
                 json_file = f"./maps_metadata/{base_name}_{counter}.json"
                 counter += 1
             data = {
-                "Name": "",
-                "Year": "",
-                "Author": "",
-                "Places of Occurrences": []
+                "guid": "",
+                "name": "",
+                "privacy": "visible",
+                "nsfw": False,
+                "year": "",
+                "description": "",
+                "description_source": "",
+                "author": "",
+                "author_eap": "",
+                "music": "",
+                "places_of_occurrences": []
             }
-            if place not in data["Places of Occurrences"]:
-                data["Places of Occurrences"].append(place)
+            if place not in data["places_of_occurrences"]:
+                data["places_of_occurrences"].append(place)
             with open(json_file, "w", encoding="utf-8") as j_file:
                 json.dump(data, j_file, indent=4, ensure_ascii=False)
             print(f'File with hash "{file_hash}" not found. Moving to _MAPS_...')

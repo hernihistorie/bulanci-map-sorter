@@ -8,7 +8,7 @@ skipped_maps = []
 def chceck_if_named(json_file):
     with open(json_file, "r", encoding="utf-8") as file:
         data = json.load(file)
-    if "Name" in data and data["Name"]:
+    if "name" in data and data["name"]:
         print("Name exists.")
         return True
     else:
@@ -34,7 +34,7 @@ def main():
         with open(json_file, "r", encoding="utf-8") as j_file:
             data = json.load(j_file)
         # Add skill
-        data["Name"] = Name
+        data["name"] = Name
         # Save back
         with open(json_file, "w", encoding="utf-8") as j_file:
             json.dump(data, j_file, indent=4, ensure_ascii=False)

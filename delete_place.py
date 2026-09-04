@@ -19,11 +19,11 @@ def remove_place_from_all():
             with open(filepath, "r", encoding="utf-8") as f:
                 data = json.load(f)
 
-            places = data.get("Places of Occurrences", [])
+            places = data.get("places_of_occurrences", [])
 
             if place_to_remove in places:
                 places.remove(place_to_remove)
-                data["Places of Occurrences"] = places
+                data["places_of_occurrences"] = places
 
                 with open(filepath, "w", encoding="utf-8") as f:
                     json.dump(data, f, indent=4)

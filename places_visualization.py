@@ -25,7 +25,7 @@ for filename in os.listdir(MAPS_DIR):
             continue
 
     map_id = filename
-    poo_list = data.get("Places of Occurrences", [])
+    poo_list = data.get("places_of_occurrences", [])
     for poo in poo_list:
         poo_to_maps[poo].add(map_id)
 
