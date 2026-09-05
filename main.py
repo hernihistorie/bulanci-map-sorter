@@ -13,7 +13,7 @@ def main():
         print("1. Run Hasher")
         print("2. Get metadata from EAP files")
         print("3. Get screenshots of maps")
-        print("4. Make new HTML overview")
+        print("4. Synchronize metadata and print author inconsistencies")
         print("5. Delete place")
         print("6. Run Places Visualization")
         print("7. Exit")
@@ -27,7 +27,7 @@ def main():
         elif choice == "3":
             run_script("screenshoter.py")
         elif choice == "4":
-            run_script("maps_overview.py")
+            run_script("metadaty_sync.py")
         elif choice == "5":
             run_script("delete_place.py")
         elif choice == "6":
