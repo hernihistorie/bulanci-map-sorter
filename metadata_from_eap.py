@@ -2,9 +2,6 @@ from pathlib import Path
 import json
 from eap_parser import eap
 
-# List of maps that could not be processed
-skipped_maps = []
-
 def main():
     file = str(file_path)
     file = file.replace('_MAPS_/', '')
