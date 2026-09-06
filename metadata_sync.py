@@ -43,32 +43,41 @@ def write_authors_to_yaml(maps_metadata, authors_metadata):
     print(f"\nDone. Total authors: {len(authors_data)}")
 
 
-def compare_authors(file_path, authors_data):
-    file = str(file_path)
-    file = file.replace('_MAPS_/', '')
-    with open(file_path, "r", encoding="utf-8") as j_file:
-        data = json.load(j_file)
-    Author_eap = data["author_eap"]
-    Author_list = data["author"]
-    Author = ", ".join(Author_list)
-    if Author_eap == "" and Author == "":
-        None
-    elif Author == "" and Author_eap != "":
-        print(f"\n{file_path}")
-        print(f"Author is empty, Author_eap is {Author_eap}")
-    elif Author_eap != Author:
-        aliases = authors_data.get(Author, [])
-        alias_match = False
-        if aliases:
-            for alias in aliases:
-                if isinstance(alias, dict) and alias.get("alias") == Author_eap:
-                    alias_match = True
-                    break
-        if not alias_match:
+def compare_authors(map_metadata, authors_data):
+    #ignore some Author_eap values that are made of many authors
+    ignore = {"Joey", "adam a klara", "Patty Jakob & ÍA", "Beerman and Čočka", "Antonín Edr", "Tomáš Kukal ( podle návrhu Filipa )", "Jirka a Helena", "Adam & Honza","Jatka666 @ Xmilan", "Andrea a Tomáš", "Markéta and Jatka", "pauell and wishbone", "klan svobodných bulánků", "Beerman,čočka", "Made & Ondra F", "Tomáš + Andrea Kukalovi", "Made & Ondra F.", "jozuo", "Red Bull a Jatka"}
+    counter = 0
+    for file_path in map_metadata.glob("*.json"):
+        file = str(file_path)
+        file = file.replace('_MAPS_/', '')
+        with open(file_path, "r", encoding="utf-8") as j_file:
+            data = json.load(j_file)
+        Author_eap = data["author_eap"]
+        Author_list = data["author"]
+        Author = ", ".join(Author_list)
+        if Author_eap == "":
+            None
+        elif Author_eap in ignore:
+            None
+        elif Author == "" and Author_eap != "":
             print(f"\n{file_path}")
-            print(f"{Author_eap} != {Author}")
-    elif Author_eap == Author:
-        None
+            print(f"Author is empty, Author_eap is {Author_eap}")
+            counter += 1
+        elif Author_eap != Author:
+            aliases = authors_data.get(Author, [])
+            alias_match = False
+            if aliases:
+                for alias in aliases:
+                    if isinstance(alias, dict) and alias.get("alias") == Author_eap:
+                        alias_match = True
+                        break
+            if not alias_match:
+                print(f"\n{file_path}")
+                print(f"{Author_eap} != {Author}")
+                counter += 1
+        elif Author_eap == Author:
+            None
+    print(f"\nFound {counter} inconsistencies.")
 
 
 if __name__ == "__main__":
@@ -85,5 +94,4 @@ if __name__ == "__main__":
     print(f"\nPRINTING AUTHORS DIFFERENCES")
     with open(authors_metadata, "r", encoding="utf-8") as y_file:
         authors_data = yaml.safe_load(y_file) or {}
-    for file_path in map_metadata.glob("*.json"):
-        compare_authors(file_path, authors_data)
+    compare_authors(map_metadata, authors_data)

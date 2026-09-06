@@ -1,11 +1,17 @@
-40cent, Blade: null
+40cent, Blade:
+- alias: 40cent,Blade
+  visible: false
 =53rgi: null
-Alizée: null
+'[MKJ]Devil': null
+adam:
+- alias: ADAM
+  visible: false
 Ametis:
 - alias: ametis
   visible: false
 Andrej Macuľa: null
 ANONYM: null
+Atamii: null
 AvilX: null
 B&D Team:
 - alias: B&DTeam
@@ -15,7 +21,11 @@ B&D Team:
 - alias: 'Born & Duck Team '
   visible: false
 Beerman: null
-Bert.Q: null
+Bert.Q:
+- alias: Marek Fuchs
+  visible: false
+bobik: null
+Boink Games: null
 BOREC XL:
 - alias: Borec XL
   visible: false
@@ -24,9 +34,15 @@ Carl114: null
 Charlie Stevens:
 - alias: Charlie
   visible: true
+chozze: null
 Cronos: null
-Dadinka: null
-davidpalecek@seznam.cz: null
+Daniel Procházka: null
+David P.:
+- alias: David
+  visible: true
+- alias: davidpalecek@seznam.cz
+  visible: false
+denny315: null
 Doby: null
 Dominik: null
 DOPELLSOLDER:
@@ -50,13 +66,22 @@ DzUsiK:
   visible: false
 - alias: DzUsSoFt
   visible: true
-Démon industries: null
+Démon industries:
+- alias: Kijar
+  visible: true
 Elisabeth: null
+Filip: null
 Filip Řeha: null
 FoSSie: null
-funMahdi: null
+Frankee: null
+funMahdi:
+- alias: Pat&Mat
+  visible: false
+Gabriel Janovský: null
 Gandalf:
 - alias: Gandalf (http://www.bulanci2.blog.cz)
+  visible: true
+- alias: Gandalf (bulanci2.blog.cz)
   visible: true
 Gladiator: null
 Green Killer:
@@ -67,20 +92,33 @@ H&E&P Team:
   visible: false
 - alias: H&E&P team
   visible: false
-Helča, Jirka: null
-Hofik: null
-Honza: null
+Helča: null
+Hofik:
+- alias: Honza
+  visible: false
+Hoky:
+- alias: Honza
+  visible: true
+Hráč: null
 Iron Killer:
 - alias: Iron_Killer
   visible: false
-Ivan Strobl: null
 jakub ryska:
 - alias: Kuba
   visible: true
-Jan Homolka: null
+James: null
+jary: null
 Jary ml.: null
-Jatka: null
+Jatka:
+- alias: Jatka666
+  visible: true
+JaVys27: null
 jaXmi: null
+Jirka: null
+Joey: null
+Jogurth:
+- alias: Michal Junwirth
+  visible: false
 Jozuo:
 - alias: jozuo
   visible: false
@@ -98,15 +136,22 @@ Ján Kucan:
   visible: false
 - alias: ján
   visible: true
-K. Beneš:
+Karel Beneš:
 - alias: Kaja2804
   visible: true
-kaja_benes@seznam.cz: null
+- alias: kaja_benes@seznam.cz
+  visible: false
 Kejo:
 - alias: kejo
   visible: true
+Kelt: null
+killerFPM: null
+Klan Ohořelý polštáře: null
 klan svobodných bulánků: null
 Klayman: null
+kluci.cz:
+- alias: KLUCI.CZ
+  visible: false
 Knoflík:
 - alias: Knoflík (www.klubhobit.blog.cz)
   visible: true
@@ -116,15 +161,38 @@ Knoflík:
   visible: false
 Kraamis: null
 Krakenak: null
+lacko4444122: null
 Lakomy:
 - alias: Lakomý Ondra
   visible: false
+- alias: Lakomý Ondřej
+  visible: false
+Leatherface:
+- alias: leatherface
+  visible: false
+- alias: LEATHERFACE
+  visible: false
+- alias: KozenaDrzka
+  visible: true
+LeatherSoft:
+- alias: Leathersoft
+  visible: false
+- alias: leathersoft
+  visible: false
+- alias: LEATHERSOFT
+  visible: false
 Lineman: null
+Lord Pecka: null
 Luboman: null
-Luk H: null
+Luk H:
+- alias: luk H
+  visible: false
 Lukáš Holeczy:
 - alias: Holi
-Lukáš Medvecký: null
+  visible: true
+Lukáš Medvecký:
+- alias: 'Lukáš Medvecký '
+  visible: false
 lunfardos:
 - alias: lunfadros
   visible: false
@@ -139,9 +207,22 @@ Made:
   visible: false
 - alias: Made - www.nbulanci.blog.cz
   visible: true
-Made, Ondra: null
 Markéta: null
+martin555: null
 Master: null
+Matúš:
+- alias: Matus
+  visible: true
+- alias: Matúš Tundér
+  visible: false
+- alias: MT
+  visible: true
+Max: null
+MeeShanek:
+- alias: Meeshanek
+  visible: false
+- alias: MeeShanek /icq 381656206/
+  visible: false
 Melamber777: null
 Memphis: null
 MENTYR:
@@ -153,6 +234,7 @@ MENTYR:
   visible: false
 - alias: 'Firma :  MENTYR'
   visible: false
+Michael Bucha: null
 Michael de Vile:
 - alias: Nekked.snake@seznam.cz
   visible: false
@@ -161,29 +243,55 @@ Michael de Vile:
 - alias: Michalpribyl@email.cz
   visible: false
 Michal Hinda: null
-Michal Jungwirth: null
-Mikuláš Michal: null
 Milos: null
 Minatory: null
 Mirek Schnaubert:
 - alias: SCHNAUBELT
   visible: true
-Mostly Harmless: null
+Mostly Harmless:
+- alias: gjjm
+  visible: true
+- alias: gjjm@centrum.cz
+  visible: false
+MRAZOR:
+- alias: mrazor
+  visible: false
 Nachtom: null
 Nequos:
 - alias: Matěj Nekvinda
   visible: false
 nio34: null
 NJDG30rPP: null
+ondatra:
+- alias: Ondatra
+  visible: false
+Ondra F.: null
 ondraxa: null
 Padouch.hr:
 - alias: padouch
   visible: true
-paprii: null
-Paull25: null
+paprii:
+- alias: Dominik
+  visible: false
+Patty Jackob:
+- alias: Jan Homolka
+  visible: false
+- alias: Patty Jakob
+  visible: false
+Paull25:
+- alias: ' Pavel S.'
+  visible: false
+- alias: pauell
+  visible: false
 Pavel Švec: null
 Petike: null
 Petty: null
+Radek44: null
+Raminem: null
+Raul:
+- alias: raul
+  visible: false
+Raveland development team: null
 Red Bull: null
 rezygame.eu:
 - alias: rezygame
@@ -195,6 +303,9 @@ Risa Weiss:
 - alias: R.Weiss
   visible: false
 Rox Cox: null
+Rychvald Pillow Art:
+- alias: RPA - Rychvald Pillow Art
+  visible: false
 SCRAT:
 - alias: Scrat
   visible: false
@@ -205,9 +316,12 @@ Sergejovic:
 Sertr Cz:
 - alias: '[ACS]Sertr Cz'
   visible: true
+Shadow The Liga: null
+Skipper: null
 Skull55:
 - alias: Skul55
   visible: false
+SleepTeam Labs: null
 smartwas:
 - alias: Antonín Edr
   visible: false
@@ -215,18 +329,31 @@ smartwas:
   visible: false
 smartwas, Tonda: null
 Smiley: null
+Smoče: null
 SnoPPi: null
 Snorlax:
 - alias: SNORLAX
   visible: true
 - alias: Arnier
   visible: true
+- alias: ggg
+  visible: false
+soldier:
+- alias: Mikuláš Michal
+  visible: false
+SONNyq: null
 Spooky:
 - alias: SPOOKY
   visible: true
+STEGY: null
 Stoky:
 - alias: stoky
   visible: true
+Studio FNPF:
+- alias: FNPF
+  visible: true
+- alias: 'Studio FNPF '
+  visible: false
 Takk Moil:
 - alias: Takk Moil (takkmoil@gmail.com)
   visible: false
@@ -255,13 +382,26 @@ Tomáš Kukal:
 TONY-VOCKO: null
 Ulfshardje: null
 Vistys: null
+Vivko: null
+Vojta: null
 Wil Turnerr: null
+wishbone: null
 witiko:
 - alias: Witiko
   visible: false
+WTMC: null
 wupuchim: null
 X_warcraft_X: null
 Xmilan: null
-Znicitel: null
+Znicitel:
+- alias: nicitel
+  visible: true
 Zombík: null
+ÍA: null
+čočka: null
 Čuba.CZ: null
+Šťaba:
+- alias: Šťaba aka Don West
+  visible: false
+- alias: Don West
+  visible: true

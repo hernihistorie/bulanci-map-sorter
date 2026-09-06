@@ -2,12 +2,12 @@
     "guid": "A6B26A20-8623-4C05-B7F6-4A2D82823A56",
     "name": "P.I.M.P.",
     "privacy": "visible",
-    "nsfw": false,
+    "nsfw": true,
     "year": "",
     "description": "",
     "description_source": "",
     "author": [
-        ""
+        "Šťaba"
     ],
     "author_eap": "Šťaba aka Don West",
     "music": "",
