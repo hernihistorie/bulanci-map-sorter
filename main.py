@@ -27,7 +27,7 @@ def main():
         elif choice == "3":
             run_script("screenshoter.py")
         elif choice == "4":
-            run_script("metadaty_sync.py")
+            run_script("metadata_sync.py")
         elif choice == "5":
             run_script("delete_place.py")
         elif choice == "6":
