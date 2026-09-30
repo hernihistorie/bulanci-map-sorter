@@ -3,9 +3,9 @@
     "name": "Facebook map",
     "privacy": "visible",
     "nsfw": false,
-    "year": "",
-    "description": "",
-    "description_source": "",
+    "year": 2009,
+    "description": "Mapa na téma facebook. Mezi jednotlivími písmeny se dá střílet.",
+    "description_source": "bdteam.webnode.cz/products/facebook-map/",
     "author": [
         "B&D Team"
     ],
@@ -14,6 +14,7 @@
     "places_of_occurrences": [
         "UlozTo_GNA9yQZa",
         "UlozTo_bVGedWL3",
-        "bulanci.ezin.cz"
+        "bulanci.ezin.cz",
+        "bdteam.webnode.cz"
     ]
 }

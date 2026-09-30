@@ -3,9 +3,9 @@
     "name": "lava map",
     "privacy": "visible",
     "nsfw": false,
-    "year": "",
-    "description": "",
-    "description_source": "",
+    "year": 2009,
+    "description": "Je podobná mapě teleport ovšem stejná neni. Liší se vzhledem a tím že můžete chodit pouze po kamenech a nemůžete se dotknout lávy(Liší se také tím že je přehledná narozdíl od harcorové teleport map)",
+    "description_source": "bdteam.webnode.cz/products/lava-map/",
     "author": [
         "B&D Team"
     ],
@@ -16,6 +16,7 @@
         "UlozTo_gSEBSQra",
         "UlozTo_VJlDP5drkp1n",
         "UlozTo_bVGedWL3",
-        "bulanci.ezin.cz"
+        "bulanci.ezin.cz",
+        "bdteam.webnode.cz"
     ]
 }

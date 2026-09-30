@@ -5,6 +5,7 @@ import shutil
 import getpixelcolor
 from pathlib import Path
 from PIL import ImageGrab
+pyautogui.FAILSAFE = False
 
 def bulanci_menu_clicker():
     pyautogui.moveTo(285, 213)

@@ -3,9 +3,9 @@
     "name": "Fluster map",
     "privacy": "visible",
     "nsfw": false,
-    "year": "",
-    "description": "",
-    "description_source": "",
+    "year": 2009,
+    "description": "Chcete si zahrát na Riddicka ? Naučte se skrývat pod rouškou tmy, tma je váš přítel :)",
+    "description_source": "bdteam.webnode.cz/products/fluster-map/",
     "author": [
         "B&D Team"
     ],
@@ -14,6 +14,7 @@
     "places_of_occurrences": [
         "UlozTo_GNA9yQZa",
         "UlozTo_bVGedWL3",
-        "bulanci.ezin.cz"
+        "bulanci.ezin.cz",
+        "bdteam.webnode.cz"
     ]
 }

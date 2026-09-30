@@ -3,7 +3,7 @@
     "name": "Spektrum",
     "privacy": "visible",
     "nsfw": false,
-    "year": "",
+    "year": 2007,
     "description": "",
     "description_source": "",
     "author": [
@@ -14,6 +14,7 @@
     "places_of_occurrences": [
         "bulanci.ezin.cz",
         "bulanci.osoba.cz",
-        "bulankov.blog.cz"
+        "bulankov.blog.cz",
+        "broucin.blog.cz"
     ]
 }

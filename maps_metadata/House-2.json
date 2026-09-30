@@ -3,11 +3,12 @@
     "name": "House 2",
     "privacy": "visible",
     "nsfw": false,
-    "year": "",
+    "year": 2007,
     "description": "",
     "description_source": "",
     "author": [
-        "Made"
+        "Made",
+        "Ondra F."
     ],
     "author_eap": "Made & Ondra F",
     "music": "Llama Whippin' Intro (DJ Mike Llama)",

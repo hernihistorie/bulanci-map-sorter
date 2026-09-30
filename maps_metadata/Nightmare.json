@@ -3,9 +3,9 @@
     "name": "Nightmare",
     "privacy": "visible",
     "nsfw": false,
-    "year": "",
-    "description": "",
-    "description_source": "",
+    "year": 2009,
+    "description": "Nightmare je primo k nezvladnutelni jsou tam protivnici, zombie mozna miny a kdyz to budete hrat jako trenink tak tam mate dalsi :D",
+    "description_source": "war-bulanci.blog.cz",
     "author": [
         "X_warcraft_X"
     ],
@@ -13,6 +13,7 @@
     "music": "Hotel Room Service (Pitbull)",
     "places_of_occurrences": [
         "UlozTo_VJlDP5drkp1n",
-        "bulanci.ezin.cz"
+        "bulanci.ezin.cz",
+        "war-bulanci.blog.cz"
     ]
 }

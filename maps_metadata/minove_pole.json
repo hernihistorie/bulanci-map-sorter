@@ -3,9 +3,9 @@
     "name": "Minové pole",
     "privacy": "visible",
     "nsfw": false,
-    "year": "",
-    "description": "",
-    "description_source": "",
+    "year": 2007,
+    "description": "Bulánci jsou vehnáni do mapy sice bez překážek, zato však plné min. Ty za pár sekund vybuchnou a pro zbytek hry po sobě nechají nádherný žlutý mrak, který kromě jiného představuje ohromnou kládu pro váš procesor. Ve spojení s náročnou hudbou by Britney to znamená, že jestli vám hra nespadne během hraní tohoto levelu, máte lepší počítač než já ;)...",
+    "description_source": "mostly-harmless.estranky.cz/clanky/download/levely-do-hry-bulanci",
     "author": [
         "Mostly Harmless"
     ],
@@ -13,6 +13,7 @@
     "music": "I Will Be There (Britney Spears)",
     "places_of_occurrences": [
         "bulanci.ezin.cz",
-        "bulankov.blog.cz"
+        "bulankov.blog.cz",
+        "mostly-harmless.estranky.cz"
     ]
 }

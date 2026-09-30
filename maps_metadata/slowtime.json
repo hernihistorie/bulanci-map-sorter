@@ -3,9 +3,9 @@
     "name": "SlowTime",
     "privacy": "visible",
     "nsfw": false,
-    "year": "",
-    "description": "",
-    "description_source": "",
+    "year": 2009,
+    "description": "tato mapa se odehráva někde v časoprostoru. Nepřátelé sou zpomaleni časoprostorem avšak jsou plně vyzbrojeni brokovnicemi. Mapa je rozdělena na dvě části. Tu tmavou a světlou, hodiny se nacházejí v té světlé části a vede tam jen časoprostorová díra a hodinový teleport",
+    "description_source": "bdteam.webnode.cz/products/slowtime-map/",
     "author": [
         "B&D Team"
     ],
@@ -16,6 +16,7 @@
         "UlozTo_gSEBSQra",
         "UlozTo_VJlDP5drkp1n",
         "UlozTo_bVGedWL3",
-        "bulanci.ezin.cz"
+        "bulanci.ezin.cz",
+        "bdteam.webnode.cz"
     ]
 }

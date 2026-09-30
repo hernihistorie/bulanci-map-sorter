@@ -3,9 +3,9 @@
     "name": "Zabíjená",
     "privacy": "visible",
     "nsfw": false,
-    "year": "",
-    "description": "",
-    "description_source": "",
+    "year": 2009,
+    "description": "Pozor tato mapa je VÝHRADNĚ URČENA PRO 2 HRÁČE<br>Pro tuto mapu jsme sestavili následující pravidla:<br>1.Každý hráč si vybere stranu blue nebo red je to (1vs1 takže na každé straně bude jeden) na svou stranu se dostanete okem. Oba si stoupnete do žlutých čtverců a sami si odstartujete hru... budete proti sobě střílet ale nesmíte jít teleportem k tomu druhému (prostředkem to nejde, mapa je v půlce rozdělena) po ukončení kola (zabití protivníka) si zase oba najdou svoji stranu a stoupnou si do čtverců (do té doby po sobě nesmějí střílet).<br>Jsou to takové duely. Pravidla by se měla dodržovat, tato mapa je na nich založena. Tyto pravidla sme pro vás vymysleli protože je to příjemné spestření hry snad se vám mapa i pravidla budou líbit<br>(ve skutečnosti to není tak zdlouhavé jak to vypadá z návodu)",
+    "description_source": "bdteam.webnode.cz/products/zabijena/",
     "author": [
         "B&D Team"
     ],
@@ -16,6 +16,7 @@
         "UlozTo_gSEBSQra",
         "UlozTo_VJlDP5drkp1n",
         "UlozTo_bVGedWL3",
-        "bulanci.ezin.cz"
+        "bulanci.ezin.cz",
+        "bdteam.webnode.cz"
     ]
 }

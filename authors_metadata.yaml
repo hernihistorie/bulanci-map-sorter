@@ -7,13 +7,18 @@ adam:
 - alias: ADAM
   visible: false
 Ametis:
+- web: bulani.wbs.cz
 - alias: ametis
   visible: false
-Andrej Macuľa: null
+- alias: Magda
+  visible: false
+Andrej Macuľa:
+- web: bulanci2.wbl.sk
 ANONYM: null
 Atamii: null
 AvilX: null
 B&D Team:
+- web: bdteam.webnode.cz
 - alias: B&DTeam
   visible: false
 - alias: Born & Duck Team
@@ -24,6 +29,8 @@ Beerman: null
 Bert.Q:
 - alias: Marek Fuchs
   visible: false
+Blulánek:
+- web: mapsbulanci.blog.cz
 bobik: null
 Boink Games: null
 BOREC XL:
@@ -35,7 +42,8 @@ Charlie Stevens:
 - alias: Charlie
   visible: true
 chozze: null
-Cronos: null
+Cronos:
+- web: bulanci.ezin.cz
 Daniel Procházka: null
 David P.:
 - alias: David
@@ -44,11 +52,13 @@ David P.:
   visible: false
 denny315: null
 Doby: null
-Dominik: null
+Dominik:
+- web: parime.estranky.cz
 DOPELLSOLDER:
 - alias: kevin
   visible: true
 Dr. Killer:
+- web: drkiller.blog.cz
 - alias: Dr._Killer
   visible: false
 Drakensang: null
@@ -69,9 +79,16 @@ DzUsiK:
 Démon industries:
 - alias: Kijar
   visible: true
-Elisabeth: null
-Filip: null
-Filip Řeha: null
+Elisabeth:
+- clan: klan svobodných bulánků
+- alias: Andrea
+  visible: false
+- alias: Králíček
+  visible: true
+Filip Řeha:
+- web: bulanci.yc.cz
+- alias: Filip Řeha (webmaster)
+  visible: false
 FoSSie: null
 Frankee: null
 funMahdi:
@@ -79,6 +96,9 @@ funMahdi:
   visible: false
 Gabriel Janovský: null
 Gandalf:
+- web: gandalf.estranky.cz
+- web: bulanci2.blog.cz
+- web: klanpabriku.blog.cz
 - alias: Gandalf (http://www.bulanci2.blog.cz)
   visible: true
 - alias: Gandalf (bulanci2.blog.cz)
@@ -106,15 +126,20 @@ Iron Killer:
 jakub ryska:
 - alias: Kuba
   visible: true
-James: null
+James:
+- alias: Jakub Šlancar
+  visible: false
 jary: null
 Jary ml.: null
 Jatka:
+- web: jatka666.blog.cz
 - alias: Jatka666
   visible: true
 JaVys27: null
 jaXmi: null
 Jirka: null
+Jiří Dienstieber:
+- web: bulanci.yc.cz
 Joey: null
 Jogurth:
 - alias: Michal Junwirth
@@ -125,6 +150,7 @@ Jozuo:
 - alias: Jožoman
   visible: true
 JP3035:
+- web: levelydobulanku.wbs.cz
 - alias: Jan
   visible: true
 - alias: Bulánek Twůrčí
@@ -132,6 +158,7 @@ JP3035:
 - alias: J
   visible: true
 Ján Kucan:
+- web: bulanci.wbl.sk
 - alias: ján kucan
   visible: false
 - alias: ján
@@ -147,17 +174,24 @@ Kejo:
 Kelt: null
 killerFPM: null
 Klan Ohořelý polštáře: null
-klan svobodných bulánků: null
-Klayman: null
+klan svobodných bulánků:
+- web: klansvobodnibulanci.blog.cz
+Klayman:
+- web: bulanci-map.webnode.sk
 kluci.cz:
 - alias: KLUCI.CZ
   visible: false
 Knoflík:
+- web: bulanci9.blog.cz
+- web: klubhobit.blog.cz
+- web: klanpabriku.blog.cz
 - alias: Knoflík (www.klubhobit.blog.cz)
   visible: true
 - alias: Knoflík (www.bulanci9.blog.cz)
   visible: true
 - alias: Knoflík (www.bulanci9.blog)
+  visible: false
+- alias: Adam (Knoflík)
   visible: false
 Kraamis: null
 Krakenak: null
@@ -197,6 +231,8 @@ lunfardos:
 - alias: lunfadros
   visible: false
 Made:
+- web: bulankov.blog.cz
+- web: nbulanci.blog.cz
 - alias: Martin Madejewský
   visible: true
 - alias: made
@@ -211,6 +247,7 @@ Markéta: null
 martin555: null
 Master: null
 Matúš:
+- web: bulanci-map.webnode.sk
 - alias: Matus
   visible: true
 - alias: Matúš Tundér
@@ -242,13 +279,17 @@ Michael de Vile:
   visible: false
 - alias: Michalpribyl@email.cz
   visible: false
-Michal Hinda: null
+Michal Hinda:
+- clan: klan svobodných bulánků
+- alias: Puklík
+  visible: true
 Milos: null
 Minatory: null
 Mirek Schnaubert:
 - alias: SCHNAUBELT
   visible: true
 Mostly Harmless:
+- web: mostly-harmless.estranky.cz
 - alias: gjjm
   visible: true
 - alias: gjjm@centrum.cz
@@ -274,6 +315,7 @@ paprii:
 - alias: Dominik
   visible: false
 Patty Jackob:
+- web: broucin.blog.cz
 - alias: Jan Homolka
   visible: false
 - alias: Patty Jakob
@@ -309,7 +351,6 @@ Rychvald Pillow Art:
 SCRAT:
 - alias: Scrat
   visible: false
-Septiq: null
 Sergejovic:
 - alias: sergejovic1
   visible: true
@@ -323,6 +364,7 @@ Skull55:
   visible: false
 SleepTeam Labs: null
 smartwas:
+- web: bulanci.osoba.cz
 - alias: Antonín Edr
   visible: false
 - alias: Anotnín Edr
@@ -330,7 +372,10 @@ smartwas:
 smartwas, Tonda: null
 Smiley: null
 Smoče: null
-SnoPPi: null
+SnoPPi:
+- web: maps-of-bulanci.wz.cz
+- alias: Vilém Adamec
+  visible: false
 Snorlax:
 - alias: SNORLAX
   visible: true
@@ -358,6 +403,7 @@ Takk Moil:
 - alias: Takk Moil (takkmoil@gmail.com)
   visible: false
 TERCIE-B:
+- web: tercie-b.wbs.cz
 - alias: Ňamka
   visible: true
 TheLukasluk: null
@@ -366,6 +412,9 @@ Tomba: null
 TombaP: null
 tomo.: null
 Tomáš Kukal:
+- web: tomaskukal.blog.cz
+- web: klansvobodnibulanci.blog.cz
+- clan: klan svobodných bulánků
 - alias: Tomáš Kukal (Bimbis)
   visible: true
 - alias: Tomáš Kukal(Bimbis)
@@ -380,19 +429,26 @@ Tomáš Kukal:
   visible: true
 - alias: Tomáš Kukal Bimbis
   visible: true
+Tomáš Snopko: null
 TONY-VOCKO: null
 Ulfshardje: null
 Vistys: null
 Vivko: null
 Vojta: null
-Wil Turnerr: null
+WhoTakeMyCoffee:
+- alias: WTMC
+  visible: true
+Will Turner:
+- alias: Filip
+  visible: false
 wishbone: null
 witiko:
 - alias: Witiko
   visible: false
 WTMC: null
 wupuchim: null
-X_warcraft_X: null
+X_warcraft_X:
+- web: war-bulanci.blog.cz
 Xmilan: null
 Znicitel:
 - alias: nicitel

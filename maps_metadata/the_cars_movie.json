@@ -3,7 +3,7 @@
     "name": "The Cars Movie",
     "privacy": "visible",
     "nsfw": false,
-    "year": "",
+    "year": 2007,
     "description": "",
     "description_source": "",
     "author": [
@@ -14,6 +14,7 @@
     "places_of_occurrences": [
         "bulanci.ososba.cz",
         "UlozTo_5PsfU2pb917t",
-        "bulanci.ezin.cz"
+        "bulanci.ezin.cz",
+        "tercie-b.wbs.cz"
     ]
 }

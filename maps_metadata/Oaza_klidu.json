@@ -3,9 +3,10 @@
     "name": "Oáza klidu",
     "privacy": "visible",
     "nsfw": false,
-    "year": "",
-    "description": "",
-    "description_source": "",
+    "year": 2009,
+    "year_note": "Nejstarší snapshot webu, ze kterého mapy od autora Ametis pochází, je ze 7. ledna 2010. Protože se jedná o začátek roku a web byl založen rok před tím, tak předpokldám, že všechny jeho mapy jsou z roku 2009",
+    "description": "Tip:Za každym stromem je ne začátku mina!",
+    "description_source": "bulani.wbs.cz/Mapy.html",
     "author": [
         "Ametis"
     ],

@@ -3,9 +3,9 @@
     "name": "Nature",
     "privacy": "visible",
     "nsfw": false,
-    "year": "",
-    "description": "",
-    "description_source": "",
+    "year": 2009,
+    "description": "Naše první mapa, odehrává se v přirodě  (je tam tajná cesta). Je určená spíše pro 2 hráče nejsou v ní nepřátelé...",
+    "description_source": "bdteam.webnode.cz/products/nature-map/",
     "author": [
         "B&D Team"
     ],
@@ -16,6 +16,7 @@
         "UlozTo_gSEBSQra",
         "UlozTo_VJlDP5drkp1n",
         "UlozTo_bVGedWL3",
-        "bulanci.ezin.cz"
+        "bulanci.ezin.cz",
+        "bdteam.webnode.cz"
     ]
 }

@@ -3,7 +3,7 @@
     "name": "the simpsons",
     "privacy": "visible",
     "nsfw": false,
-    "year": "",
+    "year": 2006,
     "description": "",
     "description_source": "",
     "author": [
@@ -12,6 +12,7 @@
     "author_eap": "honzík",
     "music": "",
     "places_of_occurrences": [
-        "bulanci.ezin.cz"
+        "bulanci.ezin.cz",
+        "tercie-b.wbs.cz"
     ]
 }
