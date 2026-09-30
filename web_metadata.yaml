@@ -1,0 +1,1335 @@
+bulanci.cz:
+- id: 0
+- shown-name: Oficiální web hry Bulánci
+- canon_url: "https://web.archive.org/web/20051208033249/http://bulanci.sleepteam.com/"
+- description_cs:
+- description_en:
+- startYear: 2002
+  source: wbm
+- referenced-web: !!set {2, 3, 4, 6, 8, 9, 11, 13, 55}
+
+bulanci.czweb.org:
+- id : 1
+- shown-name: null
+- canon_url: "https://web.archive.org/web/20040301024445/http://www.bulanci.czweb.org/home.html"
+- description_cs:
+- description_en:
+- startYear: 2002
+  source: wbm #year is found on WayBack Machine
+- endYear: 2002 #last activity on the web
+  source: web #year is found on original web
+- service: webzdarma #web runs on WebZdarma
+- referenced-web: !!set {}
+- borrowed-info: #Information used on web borrowed straight from the game or official PR materials.
+  - game-info: true #official info from bulanci.cz
+  - poetry: true #poetry from the game
+  - history: false #official lore texts from the game
+  - game-download: true #the game can be downloaded
+- community:
+  - clan: false #web is used as presentation for Bulanci clan
+  - tournaments: false #are webs used for organizing or presentation of tournaments in Bulanci
+- user-generated-content:
+  - manual: false
+  - own-levels: false
+  - levels-of-other: false
+
+bulanci.3games.cz:
+- id: 2
+- shown-name: klan Mazlík
+- canon_url: "https://web.archive.org/web/20030215123055/https://bulanci.3games.cz/800x600.html"
+- description_cs:
+- description_en:
+- startYear: 2002
+  source: web
+- endYear: 2003
+  source: web
+- service: Crolink.cz
+- referenced-web: !!set {}
+- borrowed-info:
+  - game-info: false
+  - poetry: false
+  - history: false
+  - game-download: true
+- community:
+  - clan: true
+  - tournaments: true
+- user-generated-content:
+  - manual: false
+  - own-levels: false
+  - levels-of-other: false
+
+bulanci.wz.cz:
+- id: 3
+- shown-name: null
+- canon_url: "https://web.archive.org/web/20050830213322/http://bulanci.wz.cz/index2.htm"
+- description_cs:
+- description_en:
+- startYear: 2002
+  source: web
+- endYear: 2003
+  source: web
+- service: webzdarma
+- referenced-web: !!set {}
+- borrowed-info:
+  - game-info: true
+  - poetry: false
+  - history: false
+  - game-download: true
+- community:
+  - clan: true
+  - tournaments: false
+- user-generated-content:
+  - manual: true
+  - own-levels: false
+  - levels-of-other: false
+
+sweb.cz/pisinger:
+- id: 4
+- shown-name:
+- canon_url:
+- description_cs:
+- description_en:
+- startYear: 
+  source:
+- endYear:
+  source:
+- service:
+- referenced-web: !!set {}
+- borrowed-info:
+  - game-info:
+  - poetry:
+  - history:
+  - game-download:
+  - official-web:
+- community:
+  - clan:
+  - tournaments:
+- user-generated-content:
+  - manual:
+  - own-levels:
+  - levels-of-other:
+
+flash-bulanci.wz.cz:
+- id: 5
+- shown-name: null
+- canon_url: "https://web.archive.org/web/20030421194434/http://www.flash-bulanci.wz.cz/"
+- description_cs:
+- description_en:
+- startYear: 2003
+  source: wbm
+- endYear: 2003
+  source: web
+- service: webzdarma
+- referenced-web: !!set {}
+- borrowed-info:
+  - game-info: true
+  - poetry: false
+  - history: false
+  - game-download: true
+- community:
+  - clan: false
+  - tournaments: false
+- user-generated-content:
+  - manual: false
+  - own-levels: false
+  - levels-of-other: false
+
+bulanci.zapisky.info:
+- id: 6
+- shown-name: Bulánci (DJ Sanka)
+- canon_url: "https://web.archive.org/web/20040210100135/http://bulanci.zapisky.info/"
+- description_cs:
+- description_en:
+- startYear: 2003
+  source: wbm
+- endYear: 2006
+  source: web
+- service: null
+- referenced-web: !!set {0, 11}
+- borrowed-info:
+  - game-info: true
+  - poetry: true
+  - history: true
+  - game-download: true
+- community:
+  - clan: false
+  - tournaments: false
+- user-generated-content:
+  - manual: false
+  - own-levels: false
+  - levels-of-other: false
+
+bulanci.euweb.cz:
+- id: 7
+- shown-name: null
+- canon_url: "https://web.archive.org/web/20031215224612/http://bulanci.euweb.cz/"
+- description_cs:
+- description_en:
+- startYear: 2003
+  source: web
+- endYear: 2004
+  source: web
+- service: webzdarma
+- referenced-web: !!set {}
+- borrowed-info:
+  - game-info: true
+  - poetry: false
+  - history: true
+  - game-download: false
+- community:
+  - clan: true
+  - tournaments: false
+- user-generated-content:
+  - manual: false
+  - own-levels: false
+  - levels-of-other: false
+
+bulanci.aktualne.cz:
+- id: 8
+- shown-name: null
+- canon_url: "https://web.archive.org/web/20031220161010/http://bulanci.ic.cz/"
+- description_cs: Web mimojiné obsahoval online bulánčí skládačku a také možnost si vytvořit vlastní bulánčí tričko.
+- description_en:
+- startYear: 2003
+  source: web
+- endYear: 2004
+  source: web
+- service: !!set {webzdarma, ic}
+- referenced-web: !!set {0}
+- borrowed-info:
+  - game-info: true
+  - poetry: true
+  - history: true
+  - game-download: true
+- community:
+  - clan: false
+  - tournaments: false
+- user-generated-content:
+  - manual: true
+  - own-levels: false
+  - levels-of-other: false
+
+intruders.wz.cz:
+- id: 9
+- shown-name: "[iNtruders clan]"
+- canon_url: "https://web.archive.org/web/20070212000616/http://intruders.wz.cz/"
+- description_cs:
+- description_en:
+- startYear: 2003
+  source: web
+- endYear: 2005
+  source: web
+- service: webzdarma
+- referenced-web: !!set {0, 11}
+- borrowed-info:
+  - game-info: false
+  - poetry: false
+  - history: false
+  - game-download: true
+- community:
+  - clan: true
+  - tournaments: true
+- user-generated-content:
+  - manual: true
+  - own-levels: false
+  - levels-of-other: false
+
+bulanci-game.wz.cz:
+- id: 10
+- shown-name: null
+- canon_url: "https://web.archive.org/web/20040227235007/http://www.bulanci-game.wz.cz/"
+- description_cs:
+- description_en:
+- startYear: 2004
+  source: wbm
+- endYear: 2004
+  source: web
+- service: webzdarma
+- referenced-web: !!set {}
+- borrowed-info:
+  - game-info: false
+  - poetry: false
+  - history: false
+  - game-download: true
+- community:
+  - clan: false
+  - tournaments: true
+- user-generated-content:
+  - manual: true
+  - own-levels: false
+  - levels-of-other: false
+
+bulanci.webz.cz:
+- id: 11
+- shown-name: null
+- canon_url: "https://web.archive.org/web/20050130175023/http://bulanci.webz.cz/"
+- description_cs:
+- description_en:
+- startYear: 2004
+  source: wbm
+- endYear: 2005
+  source: web
+- service: webzdarma
+- referenced-web: !!set {0}
+- borrowed-info:
+  - game-info: true
+  - poetry: true
+  - history: false
+  - game-download: true
+- community:
+  - clan: false
+  - tournaments: false
+- user-generated-content:
+  - manual: true
+  - own-levels: false
+  - levels-of-other: false
+
+strankabulanku.wz.cz:
+- id: 12
+- shown-name: null
+- canon_url: "https://web.archive.org/web/20061206211829/http://strankabulanku.wz.cz/"
+- description_cs:
+- description_en:
+- startYear: 2004
+  source: wbm
+- endYear: 2006
+  source: web
+- service: webzdarma
+- referenced-web: !!set {0, 2, 3, 4, 6, 9}
+- borrowed-info:
+  - game-info: true
+  - poetry: false
+  - history: false
+  - game-download: true
+- community:
+  - clan: false
+  - tournaments: false
+- user-generated-content:
+  - manual: false
+  - own-levels: false
+  - levels-of-other: false
+
+bulanci.webzdarma.cz:
+- id: 13
+- shown-name: ANNIHIL@TORS
+- canon_url: "https://web.archive.org/web/http://bulanci.webzdarma.cz/index.php"
+- description_cs:
+- description_en:
+- startYear: 2005
+  source: wbm
+- endYear: 2005
+  source: web
+- service: webzdarma
+- referenced-web: !!set {}
+- borrowed-info:
+  - game-info: null
+  - poetry: null
+  - history: null
+  - game-download: null
+- community:
+  - clan: true
+  - tournaments: true
+- user-generated-content:
+  - manual: null
+  - own-levels: null
+  - levels-of-other: null
+
+bulanci.mysteria.cz:
+- id: 14
+- shown-name: BULANCI.mysteria.cz
+- canon_url: "https://web.archive.org/web/http://bulanci.webzdarma.cz/index.php"
+- description_cs:
+- description_en:
+- startYear: 2005
+  source: wbm
+- endYear: 2005
+  source: web
+- service: webzdarma
+- referenced-web: !!set {0, 11}
+- borrowed-info:
+  - game-info: true
+  - poetry: false
+  - history: false
+  - game-download: true
+- community:
+  - clan: false
+  - tournaments: false
+- user-generated-content:
+  - manual: true
+  - own-levels: false
+  - levels-of-other: false
+
+bulancibom.estranky.cz:
+- id: 15
+- shown-name: null
+- canon_url: "https://web.archive.org/web/http://bulanci.webzdarma.cz/index.php"
+- description_cs:
+- description_en:
+- startYear: 2005
+  source: web
+- endYear: 2008
+  source: web
+- service: estranky
+- referenced-web: !!set {31}
+- borrowed-info:
+  - game-info: true
+  - poetry: false
+  - history: false
+  - game-download: true
+- community:
+  - clan: false
+  - tournaments: false
+- user-generated-content:
+  - manual: true
+  - own-levels: false
+  - levels-of-other: false
+
+gandalf.estranky.cz:
+- id: 16
+- shown-name: Gandalfovy stránky
+- canon_url: "https://web.archive.org/web/20090415165933/http://www.gandalf.estranky.cz/"
+- description_cs:
+- description_en:
+- startYear: 2005
+  source: web
+- endYear: 2008
+  source: web
+- service: estranky
+- referenced-web: !!set {22, 30}
+- borrowed-info:
+  - game-info: false
+  - poetry: false
+  - history: false
+  - game-download: false
+- community:
+  - clan: false
+  - tournaments: false
+- user-generated-content:
+  - manual: false
+  - own-levels: true
+  - levels-of-other: false
+
+maps-of-bulanci.wz.cz:
+- id: 18
+- shown-name: Maps of Bulánci
+- canon_url: "https://web.archive.org/web/20070212030544/http://maps-of-bulanci.wz.cz/"
+- description_cs: Jeden z prvních fanouškovských webů věnovaných hře <i>Bulánci</i>, který se snažil o agregaci fanouškovských map. Díky jeho prvenství do značné míry definoval, které mapy se nejčastěji šířily v rámci různých kolekcí fanouškovského obsahu. 
+- description_en:
+- startYear: 2006
+  source: web
+- endYear: 2007
+  source: web
+- service: webzdarma
+- referenced-web: !!set {0}
+- borrowed-info:
+  - game-info: false
+  - poetry: false
+  - history: false
+  - game-download: false
+- community:
+  - clan: false
+  - tournaments: false
+- user-generated-content:
+  - manual: true
+  - own-levels: true
+  - levels-of-other: true
+
+sp.webgarden.cz:
+- id: 19
+- shown-name: Bulánčí klan <=SP=> a Vodní dýmky
+- canon_url: "https://web.archive.org/web/20090415165933/http://www.gandalf.estranky.cz/"
+- description_cs:
+- description_en:
+- startYear: 2006
+  source: web
+- endYear: 2007
+  source: web
+- service: webgarden
+- referenced-web: !!set {}
+- borrowed-info:
+  - game-info: false
+  - poetry: true
+  - history: false
+  - game-download: true
+- community:
+  - clan: true
+  - tournaments: true
+- user-generated-content:
+  - manual: false
+  - own-levels: false
+  - levels-of-other: false
+
+mybulanci.estranky.cz:
+- id: 20
+- shown-name: kdo se vleče, neuteče
+- canon_url: "https://web.archive.org/web/20070709210458/http://www.mybulanci.estranky.cz/"
+- description_cs:
+- description_en:
+- startYear: 2006
+  source: web
+- endYear: 2007
+  source: web
+- service: estranky
+- referenced-web: !!set {}
+- borrowed-info:
+  - game-info: false
+  - poetry: false
+  - history: false
+  - game-download: true
+- community:
+  - clan: true
+  - tournaments: true
+- user-generated-content:
+  - manual: false
+  - own-levels: false
+  - levels-of-other: false
+
+s-clan.wz.cz:
+- id: 21
+- shown-name: S-clan Team
+- canon_url: "https://web.archive.org/web/20070127223238/http://s-clan.wz.cz/"
+- description_cs:
+- description_en:
+- startYear: 2006
+  source: wbm
+- endYear: 2008
+  source: wbm
+- service: webzdarma
+- referenced-web: !!set {0}
+- borrowed-info:
+  - game-info: false
+  - poetry: false
+  - history: false
+  - game-download: true
+- community:
+  - clan: true
+  - tournaments: true
+- user-generated-content:
+  - manual: false
+  - own-levels: true
+  - levels-of-other: true
+
+tomaskukal.blog.cz:
+- id: 22
+- shown-name: Zápisky Tomáše Kukala
+- canon_url: "https://web.archive.org/web/20150923043843/http://tomaskukal.blog.cz/"
+- description_cs:
+- description_en:
+- startYear: 2006
+  source: web
+- endYear: 2019
+  source: web
+- service: blog.cz
+- referenced-web: !!set {30, 37}
+- borrowed-info:
+  - game-info: false
+  - poetry: false
+  - history: false
+  - game-download: true
+- community:
+  - clan: false
+  - tournaments: false
+- user-generated-content:
+  - manual: true
+  - own-levels: true
+  - levels-of-other: true
+
+saw3.wbs.cz: #doplnit jako PoO do metadat map
+- id: 23
+- shown-name: Zábava
+- canon_url: "https://web.archive.org/web/20071118021037/http://www.saw3.wbs.cz/index.php?menu=0"
+- description_cs: Fanouškovský web věnovaný hrám <i>Bulánci</i> a <i>Original War</i>.
+- description_en:
+- startYear: 2007
+  source: wbm
+- endYear: 2007
+  source: web
+- service: websnadno
+- referenced-web: !!set {31}
+- borrowed-info:
+  - game-info: false
+  - poetry: false
+  - history: false
+  - game-download: true
+- community:
+  - clan: false
+  - tournaments: false
+- user-generated-content:
+  - manual: false
+  - own-levels: true
+  - levels-of-other: false
+
+bulanci.hu.cz:
+- id: 24
+- shown-name: null
+- canon_url: "https://web.archive.org/web/20070206180743/http://www.bulanci.hu.cz/"
+- description_cs:
+- description_en:
+- startYear: 2007
+  source: wbm
+- endYear: 2007
+  source: web
+- service: null
+- referenced-web: !!set {}
+- borrowed-info:
+  - game-info: true
+  - poetry: false
+  - history: false
+  - game-download: true
+- community:
+  - clan: false
+  - tournaments: false
+- user-generated-content:
+  - manual: true
+  - own-levels: false
+  - levels-of-other: false
+
+klubhobit.blog.cz:
+- id: 25
+- shown-name: klub hobit
+- canon_url: "https://web.archive.org/web/20080619041305/http://klubhobit.blog.cz/"
+- description_cs:
+- description_en:
+- startYear: 2007
+  source: wbm
+- endYear: 2007
+  source: web
+- service: blog.cz
+- referenced-web: !!set {39}
+- borrowed-info:
+  - game-info: false
+  - poetry: false
+  - history: false
+  - game-download: true
+- community:
+  - clan: false
+  - tournaments: false
+- user-generated-content:
+  - manual: false
+  - own-levels: true
+  - levels-of-other: false
+
+parime.estranky.cz:
+- id: 26
+- shown-name: Paříme
+- canon_url: "https://web.archive.org/web/20071015062534/http://www.parime.estranky.cz/clanky/bulanci-nove-mapy"
+- description_cs:
+- description_en:
+- startYear: 2007
+  source: wbm
+- endYear: 2007
+  source: web
+- service: estranky
+- referenced-web: !!set {}
+- borrowed-info:
+  - game-info: false
+  - poetry: false
+  - history: false
+  - game-download: true
+- community:
+  - clan: false
+  - tournaments: false
+- user-generated-content:
+  - manual: true
+  - own-levels: true
+  - levels-of-other: true
+
+klanparbiku.blog.cz:
+- id: 27
+- shown-name: Klan Pabříků
+- canon_url: "https://web.archive.org/web/20090918215004/http://klanparbiku.blog.cz/"
+- description_cs:
+- description_en:
+- startYear: 2007
+  source: web
+- endYear: 2007
+  source: wbm
+- service: blog.cz
+- referenced-web: !!set {0, 16, 34}
+- borrowed-info:
+  - game-info: false
+  - poetry: true
+  - history: false
+  - game-download: true
+- community:
+  - clan: true
+  - tournaments: false
+- user-generated-content:
+  - manual: false
+  - own-levels: true
+  - levels-of-other: true
+
+mapsbulanci.blog.cz:
+- id: 29
+- shown-name: Maps for Bulánci
+- canon_url: "https://web.archive.org/web/20180125200828/http://mapsbulanci.blog.cz/"
+- description_cs:
+- description_en:
+- startYear: 2007
+  source: web
+- endYear: 2007
+  source: web
+- service: blog.cz
+- referenced-web: !!set {0, 33, 38}
+- borrowed-info:
+  - game-info: false
+  - poetry: false
+  - history: false
+  - game-download: false
+- community:
+  - clan: false
+  - tournaments: false
+- user-generated-content:
+  - manual: false
+  - own-levels: false
+  - levels-of-other: true
+
+bulanci2.blog.cz:
+- id: 30
+- shown-name: null
+- canon_url: "https://web.archive.org/web/20070918130302/http://bulanci2.blog.cz/"
+- description_cs:
+- description_en:
+- startYear: 2007
+  source: web
+- endYear: 2008
+  source: web
+- service: blog.cz
+- referenced-web: !!set {0, 3, 22, 27, 25, 34, 35, 36, 38}
+- borrowed-info:
+  - game-info: true
+  - poetry: false
+  - history: false
+  - game-download: true
+- community:
+  - clan: false
+  - tournaments: false
+- user-generated-content:
+  - manual: false
+  - own-levels: true
+  - levels-of-other: true
+
+bulanci.ezin.cz:
+- id: 31
+- shown-name: Klan DrM
+- canon_url: "https://web.archive.org/web/20070629203033/http://bulanci.ezin.cz/"
+- description_cs:
+- description_en:
+- startYear: 2007
+  source: wbm
+- endYear: 2008
+  source: web
+- service: ic
+- referenced-web: !!set {0, 8, 15, 34, 38}
+- borrowed-info:
+  - game-info: false
+  - poetry: false
+  - history: false
+  - game-download: true
+- community:
+  - clan: true
+  - tournaments: false
+- user-generated-content:
+  - manual: true
+  - own-levels: true
+  - levels-of-other: true
+
+bulanci-levely.tym.cz:
+- id: 32
+- shown-name: null
+- canon_url: "https://web.archive.org/web/20070819233014/http://bulanci-levely.tym.cz/bulanci/"
+- description_cs:
+- description_en:
+- startYear: 2007
+  source: web
+- endYear: 2008
+  source: web
+- service: ic
+- referenced-web: !!set {}
+- borrowed-info:
+  - game-info: false
+  - poetry: false
+  - history: false
+  - game-download: true
+- community:
+  - clan: false
+  - tournaments: false
+- user-generated-content:
+  - manual: false
+  - own-levels: false
+  - levels-of-other: true
+
+bulankov.blog.cz:
+- id: 33
+- shown-name: Bulánkov
+- canon_url: "https://web.archive.org/web/20071214025444/http://bulankov.blog.cz/"
+- description_cs:
+- description_en:
+- startYear: 2007
+  source: web
+- endYear: 2008
+  source: web
+- service: blog.cz
+- referenced-web: !!set {0, 14, 18, 30, 31, 34, 35, 36, 37, 40, 45}
+- borrowed-info:
+  - game-info: true
+  - poetry: false
+  - history: false
+  - game-download: true
+- community:
+  - clan: false
+  - tournaments: false
+- user-generated-content:
+  - manual: true
+  - own-levels: true
+  - levels-of-other: true
+
+drkiller.blog.cz:
+- id: 34
+- shown-name: Dr. Killer Blog
+- canon_url: "https://web.archive.org/web/20160402174716/http://drkiller.blog.cz/"
+- description_cs:
+- description_en:
+- startYear: 2007
+  source: web
+- endYear: 2009
+  source: web
+- service: blog.cz
+- referenced-web: !!set {0, 22, 32, 35, 37, 39}
+- borrowed-info:
+  - game-info: false
+  - poetry: false
+  - history: false
+  - game-download: true
+- community:
+  - clan: false
+  - tournaments: false
+- user-generated-content:
+  - manual: true
+  - own-levels: true
+  - levels-of-other: false
+
+bulanci.osoba.cz:
+- id: 35
+- shown-name: Nové mapy do Bulánků
+- canon_url: "https://web.archive.org/web/20070522154153/http://www.bulanci.osoba.cz/"
+- description_cs:
+- description_en:
+- startYear: 2007
+  source: web
+- endYear: 2009
+  source: web
+- service: webgarden
+- referenced-web: !!set {0, 14, 18, 22, 30, 33, 34, 37, 38, 40, 52, 53}
+- borrowed-info:
+  - game-info: false
+  - poetry: false
+  - history: false
+  - game-download: true
+- community:
+  - clan: false
+  - tournaments: false
+- user-generated-content:
+  - manual: true
+  - own-levels: true
+  - levels-of-other: true
+
+bulanci007.blog.cz:
+- id: 36
+- shown-name: Bulánci a Descent 3
+- canon_url: "https://web.archive.org/web/20080917210806/http://bulanci007.blog.cz/"
+- description_cs: Blog se věnovanl <i>Bulánkům</i> pouze z počátku (zhruba do konce roku 2007), pak se zde řeší zejména <i>Descent 3</i>.
+- description_en:
+- startYear: 2007
+  source: web
+- endYear: 2009
+  source: wbm
+- service: blog.cz
+- referenced-web: !!set {0, 30, 39}
+- borrowed-info:
+  - game-info: false
+  - poetry: false
+  - history: false
+  - game-download: true
+- community:
+  - clan: false
+  - tournaments: false
+- user-generated-content:
+  - manual: true
+  - own-levels: true
+  - levels-of-other: false
+
+klansvobodnibulanci.blog.cz:
+- id: 37
+- shown-name: Klan svobodných bulánků
+- canon_url: "https://web.archive.org/web/20070717022228/http://klansvobodnibulanci.blog.cz/"
+- description_cs:
+- description_en:
+- startYear: 2007
+  source: web
+- endYear: 2010
+  source: web
+- service: blog.cz
+- referenced-web: !!set {0, 18, 22, 29, 31, 32, 34, 35, 40}
+- borrowed-info:
+  - game-info: false
+  - poetry: false
+  - history: false
+  - game-download: false
+- community:
+  - clan: true
+  - tournaments: true
+- user-generated-content:
+  - manual: false
+  - own-levels: true
+  - levels-of-other: true
+
+nbulanci.blog.cz:
+- id: 38
+- shown-name: Madeho blog
+- canon_url: "https://web.archive.org/web/20070824175620/http://nbulanci.blog.cz/"
+- description_cs:
+- description_en:
+- startYear: 2007
+  source: web
+- endYear: 2010
+  source: web
+- service: blog.cz
+- referenced-web: !!set {0, 14, 18, 22, 30, 31, 32, 34, 35, 37, 40}
+- borrowed-info:
+  - game-info: true
+  - poetry: false
+  - history: false
+  - game-download: true
+- community:
+  - clan: false
+  - tournaments: false
+- user-generated-content:
+  - manual: true
+  - own-levels: true
+  - levels-of-other: true
+
+bulanci9.blog.cz:
+- id: 39
+- shown-name: null
+- canon_url: "https://web.archive.org/web/20090720040844/http://bulanci9.blog.cz/"
+- description_cs:
+- description_en:
+- startYear: 2007
+  source: web
+- endYear: 2011
+  source: web
+- service: blog.cz
+- referenced-web: !!set {0, 22, 30, 34, 38}
+- borrowed-info:
+  - game-info: false
+  - poetry: false
+  - history: false
+  - game-download: true
+- community:
+  - clan: false
+  - tournaments: false
+- user-generated-content:
+  - manual: true
+  - own-levels: true
+  - levels-of-other: false
+
+bulanci.yc.cz:
+- id: 40
+- shown-name: Neoficiální stránka hry bulánci
+- canon_url: "https://web.archive.org/web/20070824062818/http://www.bulanci.yc.cz/"
+- description_cs:
+- description_en:
+- startYear: 2007
+  source: wbm
+- endYear: 2013
+  source: web
+- service: ic
+- referenced-web: !!set {}
+- borrowed-info:
+  - game-info: false
+  - poetry: false
+  - history: false
+  - game-download: true
+- community:
+  - clan: false
+  - tournaments: false
+- user-generated-content:
+  - manual: false
+  - own-levels: true
+  - levels-of-other: true
+
+bulanci.wbl.sk:
+- id: 41
+- shown-name: null
+- canon_url: "https://web.archive.org/web/20071019022019/http://www.bulanci.wbl.sk/"
+- description_cs:
+- description_en:
+- startYear: 2007
+  source: wbm
+- endYear: 2014
+  source: web
+- service: websnadno
+- referenced-web: !!set {}
+- borrowed-info:
+  - game-info: true
+  - poetry: false
+  - history: false
+  - game-download: true
+- community:
+  - clan: false
+  - tournaments: false
+- user-generated-content:
+  - manual: true
+  - own-levels: true
+  - levels-of-other: false
+
+bulanci.akonato.biz:
+- id: 42
+- shown-name: null
+- canon_url: "https://web.archive.org/web/20080705013759/http://www.bulanci.akonato.biz/bulanci-uvod.htm"
+- description_cs:
+- description_en:
+- startYear: 2008
+  source: web
+- endYear: 2008
+  source: wbm
+- service: null
+- referenced-web: !!set {}
+- borrowed-info:
+  - game-info: true
+  - poetry: false
+  - history: false
+  - game-download: true
+- community:
+  - clan: false
+  - tournaments: false
+- user-generated-content:
+  - manual: false
+  - own-levels: false
+  - levels-of-other: false
+
+bulanci.hustej.net:
+- id: 43
+- shown-name: null
+- canon_url: "https://web.archive.org/web/20080407223229/http://www.bulanci.hustej.net/"
+- description_cs:
+- description_en:
+- startYear: 2008
+  source: wbm
+- endYear: 2008
+  source: wbm
+- service: null
+- referenced-web: !!set {}
+- borrowed-info:
+  - game-info: false
+  - poetry: false
+  - history: false
+  - game-download: true
+- community:
+  - clan: false
+  - tournaments: false
+- user-generated-content:
+  - manual: true
+  - own-levels: false
+  - levels-of-other: false
+
+bulanci.webovastranka.sk: #doplnit mapy z webu do dtb map
+- id: 44
+- shown-name: null
+- canon_url: "https://web.archive.org/web/20090302113708/http://bulanci.webovastranka.sk/"
+- description_cs:
+- description_en:
+- startYear: 2008
+  source: wbm
+- endYear: 2008
+  source: wbm
+- service: Webovastranka.sk
+- referenced-web: !!set {0}
+- borrowed-info:
+  - game-info: false
+  - poetry: false
+  - history: false
+  - game-download: true
+- community:
+  - clan: false
+  - tournaments: false
+- user-generated-content:
+  - manual: false
+  - own-levels: true
+  - levels-of-other: false
+
+jatka666.blog.cz:
+- id: 45
+- shown-name: Jatka bulánci a jiné
+- canon_url: "https://web.archive.org/web/20100329073555/http://jatka666.blog.cz/"
+- description_cs:
+- description_en:
+- startYear: 2008
+  source: web
+- endYear: 2009
+  source: web
+- service: blog.cz
+- referenced-web: !!set {}
+- borrowed-info:
+  - game-info: false
+  - poetry: false
+  - history: false
+  - game-download: false
+- community:
+  - clan: false
+  - tournaments: false
+- user-generated-content:
+  - manual: false
+  - own-levels: true
+  - levels-of-other: false 
+
+bdteam.webnode.cz:
+- id: 46
+- shown-name: Bdteam
+- canon_url: "https://web.archive.org/web/20091215053010/https://bdteam.webnode.cz/"
+- description_cs:
+- description_en:
+- startYear: 2009
+  source: web
+- endYear: 2009
+  source: web
+- service: webnode
+- referenced-web: !!set {}
+- borrowed-info:
+  - game-info: false
+  - poetry: false
+  - history: false
+  - game-download: false
+- community:
+  - clan: false
+  - tournaments: false
+- user-generated-content:
+  - manual: true
+  - own-levels: true
+  - levels-of-other: false
+
+bulanci-map.webnode.sk:
+- id: 47
+- shown-name: Bulanci-map
+- canon_url: "https://web.archive.org/web/20260125204438/https://bulanci-map.webnode.sk/"
+- description_cs:
+- description_en:
+- startYear: 2010
+  source: web
+- endYear: 2010
+  source: web
+- service: webnode
+- referenced-web: !!set {}
+- borrowed-info:
+  - game-info: false
+  - poetry: false
+  - history: false
+  - game-download: false
+- community:
+  - clan: false
+  - tournaments: false
+- user-generated-content:
+  - manual: false
+  - own-levels: true
+  - levels-of-other: false
+
+bulani.wbs.cz:
+- id: 48
+- shown-name: Bulani
+- canon_url: "https://web.archive.org/web/20100219232156/https://bulani.wbs.cz/Info.html"
+- description_cs:
+- description_en:
+- startYear: 2009
+  source: web
+- endYear: 2011
+  source: web
+- service: websnadno
+- referenced-web: !!set {}
+- borrowed-info:
+  - game-info: false
+  - poetry: true
+  - history: false
+  - game-download: true
+- community:
+  - clan: false
+  - tournaments: false
+- user-generated-content:
+  - manual: true
+  - own-levels: true
+  - levels-of-other: true
+
+levelydobulanku.wbs.cz:
+- id: 49
+- shown-name: Levely do hry Bulánci
+- canon_url: "https://web.archive.org/web/20100306160619/https://levelydobulanku.wbs.cz/"
+- description_cs:
+- description_en:
+- startYear: 2010
+  source: web
+- endYear: 2016
+  source: web
+- service: websnadno
+- referenced-web: !!set {}
+- borrowed-info:
+  - game-info: false
+  - poetry: false
+  - history: false
+  - game-download: false
+- community:
+  - clan: false
+  - tournaments: false
+- user-generated-content:
+  - manual: false
+  - own-levels: true
+  - levels-of-other: false
+
+war-bulanci.blog.cz:
+- id: 50
+- shown-name: Mapy do bulánků
+- canon_url: "https://web.archive.org/web/20190824104720/http://war-bulanci.blog.cz/"
+- description_cs:
+- description_en:
+- startYear: 2009
+  source: web
+- endYear: 2009
+  source: web
+- service: blog.cz
+- referenced-web: !!set {}
+- borrowed-info:
+  - game-info: false
+  - poetry: false
+  - history: false
+  - game-download: true
+- community:
+  - clan: false
+  - tournaments: false
+- user-generated-content:
+  - manual: false
+  - own-levels: true
+  - levels-of-other: false
+
+bulanci2.wbl.sk:
+- id: 51
+- shown-name: KTO SE VLEČE‚ NEUTEČE !
+- canon_url: "https://web.archive.org/web/20151229171914/http://www.bulanci2.wbl.sk/Bulanci.html"
+- description_cs:
+- description_en:
+- startYear: 2010
+  source: wbm
+- endYear: 2010
+  source: web
+- service: websnadno
+- referenced-web: !!set {41}
+- borrowed-info:
+  - game-info: false
+  - poetry: false
+  - history: false
+  - game-download: true
+- community:
+  - clan: false
+  - tournaments: false
+- user-generated-content:
+  - manual: true
+  - own-levels: true
+  - levels-of-other: true
+
+mostly-harmless.estranky.cz:
+- id: 52
+- shown-name: Mostly Harmlessův blog
+- canon_url: "web.archive.org/web/20070513032236/http://www.mostly-harmless.estranky.cz/clanky/download/levely-do-hry-bulanci"
+- description_cs: Blog věnovaný různým zájmům autora. <i>Bulánci</i> hrají na tomto blogu jen silně okrajové téma a je jim věnován pouze jeden blog-post.
+- description_en:
+- startYear: 2006
+  source: web
+- endYear: 2008
+  source: web
+- service: estranky
+- referenced-web: !!set {}
+- borrowed-info:
+  - game-info: false
+  - poetry: false
+  - history: false
+  - game-download: true
+- community:
+  - clan: false
+  - tournaments: false
+- user-generated-content:
+  - manual: false
+  - own-levels: true
+  - levels-of-other: false
+
+broucin.blog.cz:
+- id: 53
+- shown-name: null
+- canon_url: "https://web.archive.org/web/20071109115842/http://broucin.blog.cz/0702/levely-k-bulankum"
+- description_cs: Blog věnovaný různým zájmům autora. <i>Bulánci</i> hrají na tomto blogu jen silně okrajové téma a je jim věnován pouze jeden blog-post.
+- description_en:
+- startYear: 2006
+  source: web
+- endYear: 2008
+  source: web
+- service: blog.cz
+- referenced-web: !!set {}
+- borrowed-info:
+  - game-info: false
+  - poetry: false
+  - history: false
+  - game-download: false
+- community:
+  - clan: false
+  - tournaments: false
+- user-generated-content:
+  - manual: false
+  - own-levels: true
+  - levels-of-other: false
+
+tercie-b.wbs.cz:
+- id: 54
+- shown-name: null
+- canon_url: "https://web.archive.org/web/20070118112944/http://www.tercie-b.wbs.cz/index.php?menu=5"
+- description_cs: Webová stránka věnovaná různým zájmům autora. <i>Bulánci</i> hrají na tomto webu jen okrajové téma a je jim věnován pouze jedna sekce.
+- description_en:
+- startYear: 2006
+  source: wbm
+- endYear: 2007
+  source: web
+- service: websnadno
+- referenced-web: !!set {}
+- borrowed-info:
+  - game-info: false
+  - poetry: false
+  - history: false
+  - game-download: false
+- community:
+  - clan: false
+  - tournaments: false
+- user-generated-content:
+  - manual: false
+  - own-levels: true
+  - levels-of-other: false
+
+mujweb.cz/www/klanmazliku/:
+- id: 55
+- shown-name: Klan Mazlíků
+- canon_url: "https://web.archive.org/web/20050316034818/http://mujweb.cz/www/klanmazliku/"
+- description_cs:
+- description_en:
+- startYear: 2002
+  source: wbm
+- endYear: 2002
+  source: wbm
+- service: websnadno
+- referenced-web: !!set {}
+- borrowed-info:
+  - game-info: null
+  - poetry: null
+  - history: null
+  - game-download: null
+- community:
+  - clan: true
+  - tournaments: null
+- user-generated-content:
+  - manual: null
+  - own-levels: false
+  - levels-of-other: false
