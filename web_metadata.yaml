@@ -534,7 +534,7 @@ tomaskukal.blog.cz:
   - own-levels: true
   - levels-of-other: true
 
-saw3.wbs.cz: #doplnit jako PoO do metadat map
+saw3.wbs.cz:
 - id: 23
 - shown-name: Zábava
 - canon_url: "https://web.archive.org/web/20071118021037/http://www.saw3.wbs.cz/index.php?menu=0"
