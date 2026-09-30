@@ -1,6 +1,6 @@
 {
     "guid": "3072A50D-41D9-4726-8D70-1265A7E61BAB",
-    "name": "střelnice",
+    "name": "st\u0159elnice",
     "privacy": "visible",
     "nsfw": false,
     "year": "",
@@ -9,10 +9,11 @@
     "author": [
         ""
     ],
-    "author_eap": "franta ( František Alferi )",
+    "author_eap": "franta ( Franti\u0161ek Alferi )",
     "music": "Doom (Tracy W. Bush)",
     "places_of_occurrences": [
         "parime.estranky.cz",
-        "bulanci.ezin.cz"
+        "bulanci.ezin.cz",
+        "saw3.wbs.cz"
     ]
 }

@@ -7,9 +7,9 @@
     "description": "",
     "description_source": "",
     "author": [
-        "Tomáš Kukal"
+        "Tom\u00e1\u0161 Kukal"
     ],
-    "author_eap": "Tomáš Kukal ",
+    "author_eap": "Tom\u00e1\u0161 Kukal ",
     "music": "",
     "places_of_occurrences": [
         "nbulanci.blog.cz",
@@ -21,6 +21,7 @@
         "bulankov.blog.cz",
         "klansvobodnibulanci.blog.cz",
         "mapsbulanci.blog.cz",
-        "bulanci.ezin.cz"
+        "bulanci.ezin.cz",
+        "saw3.wbs.cz"
     ]
 }
