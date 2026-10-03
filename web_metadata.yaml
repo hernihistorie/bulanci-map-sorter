@@ -1288,8 +1288,8 @@ tercie-b.wbs.cz:
 - id: 54
 - shown-name: null
 - canon_url: "https://web.archive.org/web/20070118112944/http://www.tercie-b.wbs.cz/index.php?menu=5"
-- description_cs: Webová stránka věnovaná různým zájmům autora. <i>Bulánci</i> hrají na tomto webu jen okrajové téma a je jim věnován pouze jedna sekce.
-- description_en:
+- description_cs: Webová stránka věnovaná různým zájmům autora. <i>Bulánci</i> zde představují pouze okrajové téma a je jim věnována pouze jedna sekce.
+- description_en: A website dedicated to various interests of the author. <i>Bulánci</i> are only a marginal topic on the website and are covered in a single section.
 - startYear: 2006
   source: wbm
 - endYear: 2007
@@ -1332,4 +1332,29 @@ mujweb.cz/www/klanmazliku/:
 - user-generated-content:
   - manual: null
   - own-levels: false
+  - levels-of-other: false
+
+nachtom.sblog.cz:
+- id: 56
+- shown-name: null
+- canon_url: "https://web.archive.org/web/20100105153008/http://nachtom.sblog.cz/"
+- description_cs: Blog, který se věnoval hardwaru, hrám a jinému softwaru. <i>Bulánci</i> zde představují silně okrajové téma a jsou zmíněni pouze ve třech příspěvcích, v rámci kterých autor představuje své uživatelské mapy.
+- description_en: A blog focused on hardware, games, and other software. <i>Bulánci</i> are only a marginal topic here and are mentioned in just three posts, in which the author presents his user-created maps.
+- startYear: 2006
+  source: web
+- endYear: 2010
+  source: wbm
+- service: sblog
+- referenced-web: !!set {0, 18}
+- borrowed-info:
+  - game-info: false
+  - poetry: false
+  - history: false
+  - game-download: false
+- community:
+  - clan: false
+  - tournaments: false
+- user-generated-content:
+  - manual: false
+  - own-levels: true
   - levels-of-other: false

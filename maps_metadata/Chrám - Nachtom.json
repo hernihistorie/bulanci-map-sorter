@@ -3,9 +3,9 @@
     "name": "Chrám - Nachtom ",
     "privacy": "visible",
     "nsfw": false,
-    "year": "",
-    "description": "",
-    "description_source": "",
+    "year": 2008,
+    "description": "Pro vás, co jste si psali o novou mapu do Bulánků, mám dobrou zprávu - nápad na originální ztvárnění levelu přišel a nyní je ke stažení jeho realizace. A ostatní, kteří se snad ještě s oblíbenými polštáři nesetkali, bych rád vyzval k jejich stažení(zde) a přinejmenším vyzkoušení základních map. Chrámu je celý ručně kreslený a spolu s hudebním doprovodem vytváří zajímavou atmosféru.",
+    "description_source": "nachtom.sblog.cz/2008/09/",
     "author": [
         "Nachtom"
     ],
@@ -13,6 +13,7 @@
     "music": "Phyta (Phyta)",
     "places_of_occurrences": [
         "UlozTo_VJlDP5drkp1n",
-        "bulanci.ezin.cz"
+        "bulanci.ezin.cz",
+        "nachtom.sblog.cz"
     ]
 }

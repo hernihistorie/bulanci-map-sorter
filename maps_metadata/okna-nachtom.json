@@ -3,9 +3,9 @@
     "name": "Okna - Nachtom",
     "privacy": "visible",
     "nsfw": false,
-    "year": "",
-    "description": "",
-    "description_source": "",
+    "year": 2008,
+    "description": "Už dlouho mi píšete, abych udělal další level do Bulánků. Tak jsem si řekl, že už na to konečně mrknu, když vám to pořád slibuji. 'Okna' jsou úplně jiná mapa, než byl oblíbený Bazén, přesto doufám, že se vám bude líbit. Později plánuji udělat znovu nějaký level s 'fotorealistickou grafikou' :-)",
+    "description_source": "nachtom.sblog.cz/2008/02/",
     "author": [
         "Nachtom"
     ],
@@ -13,6 +13,7 @@
     "music": "No No No (Sfaction Mix) www.djgeru.prv.pl (Benny Benassi)",
     "places_of_occurrences": [
         "UlozTo_VJlDP5drkp1n",
-        "bulanci.ezin.cz"
+        "bulanci.ezin.cz",
+        "nachtom.sblog.cz"
     ]
 }

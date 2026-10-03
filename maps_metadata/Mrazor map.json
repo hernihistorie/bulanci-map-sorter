@@ -2,7 +2,7 @@
     "guid": "A452B0A2-783B-44BE-AFEE-6EC93137E3F4",
     "name": "Mapka",
     "privacy": "visible",
-    "nsfw": false,
+    "nsfw": true,
     "year": "",
     "description": "",
     "description_source": "",

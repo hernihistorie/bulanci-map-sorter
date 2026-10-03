@@ -231,6 +231,12 @@ lunfardos:
 - alias: lunfadros
   visible: false
 Made:
+- description_cs: Martin Madejewský, narozen roku 1994, je bývalý fanoušek hry <i>Bulánci</i>.
+    K <i>Bulánkům</i> se dostal kolem roku 2006 a později vytvořil celou řadu map
+    do hry a několik blogů dedikovaných této hře.
+- decription_en: Martin Madejewský, born in 1994, is a former fan of the game <i>Bulánci</i>.
+    He got into <i>Bulánci</i> around 2006 and later created a whole series of maps
+    for the game and several blogs dedicated to this game.
 - web: bulankov.blog.cz
 - web: nbulanci.blog.cz
 - alias: Martin Madejewský
@@ -297,7 +303,8 @@ Mostly Harmless:
 MRAZOR:
 - alias: mrazor
   visible: false
-Nachtom: null
+Nachtom:
+- web: nachtom.sblog.cz
 Nequos:
 - alias: Matěj Nekvinda
   visible: false
@@ -429,6 +436,7 @@ Tomáš Kukal:
 - alias: Tomáš Kukal Bimbis
   visible: true
 Tomáš Snopko: null
+Tonda: null
 TONY-VOCKO: null
 Ulfshardje: null
 Vistys: null
@@ -444,7 +452,6 @@ wishbone: null
 witiko:
 - alias: Witiko
   visible: false
-WTMC: null
 wupuchim: null
 X_warcraft_X:
 - web: war-bulanci.blog.cz

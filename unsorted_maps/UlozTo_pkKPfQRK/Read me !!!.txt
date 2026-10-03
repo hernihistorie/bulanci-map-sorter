@@ -1,0 +1,20 @@
+NAVOD :
+
+1. Vyextrahujte mapy
+
+2. Mapy presunte ku suboru  " Bulanci.exe "
+
+3. Zapnite " Bulanci.exe "
+
+4. Hraj
+
+5. Koniec
+
+
+Ak vam mapy nezobrazuje, tak si musite stiahnut plnu verzinu  " Bulanci " na internete
+
+Problemy,napady a otazky ohladne  " Bulanci mapy " posielajte na e-mail :
+									  tomas.hlavon.737@zoznam.sk
+
+ 
+//------------------------------------------------------------------------------------[ by tomo. ]---
