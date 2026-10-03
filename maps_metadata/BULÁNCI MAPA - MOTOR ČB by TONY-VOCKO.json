@@ -1,19 +1,19 @@
 {
-    "guid": "59697798-90D6-4483-99B9-A80C67C3D762",
-    "name": "MOTOR ČB by TONY-VOCKO",
-    "privacy": "visible",
-    "nsfw": false,
-    "year": "",
-    "description": "",
-    "description_source": "",
-    "author": [
-        "TONY-VOCKO"
-    ],
-    "author_eap": "TONY-VOCKO",
-    "music": "",
-    "places_of_occurrences": [
-        "UlozTo_5qb7gq1d",
-        "UlozTo_nzMRJyGG",
-        "bulanci.ezin.cz"
-    ]
+  "guid": "59697798-90D6-4483-99B9-A80C67C3D762",
+  "name": "MOTOR ČB by TONY-VOCKO",
+  "privacy": "visible",
+  "nsfw": false,
+  "year": 2012,
+  "description": "",
+  "description_source": "UlozTo_nzMRJyGG",
+  "author": [
+    "TONY-VOCKO"
+  ],
+  "author_eap": "TONY-VOCKO",
+  "music": "",
+  "places_of_occurrences": [
+    "UlozTo_5qb7gq1d",
+    "UlozTo_nzMRJyGG",
+    "bulanci.ezin.cz"
+  ]
 }

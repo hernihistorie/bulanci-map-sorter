@@ -1,18 +1,18 @@
 {
-    "guid": "1C316216-DF70-4B72-81EF-19D722F8F4D0",
-    "name": "Mafia Park",
-    "privacy": "visible",
-    "nsfw": false,
-    "year": "",
-    "description": "",
-    "description_source": "",
-    "author": [
-        "Leatherface"
-    ],
-    "author_eap": "KozenaDrzka",
-    "music": "",
-    "places_of_occurrences": [
-        "UlozTo_oiRcpJY0HX29",
-        "bulanci.ezin.cz"
-    ]
+  "guid": "1C316216-DF70-4B72-81EF-19D722F8F4D0",
+  "name": "Mafia Park",
+  "privacy": "visible",
+  "nsfw": false,
+  "year": 2020,
+  "description": "",
+  "description_source": "UlozTo_oiRcpJY0HX29",
+  "author": [
+    "Leatherface"
+  ],
+  "author_eap": "KozenaDrzka",
+  "music": "",
+  "places_of_occurrences": [
+    "UlozTo_oiRcpJY0HX29",
+    "bulanci.ezin.cz"
+  ]
 }

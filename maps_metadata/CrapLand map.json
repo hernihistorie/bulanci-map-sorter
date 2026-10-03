@@ -1,18 +1,18 @@
 {
-    "guid": "A010C92E-A350-438F-892C-B159E5430762",
-    "name": "CrapLand",
-    "privacy": "visible",
-    "nsfw": false,
-    "year": "",
-    "description": "",
-    "description_source": "",
-    "author": [
-        "LeatherSoft"
-    ],
-    "author_eap": "LeatherSoft",
-    "music": "U jdou (Indy & Wich)",
-    "places_of_occurrences": [
-        "UlozTo_RNHnUu49",
-        "bulanci.ezin.cz"
-    ]
+  "guid": "A010C92E-A350-438F-892C-B159E5430762",
+  "name": "CrapLand",
+  "privacy": "visible",
+  "nsfw": false,
+  "year": 2009,
+  "description": "",
+  "description_source": "UlozTo_RNHnUu49",
+  "author": [
+    "LeatherSoft"
+  ],
+  "author_eap": "LeatherSoft",
+  "music": "U jdou (Indy & Wich)",
+  "places_of_occurrences": [
+    "UlozTo_RNHnUu49",
+    "bulanci.ezin.cz"
+  ]
 }

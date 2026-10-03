@@ -1,19 +1,19 @@
 {
-    "guid": "7C99784C-E3BC-4591-9F4A-AAEF082C0899",
-    "name": "*Reign of Pillows",
-    "privacy": "visible",
-    "nsfw": false,
-    "year": "",
-    "description": "",
-    "description_source": "",
-    "author": [
-        "Lakomy"
-    ],
-    "author_eap": "Lakomý Ondřej",
-    "music": "it´s my life (bon jovi)",
-    "places_of_occurrences": [
-        "bulani.wbs.cz",
-        "UlozTo_r1oHhJas",
-        "bulanci.ezin.cz"
-    ]
+  "guid": "7C99784C-E3BC-4591-9F4A-AAEF082C0899",
+  "name": "*Reign of Pillows",
+  "privacy": "visible",
+  "nsfw": false,
+  "year": 2010,
+  "description": "",
+  "description_source": "UlozTo_r1oHhJas",
+  "author": [
+    "Lakomy"
+  ],
+  "author_eap": "Lakomý Ondřej",
+  "music": "it´s my life (bon jovi)",
+  "places_of_occurrences": [
+    "bulani.wbs.cz",
+    "UlozTo_r1oHhJas",
+    "bulanci.ezin.cz"
+  ]
 }

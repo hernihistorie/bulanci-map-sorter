@@ -1,17 +1,17 @@
 {
-    "guid": "DA2A03D5-79BA-4EFF-8C41-578519C578D7",
-    "name": "Dilema na poli",
-    "privacy": "visible",
-    "nsfw": false,
-    "year": "",
-    "description": "",
-    "description_source": "",
-    "author": [
-        "TheLukasluk"
-    ],
-    "author_eap": "TheLukasluk",
-    "music": "",
-    "places_of_occurrences": [
-        "UlozTo_MiwQUcMc"
-    ]
+  "guid": "DA2A03D5-79BA-4EFF-8C41-578519C578D7",
+  "name": "Dilema na poli",
+  "privacy": "visible",
+  "nsfw": false,
+  "year": 2013,
+  "description": "",
+  "description_source": "UlozTo_MiwQUcMc",
+  "author": [
+    "TheLukasluk"
+  ],
+  "author_eap": "TheLukasluk",
+  "music": "",
+  "places_of_occurrences": [
+    "UlozTo_MiwQUcMc"
+  ]
 }

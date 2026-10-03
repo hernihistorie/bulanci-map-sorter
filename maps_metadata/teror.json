@@ -1,18 +1,18 @@
 {
-    "guid": "2B7EB39E-0B56-41BF-A54F-C89701CD8136",
-    "name": "teror2",
-    "privacy": "visible",
-    "nsfw": false,
-    "year": "",
-    "description": "",
-    "description_source": "",
-    "author": [
-        ""
-    ],
-    "author_eap": "teror",
-    "music": "Mr. Brightside (The Killers)",
-    "places_of_occurrences": [
-        "UlozTo_VJlDP5drkp1n",
-        "bulanci.ezin.cz"
-    ]
+  "guid": "2B7EB39E-0B56-41BF-A54F-C89701CD8136",
+  "name": "teror2",
+  "privacy": "visible",
+  "nsfw": false,
+  "year": 2017,
+  "description": "",
+  "description_source": "UlozTo_VJlDP5drkp1n",
+  "author": [
+    ""
+  ],
+  "author_eap": "teror",
+  "music": "Mr. Brightside (The Killers)",
+  "places_of_occurrences": [
+    "UlozTo_VJlDP5drkp1n",
+    "bulanci.ezin.cz"
+  ]
 }

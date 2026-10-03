@@ -1,20 +1,20 @@
 {
-    "guid": "2E4674B2-208C-4499-9C25-42CEC88BE11B",
-    "name": "Bulanci z Karibiku",
-    "privacy": "visible",
-    "nsfw": false,
-    "year": "",
-    "description": "",
-    "description_source": "",
-    "author": [
-        "MENTYR"
-    ],
-    "author_eap": "Firma MenTyr",
-    "music": "He's a Pirate (Klaus Badelt)",
-    "places_of_occurrences": [
-        "nbulanci.blog.cz",
-        "UlozTo_VJlDP5drkp1n",
-        "UlozTo_zLfghw3",
-        "bulanci.ezin.cz"
-    ]
+  "guid": "2E4674B2-208C-4499-9C25-42CEC88BE11B",
+  "name": "Bulanci z Karibiku",
+  "privacy": "visible",
+  "nsfw": false,
+  "year": 2017,
+  "description": "",
+  "description_source": "UlozTo_VJlDP5drkp1n",
+  "author": [
+    "MENTYR"
+  ],
+  "author_eap": "Firma MenTyr",
+  "music": "He's a Pirate (Klaus Badelt)",
+  "places_of_occurrences": [
+    "nbulanci.blog.cz",
+    "UlozTo_VJlDP5drkp1n",
+    "UlozTo_zLfghw3",
+    "bulanci.ezin.cz"
+  ]
 }

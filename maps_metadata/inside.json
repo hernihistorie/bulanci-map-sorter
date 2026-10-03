@@ -1,18 +1,18 @@
 {
-    "guid": "4EC183AE-E0B2-4D32-B9EA-FBC99CCA65A7",
-    "name": "Inside",
-    "privacy": "visible",
-    "nsfw": false,
-    "year": "",
-    "description": "",
-    "description_source": "",
-    "author": [
-        "Raminem"
-    ],
-    "author_eap": "Raminem",
-    "music": "03 - Iron, Steel, Metal (Wizzard Cover) (Children Of Bodom - 1999 - Children Of Bodom)",
-    "places_of_occurrences": [
-        "UlozTo_5PsfU2pb917t",
-        "bulanci.ezin.cz"
-    ]
+  "guid": "4EC183AE-E0B2-4D32-B9EA-FBC99CCA65A7",
+  "name": "Inside",
+  "privacy": "visible",
+  "nsfw": false,
+  "year": 2008,
+  "description": "",
+  "description_source": "UlozTo_5PsfU2pb917t",
+  "author": [
+    "Raminem"
+  ],
+  "author_eap": "Raminem",
+  "music": "03 - Iron, Steel, Metal (Wizzard Cover) (Children Of Bodom - 1999 - Children Of Bodom)",
+  "places_of_occurrences": [
+    "UlozTo_5PsfU2pb917t",
+    "bulanci.ezin.cz"
+  ]
 }

@@ -1,19 +1,19 @@
 {
-    "guid": "CA1AAB0B-B643-4596-8BB7-7087533C4213",
-    "name": "normandiee",
-    "privacy": "visible",
-    "nsfw": false,
-    "year": "",
-    "description": "",
-    "description_source": "",
-    "author": [
-        ""
-    ],
-    "author_eap": "bibajs",
-    "music": "PEARL HARBOR (B.O PEARL HARBOR)",
-    "places_of_occurrences": [
-        "UlozTo_kebj5JKv",
-        "bulanci.osoba.cz",
-        "bulanci.ezin.cz"
-    ]
+  "guid": "CA1AAB0B-B643-4596-8BB7-7087533C4213",
+  "name": "normandiee",
+  "privacy": "visible",
+  "nsfw": false,
+  "year": 2008,
+  "description": "",
+  "description_source": "UlozTo_kebj5JKv",
+  "author": [
+    ""
+  ],
+  "author_eap": "bibajs",
+  "music": "PEARL HARBOR (B.O PEARL HARBOR)",
+  "places_of_occurrences": [
+    "UlozTo_kebj5JKv",
+    "bulanci.osoba.cz",
+    "bulanci.ezin.cz"
+  ]
 }

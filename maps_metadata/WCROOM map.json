@@ -1,18 +1,18 @@
 {
-    "guid": "FC87AF70-E0B1-491F-A7AB-9B7A1A992CA1",
-    "name": "WCROOM",
-    "privacy": "visible",
-    "nsfw": false,
-    "year": "",
-    "description": "",
-    "description_source": "",
-    "author": [
-        "LeatherSoft"
-    ],
-    "author_eap": "Leathersoft",
-    "music": "Riders on the Storm(fredwreck remix) (Snoop Dogg ft The Doors)",
-    "places_of_occurrences": [
-        "UlozTo_RNHnUu49",
-        "bulanci.ezin.cz"
-    ]
+  "guid": "FC87AF70-E0B1-491F-A7AB-9B7A1A992CA1",
+  "name": "WCROOM",
+  "privacy": "visible",
+  "nsfw": false,
+  "year": 2009,
+  "description": "",
+  "description_source": "UlozTo_RNHnUu49",
+  "author": [
+    "LeatherSoft"
+  ],
+  "author_eap": "Leathersoft",
+  "music": "Riders on the Storm(fredwreck remix) (Snoop Dogg ft The Doors)",
+  "places_of_occurrences": [
+    "UlozTo_RNHnUu49",
+    "bulanci.ezin.cz"
+  ]
 }

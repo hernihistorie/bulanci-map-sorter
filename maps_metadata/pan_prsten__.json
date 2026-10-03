@@ -1,22 +1,22 @@
 {
-    "guid": "CC4C4E1A-5055-4F7C-8EF3-252D21863177",
-    "name": "Pán prstenů",
-    "privacy": "visible",
-    "nsfw": false,
-    "year": "",
-    "description": "",
-    "description_source": "",
-    "author": [
-        "Tomáš Kukal",
-        "Will Turner"
-    ],
-    "author_eap": "Tomáš Kukal ( podle návrhu Filipa )",
-    "music": "Track 9 (Unknown)",
-    "places_of_occurrences": [
-        "UlozTo_Xv9k9GeW",
-        "mapsbulanci.blog.cz",
-        "bulankov.blog.cz",
-        "klansvobodnibulanci.blog.cz",
-        "bulanci.ezin.cz"
-    ]
+  "guid": "CC4C4E1A-5055-4F7C-8EF3-252D21863177",
+  "name": "Pán prstenů",
+  "privacy": "visible",
+  "nsfw": false,
+  "year": 2007,
+  "description": "",
+  "description_source": "UlozTo_Xv9k9GeW",
+  "author": [
+    "Tomáš Kukal",
+    "Will Turner"
+  ],
+  "author_eap": "Tomáš Kukal ( podle návrhu Filipa )",
+  "music": "Track 9 (Unknown)",
+  "places_of_occurrences": [
+    "UlozTo_Xv9k9GeW",
+    "mapsbulanci.blog.cz",
+    "bulankov.blog.cz",
+    "klansvobodnibulanci.blog.cz",
+    "bulanci.ezin.cz"
+  ]
 }

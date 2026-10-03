@@ -1,20 +1,20 @@
 {
-    "guid": "D4126942-48A4-4A17-8FBD-C935615CD3FD",
-    "name": "Svět Ve Válce",
-    "privacy": "visible",
-    "nsfw": false,
-    "year": "",
-    "description": "",
-    "description_source": "",
-    "author": [
-        "NJDG30rPP"
-    ],
-    "author_eap": "NJDG30rPP",
-    "music": "AudioTrack 04 (The very best ´98 cd 1)",
-    "places_of_occurrences": [
-        "UlozTo_VkVQwzH5",
-        "UlozTo_nzMRJyGG",
-        "UlozTo_scx11i53",
-        "bulanci.ezin.cz"
-    ]
+  "guid": "D4126942-48A4-4A17-8FBD-C935615CD3FD",
+  "name": "Svět Ve Válce",
+  "privacy": "visible",
+  "nsfw": false,
+  "year": 2011,
+  "description": "",
+  "description_source": "UlozTo_nzMRJyGG",
+  "author": [
+    "NJDG30rPP"
+  ],
+  "author_eap": "NJDG30rPP",
+  "music": "AudioTrack 04 (The very best ´98 cd 1)",
+  "places_of_occurrences": [
+    "UlozTo_VkVQwzH5",
+    "UlozTo_nzMRJyGG",
+    "UlozTo_scx11i53",
+    "bulanci.ezin.cz"
+  ]
 }

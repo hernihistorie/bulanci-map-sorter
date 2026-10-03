@@ -1,18 +1,18 @@
 {
-    "guid": "F351043C-F3D1-4DD6-890A-3085C6D09929",
-    "name": "bitka vianocny special",
-    "privacy": "visible",
-    "nsfw": false,
-    "year": "",
-    "description": "",
-    "description_source": "",
-    "author": [
-        "DOPELLSOLDER"
-    ],
-    "author_eap": "kevin",
-    "music": "Bedtime story (Pillow Bros)",
-    "places_of_occurrences": [
-        "UlozTo_Z2A9PWMFt",
-        "bulanci.ezin.cz"
-    ]
+  "guid": "F351043C-F3D1-4DD6-890A-3085C6D09929",
+  "name": "bitka vianocny special",
+  "privacy": "visible",
+  "nsfw": false,
+  "year": 2012,
+  "description": "",
+  "description_source": "UlozTo_Z2A9PWMFt",
+  "author": [
+    "DOPELLSOLDER"
+  ],
+  "author_eap": "kevin",
+  "music": "Bedtime story (Pillow Bros)",
+  "places_of_occurrences": [
+    "UlozTo_Z2A9PWMFt",
+    "bulanci.ezin.cz"
+  ]
 }

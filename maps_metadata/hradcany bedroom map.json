@@ -1,18 +1,18 @@
 {
-    "guid": "7A46C401-BD31-4068-AEBD-C803D64A56F4",
-    "name": "HradcanyBedroom",
-    "privacy": "visible",
-    "nsfw": false,
-    "year": "",
-    "description": "",
-    "description_source": "",
-    "author": [
-        "LeatherSoft"
-    ],
-    "author_eap": "Leathersoft",
-    "music": "Poker Face ft. Cartman (Lady Gaga, Cartman, ZKM)",
-    "places_of_occurrences": [
-        "UlozTo_RNHnUu49",
-        "bulanci.ezin.cz"
-    ]
+  "guid": "7A46C401-BD31-4068-AEBD-C803D64A56F4",
+  "name": "HradcanyBedroom",
+  "privacy": "visible",
+  "nsfw": false,
+  "year": 2009,
+  "description": "",
+  "description_source": "UlozTo_RNHnUu49",
+  "author": [
+    "LeatherSoft"
+  ],
+  "author_eap": "Leathersoft",
+  "music": "Poker Face ft. Cartman (Lady Gaga, Cartman, ZKM)",
+  "places_of_occurrences": [
+    "UlozTo_RNHnUu49",
+    "bulanci.ezin.cz"
+  ]
 }

@@ -1,19 +1,19 @@
 {
-    "guid": "6F3B823C-2B08-4DF8-AC40-CD0575ECC859",
-    "name": "Psycho by TONY-VOCKO",
-    "privacy": "visible",
-    "nsfw": false,
-    "year": "",
-    "description": "",
-    "description_source": "",
-    "author": [
-        "TONY-VOCKO"
-    ],
-    "author_eap": "TONY-VOCKO",
-    "music": "Zapíchnutý vidle v hnoji (Silá)",
-    "places_of_occurrences": [
-        "UlozTo_9jrZSQic",
-        "UlozTo_nzMRJyGG",
-        "bulanci.ezin.cz"
-    ]
+  "guid": "6F3B823C-2B08-4DF8-AC40-CD0575ECC859",
+  "name": "Psycho by TONY-VOCKO",
+  "privacy": "visible",
+  "nsfw": false,
+  "year": 2012,
+  "description": "",
+  "description_source": "UlozTo_nzMRJyGG",
+  "author": [
+    "TONY-VOCKO"
+  ],
+  "author_eap": "TONY-VOCKO",
+  "music": "Zapíchnutý vidle v hnoji (Silá)",
+  "places_of_occurrences": [
+    "UlozTo_9jrZSQic",
+    "UlozTo_nzMRJyGG",
+    "bulanci.ezin.cz"
+  ]
 }

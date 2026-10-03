@@ -1,18 +1,18 @@
 {
-    "guid": "BA083DC1-169D-42D6-BE6A-E3305BF50788",
-    "name": "Dragon Age 2",
-    "privacy": "visible",
-    "nsfw": false,
-    "year": "",
-    "description": "",
-    "description_source": "",
-    "author": [
-        ""
-    ],
-    "author_eap": "Paul",
-    "music": "Lord of the Rings - Two Towers (Clint Mansell)",
-    "places_of_occurrences": [
-        "UlozTo_VJlDP5drkp1n",
-        "bulanci.ezin.cz"
-    ]
+  "guid": "BA083DC1-169D-42D6-BE6A-E3305BF50788",
+  "name": "Dragon Age 2",
+  "privacy": "visible",
+  "nsfw": false,
+  "year": 2017,
+  "description": "",
+  "description_source": "UlozTo_VJlDP5drkp1n",
+  "author": [
+    ""
+  ],
+  "author_eap": "Paul",
+  "music": "Lord of the Rings - Two Towers (Clint Mansell)",
+  "places_of_occurrences": [
+    "UlozTo_VJlDP5drkp1n",
+    "bulanci.ezin.cz"
+  ]
 }

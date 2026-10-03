@@ -1,19 +1,19 @@
 {
-    "guid": "B2866D74-60F2-4BBC-95D4-228FC72B4EF9",
-    "name": "Bulančí šachovnice",
-    "privacy": "visible",
-    "nsfw": false,
-    "year": "",
-    "description": "",
-    "description_source": "",
-    "author": [
-        "MENTYR"
-    ],
-    "author_eap": "Firma: MENTYR",
-    "music": "Don't Matter (Akon)",
-    "places_of_occurrences": [
-        "UlozTo_e5ayes7",
-        "UlozTo_VJlDP5drkp1n",
-        "bulanci.ezin.cz"
-    ]
+  "guid": "B2866D74-60F2-4BBC-95D4-228FC72B4EF9",
+  "name": "Bulančí šachovnice",
+  "privacy": "visible",
+  "nsfw": false,
+  "year": 2017,
+  "description": "",
+  "description_source": "UlozTo_VJlDP5drkp1n",
+  "author": [
+    "MENTYR"
+  ],
+  "author_eap": "Firma: MENTYR",
+  "music": "Don't Matter (Akon)",
+  "places_of_occurrences": [
+    "UlozTo_e5ayes7",
+    "UlozTo_VJlDP5drkp1n",
+    "bulanci.ezin.cz"
+  ]
 }

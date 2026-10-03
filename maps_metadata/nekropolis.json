@@ -1,18 +1,18 @@
 {
-    "guid": "94A95F17-7702-4620-BF44-28DCDE0A69A7",
-    "name": "Nekropolis",
-    "privacy": "visible",
-    "nsfw": false,
-    "year": "",
-    "description": "",
-    "description_source": "",
-    "author": [
-        "Spooky"
-    ],
-    "author_eap": "SPOOKY",
-    "music": "",
-    "places_of_occurrences": [
-        "UlozTo_VJlDP5drkp1n",
-        "bulanci.ezin.cz"
-    ]
+  "guid": "94A95F17-7702-4620-BF44-28DCDE0A69A7",
+  "name": "Nekropolis",
+  "privacy": "visible",
+  "nsfw": false,
+  "year": 2017,
+  "description": "",
+  "description_source": "UlozTo_VJlDP5drkp1n",
+  "author": [
+    "Spooky"
+  ],
+  "author_eap": "SPOOKY",
+  "music": "",
+  "places_of_occurrences": [
+    "UlozTo_VJlDP5drkp1n",
+    "bulanci.ezin.cz"
+  ]
 }

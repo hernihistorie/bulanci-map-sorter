@@ -1,18 +1,18 @@
 {
-    "guid": "4E252A71-6A44-40D7-9EBA-FD1B407911B3",
-    "name": "rezygame.eu - hovadina",
-    "privacy": "visible",
-    "nsfw": false,
-    "year": "",
-    "description": "",
-    "description_source": "",
-    "author": [
-        "rezygame.eu"
-    ],
-    "author_eap": "rezygame",
-    "music": "Bedtime story (Pillow Bros)",
-    "places_of_occurrences": [
-        "UlozTo_Z2A9PWMFt",
-        "bulanci.ezin.cz"
-    ]
+  "guid": "4E252A71-6A44-40D7-9EBA-FD1B407911B3",
+  "name": "rezygame.eu - hovadina",
+  "privacy": "visible",
+  "nsfw": false,
+  "year": 2012,
+  "description": "",
+  "description_source": "UlozTo_Z2A9PWMFt",
+  "author": [
+    "rezygame.eu"
+  ],
+  "author_eap": "rezygame",
+  "music": "Bedtime story (Pillow Bros)",
+  "places_of_occurrences": [
+    "UlozTo_Z2A9PWMFt",
+    "bulanci.ezin.cz"
+  ]
 }

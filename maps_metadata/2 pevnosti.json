@@ -1,18 +1,18 @@
 {
-    "guid": "728811BE-54EC-44A1-8BF0-C285E028C209",
-    "name": "2 pevnosti",
-    "privacy": "visible",
-    "nsfw": false,
-    "year": "",
-    "description": "",
-    "description_source": "",
-    "author": [
-        "ondatra"
-    ],
-    "author_eap": "ondatra",
-    "music": "",
-    "places_of_occurrences": [
-        "UlozTo_wxHZbEia",
-        "bulanci.ezin.cz"
-    ]
+  "guid": "728811BE-54EC-44A1-8BF0-C285E028C209",
+  "name": "2 pevnosti",
+  "privacy": "visible",
+  "nsfw": false,
+  "year": 2010,
+  "description": "",
+  "description_source": "UlozTo_wxHZbEia",
+  "author": [
+    "ondatra"
+  ],
+  "author_eap": "ondatra",
+  "music": "",
+  "places_of_occurrences": [
+    "UlozTo_wxHZbEia",
+    "bulanci.ezin.cz"
+  ]
 }

@@ -1,18 +1,18 @@
 {
-    "guid": "B1874DF9-F85B-41C4-B34A-4CE8945A5835",
-    "name": "rezygame.eu - zakop",
-    "privacy": "visible",
-    "nsfw": false,
-    "year": "",
-    "description": "",
-    "description_source": "",
-    "author": [
-        "DOPELLSOLDER"
-    ],
-    "author_eap": "kevin",
-    "music": "Bedtime story (Pillow Bros)",
-    "places_of_occurrences": [
-        "UlozTo_Z2A9PWMFt",
-        "bulanci.ezin.cz"
-    ]
+  "guid": "B1874DF9-F85B-41C4-B34A-4CE8945A5835",
+  "name": "rezygame.eu - zakop",
+  "privacy": "visible",
+  "nsfw": false,
+  "year": 2012,
+  "description": "",
+  "description_source": "UlozTo_Z2A9PWMFt",
+  "author": [
+    "DOPELLSOLDER"
+  ],
+  "author_eap": "kevin",
+  "music": "Bedtime story (Pillow Bros)",
+  "places_of_occurrences": [
+    "UlozTo_Z2A9PWMFt",
+    "bulanci.ezin.cz"
+  ]
 }

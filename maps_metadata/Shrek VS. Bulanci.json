@@ -1,19 +1,19 @@
 {
-    "guid": "2872DE1D-E91D-4594-915C-73A13CDD7C42",
-    "name": "Shrek VS. Bulanci",
-    "privacy": "visible",
-    "nsfw": false,
-    "year": "",
-    "description": "",
-    "description_source": "",
-    "author": [
-        "MENTYR"
-    ],
-    "author_eap": "Firma :  MENTYR",
-    "music": "",
-    "places_of_occurrences": [
-        "UlozTo_AGMeJdR",
-        "UlozTo_VJlDP5drkp1n",
-        "bulanci.ezin.cz"
-    ]
+  "guid": "2872DE1D-E91D-4594-915C-73A13CDD7C42",
+  "name": "Shrek VS. Bulanci",
+  "privacy": "visible",
+  "nsfw": false,
+  "year": 2017,
+  "description": "",
+  "description_source": "UlozTo_VJlDP5drkp1n",
+  "author": [
+    "MENTYR"
+  ],
+  "author_eap": "Firma :  MENTYR",
+  "music": "",
+  "places_of_occurrences": [
+    "UlozTo_AGMeJdR",
+    "UlozTo_VJlDP5drkp1n",
+    "bulanci.ezin.cz"
+  ]
 }

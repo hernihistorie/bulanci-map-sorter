@@ -1,18 +1,18 @@
 {
-    "guid": "02FD1052-4D1A-4EA6-899F-DC9A6084D819",
-    "name": "Holi LVL",
-    "privacy": "visible",
-    "nsfw": false,
-    "year": "",
-    "description": "",
-    "description_source": "",
-    "author": [
-        "Lukáš Holeczy"
-    ],
-    "author_eap": "Holi",
-    "music": "Paerácká (Bow Wave)",
-    "places_of_occurrences": [
-        "UlozTo_5PsfU2pb917t",
-        "bulanci.ezin.cz"
-    ]
+  "guid": "02FD1052-4D1A-4EA6-899F-DC9A6084D819",
+  "name": "Holi LVL",
+  "privacy": "visible",
+  "nsfw": false,
+  "year": 2008,
+  "description": "",
+  "description_source": "UlozTo_5PsfU2pb917t",
+  "author": [
+    "Lukáš Holeczy"
+  ],
+  "author_eap": "Holi",
+  "music": "Paerácká (Bow Wave)",
+  "places_of_occurrences": [
+    "UlozTo_5PsfU2pb917t",
+    "bulanci.ezin.cz"
+  ]
 }

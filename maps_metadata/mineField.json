@@ -1,17 +1,17 @@
 {
-    "guid": "5A5184F1-AB24-4EC7-8E25-38D97CDDB24E",
-    "name": "Mínové pole",
-    "privacy": "visible",
-    "nsfw": false,
-    "year": "",
-    "description": "",
-    "description_source": "",
-    "author": [
-        ""
-    ],
-    "author_eap": "bobco",
-    "music": "",
-    "places_of_occurrences": [
-        "UlozTo_4fkhDUy5"
-    ]
+  "guid": "5A5184F1-AB24-4EC7-8E25-38D97CDDB24E",
+  "name": "Mínové pole",
+  "privacy": "visible",
+  "nsfw": false,
+  "year": 2009,
+  "description": "",
+  "description_source": "UlozTo_4fkhDUy5",
+  "author": [
+    ""
+  ],
+  "author_eap": "bobco",
+  "music": "",
+  "places_of_occurrences": [
+    "UlozTo_4fkhDUy5"
+  ]
 }

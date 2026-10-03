@@ -1,19 +1,19 @@
 {
-    "guid": "8141D121-9FD1-412E-AA2A-E48C8A3AF1E4",
-    "name": "omaha beach",
-    "privacy": "visible",
-    "nsfw": false,
-    "year": "",
-    "description": "",
-    "description_source": "",
-    "author": [
-        "Karel Beneš"
-    ],
-    "author_eap": "Kaja2804",
-    "music": "Ocean Waves Hitting The Beach (Sounds Of Nature)",
-    "places_of_occurrences": [
-        "UlozTo_kebj5JKv",
-        "bulanci.osoba.cz",
-        "bulanci.ezin.cz"
-    ]
+  "guid": "8141D121-9FD1-412E-AA2A-E48C8A3AF1E4",
+  "name": "omaha beach",
+  "privacy": "visible",
+  "nsfw": false,
+  "year": 2008,
+  "description": "",
+  "description_source": "UlozTo_kebj5JKv",
+  "author": [
+    "Karel Beneš"
+  ],
+  "author_eap": "Kaja2804",
+  "music": "Ocean Waves Hitting The Beach (Sounds Of Nature)",
+  "places_of_occurrences": [
+    "UlozTo_kebj5JKv",
+    "bulanci.osoba.cz",
+    "bulanci.ezin.cz"
+  ]
 }

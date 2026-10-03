@@ -1,18 +1,18 @@
 {
-    "guid": "A21FC7BB-79F7-4C38-B53A-4E123B8E03C0",
-    "name": "Fantasy",
-    "privacy": "visible",
-    "nsfw": false,
-    "year": "",
-    "description": "",
-    "description_source": "",
-    "author": [
-        ""
-    ],
-    "author_eap": "marec",
-    "music": "Butterfly (Crazy Town- themusiclover.com)",
-    "places_of_occurrences": [
-        "UlozTo_5PsfU2pb917t",
-        "bulanci.ezin.cz"
-    ]
+  "guid": "A21FC7BB-79F7-4C38-B53A-4E123B8E03C0",
+  "name": "Fantasy",
+  "privacy": "visible",
+  "nsfw": false,
+  "year": 2006,
+  "description": "",
+  "description_source": "UlozTo_5PsfU2pb917t",
+  "author": [
+    ""
+  ],
+  "author_eap": "marec",
+  "music": "Butterfly (Crazy Town- themusiclover.com)",
+  "places_of_occurrences": [
+    "UlozTo_5PsfU2pb917t",
+    "bulanci.ezin.cz"
+  ]
 }

@@ -1,18 +1,18 @@
 {
-    "guid": "FF0E05BC-8879-4F91-8534-9248755A843F",
-    "name": "ufo level",
-    "privacy": "visible",
-    "nsfw": false,
-    "year": "",
-    "description": "",
-    "description_source": "",
-    "author": [
-        ""
-    ],
-    "author_eap": "marec a janča",
-    "music": "Exploration Of Space (Extended Mix) (Cosmic Gate)",
-    "places_of_occurrences": [
-        "UlozTo_5PsfU2pb917t",
-        "bulanci.ezin.cz"
-    ]
+  "guid": "FF0E05BC-8879-4F91-8534-9248755A843F",
+  "name": "ufo level",
+  "privacy": "visible",
+  "nsfw": false,
+  "year": 2006,
+  "description": "",
+  "description_source": "UlozTo_5PsfU2pb917t",
+  "author": [
+    ""
+  ],
+  "author_eap": "marec a janča",
+  "music": "Exploration Of Space (Extended Mix) (Cosmic Gate)",
+  "places_of_occurrences": [
+    "UlozTo_5PsfU2pb917t",
+    "bulanci.ezin.cz"
+  ]
 }

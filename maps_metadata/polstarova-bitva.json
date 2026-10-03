@@ -1,20 +1,20 @@
 {
-    "guid": "024E5A2E-C3F8-4716-8108-CF18D8F22140",
-    "name": "Polštářová bitva",
-    "privacy": "visible",
-    "nsfw": false,
-    "year": "",
-    "description": "",
-    "description_source": "",
-    "author": [
-        "Rox Cox"
-    ],
-    "author_eap": "Rox Cox",
-    "music": "",
-    "places_of_occurrences": [
-        "bulani.wbs.cz",
-        "UlozTo_r1oHhJas",
-        "UlozTo_jFfzxErC",
-        "bulanci.ezin.cz"
-    ]
+  "guid": "024E5A2E-C3F8-4716-8108-CF18D8F22140",
+  "name": "Polštářová bitva",
+  "privacy": "visible",
+  "nsfw": false,
+  "year": 2009,
+  "description": "",
+  "description_source": "UlozTo_jFfzxErC",
+  "author": [
+    "Rox Cox"
+  ],
+  "author_eap": "Rox Cox",
+  "music": "",
+  "places_of_occurrences": [
+    "bulani.wbs.cz",
+    "UlozTo_r1oHhJas",
+    "UlozTo_jFfzxErC",
+    "bulanci.ezin.cz"
+  ]
 }

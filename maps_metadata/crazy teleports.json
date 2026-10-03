@@ -1,19 +1,19 @@
 {
-    "guid": "2A34A86C-22A4-446C-A166-B7A149329491",
-    "name": "Crazy teleports",
-    "privacy": "visible",
-    "nsfw": false,
-    "year": "",
-    "description": "",
-    "description_source": "",
-    "author": [
-        "ondatra"
-    ],
-    "author_eap": "ondatra",
-    "music": "Shout It Out Loud (Kiss)",
-    "places_of_occurrences": [
-        "UlozTo_wxHZbEia",
-        "UlozTo_nzMRJyGG",
-        "bulanci.ezin.cz"
-    ]
+  "guid": "2A34A86C-22A4-446C-A166-B7A149329491",
+  "name": "Crazy teleports",
+  "privacy": "visible",
+  "nsfw": false,
+  "year": 2010,
+  "description": "",
+  "description_source": "UlozTo_nzMRJyGG",
+  "author": [
+    "ondatra"
+  ],
+  "author_eap": "ondatra",
+  "music": "Shout It Out Loud (Kiss)",
+  "places_of_occurrences": [
+    "UlozTo_wxHZbEia",
+    "UlozTo_nzMRJyGG",
+    "bulanci.ezin.cz"
+  ]
 }

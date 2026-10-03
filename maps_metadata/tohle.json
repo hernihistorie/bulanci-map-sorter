@@ -1,18 +1,18 @@
 {
-    "guid": "46BE25D5-DC39-4E16-A936-439892DC0156",
-    "name": "sakra",
-    "privacy": "visible",
-    "nsfw": false,
-    "year": "",
-    "description": "",
-    "description_source": "",
-    "author": [
-        ""
-    ],
-    "author_eap": "fds",
-    "music": "Kesha - Blow - www.SongsLover.com (Kesha)",
-    "places_of_occurrences": [
-        "UlozTo_LjmPJv9H",
-        "bulanci.ezin.cz"
-    ]
+  "guid": "46BE25D5-DC39-4E16-A936-439892DC0156",
+  "name": "sakra",
+  "privacy": "visible",
+  "nsfw": false,
+  "year": 2011,
+  "description": "",
+  "description_source": "UlozTo_LjmPJv9H",
+  "author": [
+    ""
+  ],
+  "author_eap": "fds",
+  "music": "Kesha - Blow - www.SongsLover.com (Kesha)",
+  "places_of_occurrences": [
+    "UlozTo_LjmPJv9H",
+    "bulanci.ezin.cz"
+  ]
 }

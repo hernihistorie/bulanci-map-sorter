@@ -1,18 +1,18 @@
 {
-    "guid": "C1339E48-D989-4231-8E45-ED687E7AB12C",
-    "name": "Hřbitov",
-    "privacy": "visible",
-    "nsfw": false,
-    "year": "",
-    "description": "",
-    "description_source": "",
-    "author": [
-        ""
-    ],
-    "author_eap": "jilop",
-    "music": "Endorphins (August Burns Red)",
-    "places_of_occurrences": [
-        "UlozTo_sg4Y87YT",
-        "bulanci.ezin.cz"
-    ]
+  "guid": "C1339E48-D989-4231-8E45-ED687E7AB12C",
+  "name": "Hřbitov",
+  "privacy": "visible",
+  "nsfw": false,
+  "year": 2008,
+  "description": "",
+  "description_source": "UlozTo_sg4Y87YT",
+  "author": [
+    ""
+  ],
+  "author_eap": "jilop",
+  "music": "Endorphins (August Burns Red)",
+  "places_of_occurrences": [
+    "UlozTo_sg4Y87YT",
+    "bulanci.ezin.cz"
+  ]
 }

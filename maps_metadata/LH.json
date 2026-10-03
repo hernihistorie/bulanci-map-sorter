@@ -1,18 +1,18 @@
 {
-    "guid": "FA9CAEB9-6DF5-4BEF-822C-DD348EF52E1B",
-    "name": "Mafia Little Italy",
-    "privacy": "visible",
-    "nsfw": false,
-    "year": "",
-    "description": "",
-    "description_source": "",
-    "author": [
-        "Leatherface"
-    ],
-    "author_eap": "KozenaDrzka",
-    "music": "",
-    "places_of_occurrences": [
-        "UlozTo_oiRcpJY0HX29",
-        "bulanci.ezin.cz"
-    ]
+  "guid": "FA9CAEB9-6DF5-4BEF-822C-DD348EF52E1B",
+  "name": "Mafia Little Italy",
+  "privacy": "visible",
+  "nsfw": false,
+  "year": 2020,
+  "description": "",
+  "description_source": "UlozTo_oiRcpJY0HX29",
+  "author": [
+    "Leatherface"
+  ],
+  "author_eap": "KozenaDrzka",
+  "music": "",
+  "places_of_occurrences": [
+    "UlozTo_oiRcpJY0HX29",
+    "bulanci.ezin.cz"
+  ]
 }

@@ -1,17 +1,17 @@
 {
-    "guid": "F8A0B5BF-827F-4585-A6E2-DB7A1BBA256F",
-    "name": "Kraksmrt",
-    "privacy": "visible",
-    "nsfw": false,
-    "year": "",
-    "description": "",
-    "description_source": "",
-    "author": [
-        ""
-    ],
-    "author_eap": "Krakonoš",
-    "music": "",
-    "places_of_occurrences": [
-        "UlozTo_KGy7uXDP"
-    ]
+  "guid": "F8A0B5BF-827F-4585-A6E2-DB7A1BBA256F",
+  "name": "Kraksmrt",
+  "privacy": "visible",
+  "nsfw": false,
+  "year": 2009,
+  "description": "",
+  "description_source": "UlozTo_KGy7uXDP",
+  "author": [
+    ""
+  ],
+  "author_eap": "Krakonoš",
+  "music": "",
+  "places_of_occurrences": [
+    "UlozTo_KGy7uXDP"
+  ]
 }

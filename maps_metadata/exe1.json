@@ -1,19 +1,19 @@
 {
-    "guid": "34EBB8E3-9E0E-4443-AA48-645ACE3DBB20",
-    "name": "Tři roky zpátky...",
-    "privacy": "visible",
-    "nsfw": true,
-    "year": "",
-    "description": "",
-    "description_source": "",
-    "author": [
-        ""
-    ],
-    "author_eap": "Exe",
-    "music": "Invaders Must Die (The Prodigy)",
-    "places_of_occurrences": [
-        "UlozTo_gSEBSQra",
-        "UlozTo_VJlDP5drkp1n",
-        "bulanci.ezin.cz"
-    ]
+  "guid": "34EBB8E3-9E0E-4443-AA48-645ACE3DBB20",
+  "name": "Tři roky zpátky...",
+  "privacy": "visible",
+  "nsfw": true,
+  "year": 2009,
+  "description": "",
+  "description_source": "UlozTo_gSEBSQra",
+  "author": [
+    ""
+  ],
+  "author_eap": "Exe",
+  "music": "Invaders Must Die (The Prodigy)",
+  "places_of_occurrences": [
+    "UlozTo_gSEBSQra",
+    "UlozTo_VJlDP5drkp1n",
+    "bulanci.ezin.cz"
+  ]
 }

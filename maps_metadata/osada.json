@@ -1,18 +1,18 @@
 {
-    "guid": "460532AD-77CB-4F0E-B6F3-0C03D3EB755D",
-    "name": "hrad007",
-    "privacy": "visible",
-    "nsfw": false,
-    "year": "",
-    "description": "",
-    "description_source": "",
-    "author": [
-        "kluci.cz"
-    ],
-    "author_eap": "kluci.cz",
-    "music": "",
-    "places_of_occurrences": [
-        "UlozTo_PKBUhQsy",
-        "bulanci.ezin.cz"
-    ]
+  "guid": "460532AD-77CB-4F0E-B6F3-0C03D3EB755D",
+  "name": "hrad007",
+  "privacy": "visible",
+  "nsfw": false,
+  "year": 2010,
+  "description": "",
+  "description_source": "UlozTo_PKBUhQsy",
+  "author": [
+    "kluci.cz"
+  ],
+  "author_eap": "kluci.cz",
+  "music": "",
+  "places_of_occurrences": [
+    "UlozTo_PKBUhQsy",
+    "bulanci.ezin.cz"
+  ]
 }

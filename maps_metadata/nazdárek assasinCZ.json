@@ -1,18 +1,18 @@
 {
-    "guid": "49753D09-0A0B-4FED-A702-AC9EF5003967",
-    "name": "nazdárek",
-    "privacy": "visible",
-    "nsfw": false,
-    "year": "",
-    "description": "",
-    "description_source": "",
-    "author": [
-        ""
-    ],
-    "author_eap": "assasinCZ",
-    "music": "",
-    "places_of_occurrences": [
-        "UlozTo_PKBUhQsy",
-        "bulanci.ezin.cz"
-    ]
+  "guid": "49753D09-0A0B-4FED-A702-AC9EF5003967",
+  "name": "nazdárek",
+  "privacy": "visible",
+  "nsfw": false,
+  "year": 2011,
+  "description": "",
+  "description_source": "UlozTo_PKBUhQsy",
+  "author": [
+    ""
+  ],
+  "author_eap": "assasinCZ",
+  "music": "",
+  "places_of_occurrences": [
+    "UlozTo_PKBUhQsy",
+    "bulanci.ezin.cz"
+  ]
 }

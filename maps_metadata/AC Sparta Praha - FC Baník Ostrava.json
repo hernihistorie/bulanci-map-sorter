@@ -1,19 +1,19 @@
 {
-    "guid": "75CF9948-6E96-4B5E-9F23-021E3D2F7A5B",
-    "name": "AC Sparta Praha-FC Baník Ostrava",
-    "privacy": "visible",
-    "nsfw": false,
-    "year": "",
-    "description": "",
-    "description_source": "",
-    "author": [
-        "Michael Bucha"
-    ],
-    "author_eap": "Michael Bucha",
-    "music": "",
-    "places_of_occurrences": [
-        "UlozTo_wxHZbEia",
-        "UlozTo_nzMRJyGG",
-        "bulanci.ezin.cz"
-    ]
+  "guid": "75CF9948-6E96-4B5E-9F23-021E3D2F7A5B",
+  "name": "AC Sparta Praha-FC Baník Ostrava",
+  "privacy": "visible",
+  "nsfw": false,
+  "year": 2010,
+  "description": "",
+  "description_source": "UlozTo_nzMRJyGG",
+  "author": [
+    "Michael Bucha"
+  ],
+  "author_eap": "Michael Bucha",
+  "music": "",
+  "places_of_occurrences": [
+    "UlozTo_wxHZbEia",
+    "UlozTo_nzMRJyGG",
+    "bulanci.ezin.cz"
+  ]
 }

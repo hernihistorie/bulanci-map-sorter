@@ -1,18 +1,18 @@
 {
-    "guid": "07B32AC0-5523-4030-AA56-C42D5473A2FF",
-    "name": "Ertal",
-    "privacy": "visible",
-    "nsfw": false,
-    "year": "",
-    "description": "",
-    "description_source": "",
-    "author": [
-        ""
-    ],
-    "author_eap": "",
-    "music": "",
-    "places_of_occurrences": [
-        "UlozTo_Z2A9PWMFt",
-        "bulanci.ezin.cz"
-    ]
+  "guid": "07B32AC0-5523-4030-AA56-C42D5473A2FF",
+  "name": "Ertal",
+  "privacy": "visible",
+  "nsfw": false,
+  "year": 2012,
+  "description": "",
+  "description_source": "UlozTo_Z2A9PWMFt",
+  "author": [
+    ""
+  ],
+  "author_eap": "",
+  "music": "",
+  "places_of_occurrences": [
+    "UlozTo_Z2A9PWMFt",
+    "bulanci.ezin.cz"
+  ]
 }

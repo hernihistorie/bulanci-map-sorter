@@ -1,18 +1,18 @@
 {
-    "guid": "B24911BC-6DA8-474F-8508-465115118879",
-    "name": "Bulibludiště",
-    "privacy": "visible",
-    "nsfw": false,
-    "year": "",
-    "description": "",
-    "description_source": "",
-    "author": [
-        "Krakenak"
-    ],
-    "author_eap": "Krakenak",
-    "music": "Coco jamboo (Mr. President)",
-    "places_of_occurrences": [
-        "UlozTo_VJlDP5drkp1n",
-        "bulanci.ezin.cz"
-    ]
+  "guid": "B24911BC-6DA8-474F-8508-465115118879",
+  "name": "Bulibludiště",
+  "privacy": "visible",
+  "nsfw": false,
+  "year": 2017,
+  "description": "",
+  "description_source": "UlozTo_VJlDP5drkp1n",
+  "author": [
+    "Krakenak"
+  ],
+  "author_eap": "Krakenak",
+  "music": "Coco jamboo (Mr. President)",
+  "places_of_occurrences": [
+    "UlozTo_VJlDP5drkp1n",
+    "bulanci.ezin.cz"
+  ]
 }

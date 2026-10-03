@@ -1,18 +1,18 @@
 {
-    "guid": "16E09B5D-BF1D-404C-91DD-F11A738B2032",
-    "name": "Kingdom of Jilop",
-    "privacy": "visible",
-    "nsfw": false,
-    "year": "",
-    "description": "",
-    "description_source": "",
-    "author": [
-        ""
-    ],
-    "author_eap": "Jilop",
-    "music": "Prolog - Andro (Soundtrack)",
-    "places_of_occurrences": [
-        "UlozTo_sg4Y87YT",
-        "bulanci.ezin.cz"
-    ]
+  "guid": "16E09B5D-BF1D-404C-91DD-F11A738B2032",
+  "name": "Kingdom of Jilop",
+  "privacy": "visible",
+  "nsfw": false,
+  "year": 2006,
+  "description": "",
+  "description_source": "UlozTo_sg4Y87YT",
+  "author": [
+    ""
+  ],
+  "author_eap": "Jilop",
+  "music": "Prolog - Andro (Soundtrack)",
+  "places_of_occurrences": [
+    "UlozTo_sg4Y87YT",
+    "bulanci.ezin.cz"
+  ]
 }

@@ -1,18 +1,18 @@
 {
-    "guid": "AB105629-3898-4082-9D71-00AC3E2AD405",
-    "name": "Mafia Parkoviste",
-    "privacy": "visible",
-    "nsfw": false,
-    "year": "",
-    "description": "",
-    "description_source": "",
-    "author": [
-        "Leatherface"
-    ],
-    "author_eap": "Leatherface",
-    "music": "",
-    "places_of_occurrences": [
-        "UlozTo_RNHnUu49",
-        "bulanci.ezin.cz"
-    ]
+  "guid": "AB105629-3898-4082-9D71-00AC3E2AD405",
+  "name": "Mafia Parkoviste",
+  "privacy": "visible",
+  "nsfw": false,
+  "year": 2010,
+  "description": "",
+  "description_source": "UlozTo_RNHnUu49",
+  "author": [
+    "Leatherface"
+  ],
+  "author_eap": "Leatherface",
+  "music": "",
+  "places_of_occurrences": [
+    "UlozTo_RNHnUu49",
+    "bulanci.ezin.cz"
+  ]
 }

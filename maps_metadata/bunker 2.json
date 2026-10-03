@@ -1,18 +1,18 @@
 {
-    "guid": "3CD82711-286F-49DC-949D-82AE02C11F3D",
-    "name": "rezygame.eu - bunker 2",
-    "privacy": "visible",
-    "nsfw": false,
-    "year": "",
-    "description": "",
-    "description_source": "",
-    "author": [
-        "rezygame.eu"
-    ],
-    "author_eap": "rezygame.eu",
-    "music": "Bedtime story (Pillow Bros)",
-    "places_of_occurrences": [
-        "UlozTo_Z2A9PWMFt",
-        "bulanci.ezin.cz"
-    ]
+  "guid": "3CD82711-286F-49DC-949D-82AE02C11F3D",
+  "name": "rezygame.eu - bunker 2",
+  "privacy": "visible",
+  "nsfw": false,
+  "year": 2012,
+  "description": "",
+  "description_source": "UlozTo_Z2A9PWMFt",
+  "author": [
+    "rezygame.eu"
+  ],
+  "author_eap": "rezygame.eu",
+  "music": "Bedtime story (Pillow Bros)",
+  "places_of_occurrences": [
+    "UlozTo_Z2A9PWMFt",
+    "bulanci.ezin.cz"
+  ]
 }

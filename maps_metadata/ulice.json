@@ -1,18 +1,18 @@
 {
-    "guid": "107FBCE8-D645-445F-A492-1DC8D9EDDACB",
-    "name": "ulice",
-    "privacy": "visible",
-    "nsfw": false,
-    "year": "",
-    "description": "",
-    "description_source": "",
-    "author": [
-        "Šťaba"
-    ],
-    "author_eap": "Šťaba aka Don West",
-    "music": "",
-    "places_of_occurrences": [
-        "UlozTo_STRfY5GX",
-        "bulanci.ezin.cz"
-    ]
+  "guid": "107FBCE8-D645-445F-A492-1DC8D9EDDACB",
+  "name": "ulice",
+  "privacy": "visible",
+  "nsfw": false,
+  "year": 2008,
+  "description": "",
+  "description_source": "UlozTo_kebj5JKv",
+  "author": [
+    "Šťaba"
+  ],
+  "author_eap": "Šťaba aka Don West",
+  "music": "",
+  "places_of_occurrences": [
+    "UlozTo_STRfY5GX",
+    "bulanci.ezin.cz"
+  ]
 }

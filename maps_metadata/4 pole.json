@@ -1,19 +1,19 @@
 {
-    "guid": "115EB3DF-B673-47B9-9C83-0DA6AAF1F626",
-    "name": "4 pole",
-    "privacy": "visible",
-    "nsfw": false,
-    "year": "",
-    "description": "",
-    "description_source": "",
-    "author": [
-        "ondatra"
-    ],
-    "author_eap": "Ondatra",
-    "music": "Detroit Rock City (Kiss)",
-    "places_of_occurrences": [
-        "UlozTo_wxHZbEia",
-        "UlozTo_nzMRJyGG",
-        "bulanci.ezin.cz"
-    ]
+  "guid": "115EB3DF-B673-47B9-9C83-0DA6AAF1F626",
+  "name": "4 pole",
+  "privacy": "visible",
+  "nsfw": false,
+  "year": 2010,
+  "description": "",
+  "description_source": "UlozTo_nzMRJyGG",
+  "author": [
+    "ondatra"
+  ],
+  "author_eap": "Ondatra",
+  "music": "Detroit Rock City (Kiss)",
+  "places_of_occurrences": [
+    "UlozTo_wxHZbEia",
+    "UlozTo_nzMRJyGG",
+    "bulanci.ezin.cz"
+  ]
 }

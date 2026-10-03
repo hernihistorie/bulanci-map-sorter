@@ -1,18 +1,18 @@
 {
-    "guid": "3E58ED07-2F1E-4D54-BD1A-C531A844B47E",
-    "name": "polštářky",
-    "privacy": "visible",
-    "nsfw": false,
-    "year": "",
-    "description": "",
-    "description_source": "",
-    "author": [
-        ""
-    ],
-    "author_eap": "assasinCZ",
-    "music": "",
-    "places_of_occurrences": [
-        "UlozTo_PKBUhQsy",
-        "bulanci.ezin.cz"
-    ]
+  "guid": "3E58ED07-2F1E-4D54-BD1A-C531A844B47E",
+  "name": "polštářky",
+  "privacy": "visible",
+  "nsfw": false,
+  "year": 2011,
+  "description": "",
+  "description_source": "UlozTo_PKBUhQsy",
+  "author": [
+    ""
+  ],
+  "author_eap": "assasinCZ",
+  "music": "",
+  "places_of_occurrences": [
+    "UlozTo_PKBUhQsy",
+    "bulanci.ezin.cz"
+  ]
 }

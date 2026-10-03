@@ -1,19 +1,19 @@
 {
-    "guid": "39C638BD-45E5-45A4-A206-084B2B1D1924",
-    "name": "bojiště",
-    "privacy": "visible",
-    "nsfw": false,
-    "year": "",
-    "description": "",
-    "description_source": "",
-    "author": [
-        "ondatra"
-    ],
-    "author_eap": "ondatra",
-    "music": "Track 01 (Master)",
-    "places_of_occurrences": [
-        "UlozTo_wxHZbEia",
-        "UlozTo_nzMRJyGG",
-        "bulanci.ezin.cz"
-    ]
+  "guid": "39C638BD-45E5-45A4-A206-084B2B1D1924",
+  "name": "bojiště",
+  "privacy": "visible",
+  "nsfw": false,
+  "year": 2010,
+  "description": "",
+  "description_source": "UlozTo_nzMRJyGG",
+  "author": [
+    "ondatra"
+  ],
+  "author_eap": "ondatra",
+  "music": "Track 01 (Master)",
+  "places_of_occurrences": [
+    "UlozTo_wxHZbEia",
+    "UlozTo_nzMRJyGG",
+    "bulanci.ezin.cz"
+  ]
 }

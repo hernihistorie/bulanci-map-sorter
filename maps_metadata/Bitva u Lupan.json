@@ -1,18 +1,18 @@
 {
-    "guid": "4EB57254-A836-4F24-B19E-8327AAF8B358",
-    "name": "Bitva u Lupan",
-    "privacy": "visible",
-    "nsfw": false,
-    "year": "",
-    "description": "",
-    "description_source": "",
-    "author": [
-        ""
-    ],
-    "author_eap": "",
-    "music": "Golden Years (The Feathers)",
-    "places_of_occurrences": [
-        "UlozTo_Z2A9PWMFt",
-        "bulanci.ezin.cz"
-    ]
+  "guid": "4EB57254-A836-4F24-B19E-8327AAF8B358",
+  "name": "Bitva u Lupan",
+  "privacy": "visible",
+  "nsfw": false,
+  "year": 2012,
+  "description": "",
+  "description_source": "UlozTo_Z2A9PWMFt",
+  "author": [
+    ""
+  ],
+  "author_eap": "",
+  "music": "Golden Years (The Feathers)",
+  "places_of_occurrences": [
+    "UlozTo_Z2A9PWMFt",
+    "bulanci.ezin.cz"
+  ]
 }

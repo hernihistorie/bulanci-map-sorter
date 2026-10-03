@@ -1,18 +1,18 @@
 {
-    "guid": "A5E12CD8-4A75-4126-B726-000C4100D4EB",
-    "name": "theone88",
-    "privacy": "visible",
-    "nsfw": false,
-    "year": "",
-    "description": "",
-    "description_source": "",
-    "author": [
-        ""
-    ],
-    "author_eap": "maarec",
-    "music": "",
-    "places_of_occurrences": [
-        "UlozTo_5PsfU2pb917t",
-        "bulanci.ezin.cz"
-    ]
+  "guid": "A5E12CD8-4A75-4126-B726-000C4100D4EB",
+  "name": "theone88",
+  "privacy": "visible",
+  "nsfw": false,
+  "year": 2006,
+  "description": "",
+  "description_source": "UlozTo_5PsfU2pb917t",
+  "author": [
+    ""
+  ],
+  "author_eap": "maarec",
+  "music": "",
+  "places_of_occurrences": [
+    "UlozTo_5PsfU2pb917t",
+    "bulanci.ezin.cz"
+  ]
 }

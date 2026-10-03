@@ -1,18 +1,18 @@
 {
-    "guid": "357426C6-C586-4FA2-9A5A-3D3E430C09A7",
-    "name": "MORKOVO DOUPĚ",
-    "privacy": "visible",
-    "nsfw": false,
-    "year": "",
-    "description": "",
-    "description_source": "",
-    "author": [
-        "LeatherSoft"
-    ],
-    "author_eap": "LEATHERSOFT",
-    "music": "",
-    "places_of_occurrences": [
-        "UlozTo_RNHnUu49",
-        "bulanci.ezin.cz"
-    ]
+  "guid": "357426C6-C586-4FA2-9A5A-3D3E430C09A7",
+  "name": "MORKOVO DOUPĚ",
+  "privacy": "visible",
+  "nsfw": false,
+  "year": 2009,
+  "description": "",
+  "description_source": "UlozTo_RNHnUu49",
+  "author": [
+    "LeatherSoft"
+  ],
+  "author_eap": "LEATHERSOFT",
+  "music": "",
+  "places_of_occurrences": [
+    "UlozTo_RNHnUu49",
+    "bulanci.ezin.cz"
+  ]
 }

@@ -1,19 +1,19 @@
 {
-    "guid": "7AEA54B8-ED58-4184-BE5D-C30A3EAC18DB",
-    "name": "NEW Laboratorium",
-    "privacy": "visible",
-    "nsfw": false,
-    "year": "",
-    "description": "",
-    "description_source": "",
-    "author": [
-        ""
-    ],
-    "author_eap": "Paul",
-    "music": "Metamorphosis (Evile)",
-    "places_of_occurrences": [
-        "UlozTo_gSEBSQra",
-        "UlozTo_VJlDP5drkp1n",
-        "bulanci.ezin.cz"
-    ]
+  "guid": "7AEA54B8-ED58-4184-BE5D-C30A3EAC18DB",
+  "name": "NEW Laboratorium",
+  "privacy": "visible",
+  "nsfw": false,
+  "year": 2009,
+  "description": "",
+  "description_source": "UlozTo_gSEBSQra",
+  "author": [
+    ""
+  ],
+  "author_eap": "Paul",
+  "music": "Metamorphosis (Evile)",
+  "places_of_occurrences": [
+    "UlozTo_gSEBSQra",
+    "UlozTo_VJlDP5drkp1n",
+    "bulanci.ezin.cz"
+  ]
 }

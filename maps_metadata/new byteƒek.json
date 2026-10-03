@@ -1,18 +1,18 @@
 {
-    "guid": "A026599B-FBA8-4294-96EE-8F69AC002620",
-    "name": "new byteček",
-    "privacy": "visible",
-    "nsfw": false,
-    "year": "",
-    "description": "",
-    "description_source": "",
-    "author": [
-        ""
-    ],
-    "author_eap": "Chose",
-    "music": "Charlies Angels 2000 (Apollo 440)",
-    "places_of_occurrences": [
-        "UlozTo_PbcmPnKs",
-        "bulanci.ezin.cz"
-    ]
+  "guid": "A026599B-FBA8-4294-96EE-8F69AC002620",
+  "name": "new byteček",
+  "privacy": "visible",
+  "nsfw": false,
+  "year": 2009,
+  "description": "",
+  "description_source": "UlozTo_PbcmPnKs",
+  "author": [
+    ""
+  ],
+  "author_eap": "Chose",
+  "music": "Charlies Angels 2000 (Apollo 440)",
+  "places_of_occurrences": [
+    "UlozTo_PbcmPnKs",
+    "bulanci.ezin.cz"
+  ]
 }

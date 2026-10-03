@@ -1,23 +1,23 @@
 {
-    "guid": "08FCF65A-CCC0-4B08-BC69-8ADBBB18BB16",
-    "name": "Přestřelka",
-    "privacy": "visible",
-    "nsfw": false,
-    "year": "",
-    "description": "",
-    "description_source": "",
-    "author": [
-        "Mirek Schnaubert"
-    ],
-    "author_eap": "SCHNAUBELT",
-    "music": "AudioTrack 03 (Tatu)",
-    "places_of_occurrences": [
-        "bulanci.wbl.sk",
-        "bulanci.yc.cz",
-        "UlozTo_gSEBSQra",
-        "UlozTo_VJlDP5drkp1n",
-        "UlozTo_Xv9k9GeW",
-        "UlozTo_Z3XTggvB",
-        "bulanci.ezin.cz"
-    ]
+  "guid": "08FCF65A-CCC0-4B08-BC69-8ADBBB18BB16",
+  "name": "Přestřelka",
+  "privacy": "visible",
+  "nsfw": false,
+  "year": 2007,
+  "description": "",
+  "description_source": "UlozTo_Xv9k9GeW",
+  "author": [
+    "Mirek Schnaubert"
+  ],
+  "author_eap": "SCHNAUBELT",
+  "music": "AudioTrack 03 (Tatu)",
+  "places_of_occurrences": [
+    "bulanci.wbl.sk",
+    "bulanci.yc.cz",
+    "UlozTo_gSEBSQra",
+    "UlozTo_VJlDP5drkp1n",
+    "UlozTo_Xv9k9GeW",
+    "UlozTo_Z3XTggvB",
+    "bulanci.ezin.cz"
+  ]
 }
