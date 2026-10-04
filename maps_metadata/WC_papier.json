@@ -3,9 +3,10 @@
     "name": "WC papier",
     "privacy": "visible",
     "nsfw": false,
-    "year": 2008,
+    "year": 2007,
     "description": "",
-    "description_source": "",
+    "description_source": "bulanci.wbl.sk/Mapy_do_Bulanci.html",
+    "description_note": "9_izieb.json",
     "author": [
         "Ján Kucan"
     ],

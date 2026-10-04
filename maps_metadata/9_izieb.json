@@ -3,9 +3,10 @@
     "name": "9 izieb",
     "privacy": "visible",
     "nsfw": false,
-    "year": 2008,
+    "year": 2007,
     "description": "",
-    "description_source": "",
+    "description_source": "bulanci.wbl.sk/Mapy_do_Bulanci.html",
+    "description_note": "Rok vzniku všech map od Jána Kucana byl zjištěn ze změn mezi snapshoty na autorově webu bulanci.wbl.sk. Protože se sekce s mapami přesunula z původní adresy (/index.php?menu=2) na začátku roku 2008 na adresu novou (/Mapy_do_Bulanci.html), uvažují, že všech 15 map, které jsou přítomné na nejstarším snapshotu nové adresy jsou z roku 2007. Vodítkem ke správnosti této úvahy je i fakt, že rozbitá sekce s mapami na staré adrese obsahoval 15 řádků se ztraceným textem, což početně odpovídá 15 mapám které byly na nové adrese v roce 2008.",
     "author": [
         "Ján Kucan"
     ],

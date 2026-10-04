@@ -30,8 +30,8 @@ def main():
         sys.exit(f"Folder not found: {meta_root}")
 
     total = 0
-    matched = 0
     unreadable = 0
+    results = []   # (author, file name, year)
 
     for jp in sorted(meta_root.rglob("*.json")):
         total += 1
@@ -42,9 +42,17 @@ def main():
             continue
 
         if not is_empty(data.get("year")) and is_empty(data.get("description_source")):
-            matched += 1
-            print(f"{jp.name}  (year: {data['year']})")
+            author = data.get("author")
+            author = "" if is_empty(author) else str(author).strip()
+            results.append((author, jp.name, data["year"]))
 
+    # alphabetical by author (case-insensitive); empty authors go to the end
+    results.sort(key=lambda r: (r[0] == "", r[0].casefold(), r[1].casefold()))
+
+    for author, name, year in results:
+        print(f"{author or '(no author)'} | {name} | year: {year}")
+
+    matched = len(results)
     print()
     print(f"Checked: {total} | year filled, no description_source: {matched} | unreadable: {unreadable}")
 
