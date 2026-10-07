@@ -5,7 +5,8 @@
     "nsfw": false,
     "year": 2007,
     "description": "",
-    "description_source": "",
+    "description_source": "bulanci.yc.cz/vytvorenelevely.html",
+    "description_note": "teleportate.json",
     "author": [
         "Filip Řeha"
     ],

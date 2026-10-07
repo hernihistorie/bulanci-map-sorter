@@ -5,7 +5,8 @@
     "nsfw": false,
     "year": 2006,
     "description": "",
-    "description_source": "",
+    "description_source": "maps-of-bulanci.wz.cz/mapy.html",
+    "description_note": "bunkers.json",
     "author": [
         "Hoky"
     ],

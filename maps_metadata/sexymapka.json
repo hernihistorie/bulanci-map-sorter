@@ -2,10 +2,11 @@
     "guid": "1C88D6B3-2AC0-4681-81CE-F63058175979",
     "name": "Sexmapa",
     "privacy": "visible",
-    "nsfw": false,
+    "nsfw": true,
     "year": 2008,
     "description": "",
-    "description_source": "",
+    "description_source": "klansvobodnibulanci.blog.cz/0702/levely-ke-stazeni",
+    "description_note": "Zjištěno z komentářů z pozdějších snapshotů postu.",
     "author": [
         "Gladiator"
     ],

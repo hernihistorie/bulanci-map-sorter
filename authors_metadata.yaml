@@ -172,7 +172,6 @@ Kejo:
 - alias: kejo
   visible: true
 Kelt: null
-killerFPM: null
 Klan Ohořelý polštáře: null
 klan svobodných bulánků:
 - web: klansvobodnibulanci.blog.cz
@@ -197,6 +196,8 @@ Kraamis: null
 Krakenak: null
 lacko4444122: null
 Lakomy:
+- alias: Ulfshardje
+  visible: true
 - alias: Lakomý Ondra
   visible: false
 - alias: Lakomý Ondřej
@@ -414,8 +415,9 @@ TERCIE-B:
   visible: true
 TheLukasluk: null
 tom: null
-Tomba: null
-TombaP: null
+TombaP:
+- alias: LukinP
+  visible: true
 tomo.: null
 Tomáš Kukal:
 - web: tomaskukal.blog.cz
@@ -438,7 +440,6 @@ Tomáš Kukal:
 Tomáš Snopko: null
 Tonda: null
 TONY-VOCKO: null
-Ulfshardje: null
 Vistys: null
 Vivko: null
 Vojta: null

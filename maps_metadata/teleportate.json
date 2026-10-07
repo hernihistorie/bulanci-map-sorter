@@ -5,7 +5,8 @@
     "nsfw": false,
     "year": 2007,
     "description": "",
-    "description_source": "",
+    "description_source": "bulanci.yc.cz/vytvorenelevely.html",
+    "description_note": "Mapy od Filipa Řehy byly na jeho web přidány už před vznikem prvního snapshotu tohoto webu (červen 2007). Protože na prvních snapshotech vypadá, že je web ve svých začátcích (zejména co se týče počtu map), tak jsou mapy tohoto autora řazeny do roku 2007.",
     "author": [
         "Filip Řeha"
     ],
