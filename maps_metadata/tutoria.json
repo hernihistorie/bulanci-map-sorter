@@ -1,5 +1,6 @@
 {
     "guid": "664AB5D7-9593-4875-9FC2-BEC27E54F277",
+    "duplicate_of": "tutorial",
     "name": "Tutorial 1",
     "privacy": "visible",
     "nsfw": false,

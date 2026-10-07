@@ -1,5 +1,6 @@
 {
     "guid": "C7CF911D-70EE-43E3-B86F-356CB6AEAE58",
+    "duplicate_of": "minova_zahradka",
     "name": "Minová Zahrádka",
     "privacy": "visible",
     "nsfw": false,

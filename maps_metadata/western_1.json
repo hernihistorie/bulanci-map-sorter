@@ -1,5 +1,6 @@
 {
     "guid": "DFA12142-06AB-4170-92E9-A9FBE68D66E0",
+    "duplicate_of": "western",
     "name": "Western",
     "privacy": "visible",
     "nsfw": false,
