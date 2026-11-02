@@ -2,18 +2,18 @@ bulanci.cz:
 - id: 0
 - shown-name: Oficiální web hry Bulánci
 - canon_url: "https://web.archive.org/web/20051208033249/http://bulanci.sleepteam.com/"
-- description_cs:
-- description_en:
+- description_cs: Oficiální web hry <i>Bulánci</i>, založený na přelomu let 2001 a 2002.
+- description_en: The official website for <i>Bulánci</i>, launched around the turn of 2001 and 2002.
 - startYear: 2002
   source: wbm
 - referenced-web: !!set {2, 3, 4, 6, 8, 9, 11, 13, 55}
 
 bulanci.czweb.org:
-- id : 1
+- id: 1
 - shown-name: null
 - canon_url: "https://web.archive.org/web/20040301024445/http://www.bulanci.czweb.org/home.html"
-- description_cs:
-- description_en:
+- description_cs: Fanouškovský web věnovaný hře <i>Bulánci</i>, který obsahuje pouze základní informace o hře. Zajímavý je zejména tím, že je celý tvořen prvky naprogramovanými ve Flashi.
+- description_en: A fan website dedicated to <i>Bulánci</i>, containing only basic information about the game. It is particularly interesting because the entire website consists of elements programmed in Flash.
 - startYear: 2002
   source: wbm #year is found on WayBack Machine
 - endYear: 2002 #last activity on the web
@@ -37,8 +37,8 @@ bulanci.3games.cz:
 - id: 2
 - shown-name: klan Mazlík
 - canon_url: "https://web.archive.org/web/20030215123055/https://bulanci.3games.cz/800x600.html"
-- description_cs:
-- description_en:
+- description_cs: Web věnovaný prezentaci bulánčího klanu Mazlík. Kromě základního přehledu o klanu obsahuje také soubory ke stažení.
+- description_en: A website dedicated to the <i>Bulánci</i> clan Mazlík. In addition to a basic overview of the clan, it also offers downloadable game files.
 - startYear: 2002
   source: web
 - endYear: 2003
@@ -62,8 +62,8 @@ bulanci.wz.cz:
 - id: 3
 - shown-name: null
 - canon_url: "https://web.archive.org/web/20050830213322/http://bulanci.wz.cz/index2.htm"
-- description_cs:
-- description_en:
+- description_cs: Fanouškovský web věnovaný hře <i>Bulánci</i>. Stejně jako mnoho podobných webů z této doby nabízel herní soubory ke stažení. Kromě toho obsahoval také sekci s fanouškovským merchem a umožňoval registraci fanoušků, kteří tak mohli veřejně vyjádřit svou náklonnost ke hře.
+- description_en: A fan website dedicated to <i>Bulánci</i>. Like many similar websites of the time, it offered downloadable game files. In addition, it featured a section selling fan merchandise and allowed users to register as fans and publicly show their support for the game.
 - startYear: 2002
   source: web
 - endYear: 2003
@@ -85,36 +85,36 @@ bulanci.wz.cz:
 
 sweb.cz/pisinger:
 - id: 4
-- shown-name:
-- canon_url:
-- description_cs:
-- description_en:
-- startYear: 
-  source:
-- endYear:
-  source:
-- service:
+- shown-name: BULÁNČÍ FAN-CLUB
+- canon_url: "https://web.archive.org/web/20221115232440/http://pisinger.sweb.cz/start.html"
+- description_cs: Ranný fanouškovský web obsahující stažitelnou verzi hry <i>Bulánci</i>, ale také (bohužel již nedostupný) rozhovor s jejími autory, seznam odkazů na další weby, možnost přihlásit se do bulánčího fan-klubu a nástroj pro pořádání online turnajů ve hře <i>Bulánci</i>.
+- description_en: An early fan website featuring a downloadable version of <i>Bulánci</i>, as well as an (unfortunately no longer accessible) interview with the game's developers, a list of links to other websites, an option to join the <i>Bulánci</i> fan club, and a tool for organizing online <i>Bulánci</i> tournaments.
+- startYear: 2002
+  source: wbm
+- endYear: 2002
+  source: wbm
+- service: sweb
 - referenced-web: !!set {}
 - borrowed-info:
-  - game-info:
-  - poetry:
-  - history:
-  - game-download:
-  - official-web:
+  - game-info: null
+  - poetry: true
+  - history: false
+  - game-download: true
+  - official-web: false
 - community:
-  - clan:
-  - tournaments:
+  - clan: false
+  - tournaments: true
 - user-generated-content:
-  - manual:
-  - own-levels:
-  - levels-of-other:
+  - manual: false
+  - own-levels: false
+  - levels-of-other: false
 
 flash-bulanci.wz.cz:
 - id: 5
 - shown-name: null
 - canon_url: "https://web.archive.org/web/20030421194434/http://www.flash-bulanci.wz.cz/"
-- description_cs:
-- description_en:
+- description_cs: Fanouškovský web věnovaný hře <i>Bulánci</i>, který obsahuje pouze základní informace o hře. Zajímavý je zejména tím, že je celý tvořen prvky naprogramovanými ve Flashi.
+- description_en: A fan website dedicated to <i>Bulánci</i>, containing only basic information about the game. It is particularly interesting because the entire website consists of elements programmed in Flash.
 - startYear: 2003
   source: wbm
 - endYear: 2003
@@ -138,8 +138,8 @@ bulanci.zapisky.info:
 - id: 6
 - shown-name: Bulánci (DJ Sanka)
 - canon_url: "https://web.archive.org/web/20040210100135/http://bulanci.zapisky.info/"
-- description_cs:
-- description_en:
+- description_cs: Web věnovaný hře <i>Bulánci</i>. Kromě základních informací o hře obsahuje také všechny oficiální soubory ke stažení, historii <i>Bulánků</i> a poezii inspirovanou hrou.
+- description_en: A website dedicated to <i>Bulánci</i>. In addition to basic information about the game, it features all official downloadable files, a history of <i>Bulánci</i>, and poetry inspired by the game.
 - startYear: 2003
   source: wbm
 - endYear: 2006
@@ -163,8 +163,8 @@ bulanci.euweb.cz:
 - id: 7
 - shown-name: null
 - canon_url: "https://web.archive.org/web/20031215224612/http://bulanci.euweb.cz/"
-- description_cs:
-- description_en:
+- description_cs: Web vytvořený za účelem prezentace plánovaného bulánčího klanu, který však zřejmě nikdy nevznikl.
+- description_en: A website created to showcase a planned <i>Bulánci</i> clan that apparently never came into existence.
 - startYear: 2003
   source: web
 - endYear: 2004
@@ -188,8 +188,8 @@ bulanci.aktualne.cz:
 - id: 8
 - shown-name: null
 - canon_url: "https://web.archive.org/web/20031220161010/http://bulanci.ic.cz/"
-- description_cs: Web mimojiné obsahoval online bulánčí skládačku a také možnost si vytvořit vlastní bulánčí tričko.
-- description_en:
+- description_cs: Fanouškovský web obsahující především základní přehled a návody ke hře <i>Bulánci</i>. Od podobných webů z té doby se odlišoval také možností skládat online bulánčí puzzle a vytvořit si vlastní bulánčí tričko.
+- description_en: A fan website featuring primarily a basic overview and guides for <i>Bulánci</i>. It stood out from similar websites of the time by offering an online <i>Bulánci</i> jigsaw puzzle and the option to design a custom <i>Bulánci</i> T-shirt.
 - startYear: 2003
   source: web
 - endYear: 2004
@@ -213,8 +213,8 @@ intruders.wz.cz:
 - id: 9
 - shown-name: "[iNtruders clan]"
 - canon_url: "https://web.archive.org/web/20070212000616/http://intruders.wz.cz/"
-- description_cs:
-- description_en:
+- description_cs: Web vytvořený za účelem prezentace aktivit bulánčího klanu iNtruders. Obsahuje recenze a články od členů klanu, základní informace o hře <i>Bulánci</i> i její stažitelnou verzi.
+- description_en: A website created to showcase the activities of the <i>Bulánci</i> clan iNtruders. It features reviews and articles written by clan members, basic information about <i>Bulánci</i>, and a downloadable version of the game.
 - startYear: 2003
   source: web
 - endYear: 2005
@@ -238,8 +238,8 @@ bulanci-game.wz.cz:
 - id: 10
 - shown-name: null
 - canon_url: "https://web.archive.org/web/20040227235007/http://www.bulanci-game.wz.cz/"
-- description_cs:
-- description_en:
+- description_cs: Fanouškovský web obsahující základní informace o hře <i>Bulánci</i>, stažitelnou verzi hry a další oficiální soubory. Za zmínku stojí, že je celý web vytvořen jako aplikace ve Flashi.
+- description_en: A fan website featuring basic information about <i>Bulánci</i>, a downloadable version of the game, and other official files. Notably, the entire website is built as a Flash application.
 - startYear: 2004
   source: wbm
 - endYear: 2004
@@ -263,8 +263,8 @@ bulanci.webz.cz:
 - id: 11
 - shown-name: null
 - canon_url: "https://web.archive.org/web/20050130175023/http://bulanci.webz.cz/"
-- description_cs:
-- description_en:
+- description_cs: Fanouškovský web obsahující základní informace o hře <i>Bulánci</i> a její stažitelnou verzi. Zajímavější jsou však aktivity vytvořené autorem webu, například bulánčí puzzle. Web se od ostatních podobných stránek odlišuje také tím, že obsahuje anglickou jazykovou verzi.
+- description_en: A fan website featuring basic information about <i>Bulánci</i> and a downloadable version of the game. More noteworthy, however, are activities created by the website's author, such as a <i>Bulánci</i> jigsaw puzzle. The website also stands out from similar sites by offering an English-language version.
 - startYear: 2004
   source: wbm
 - endYear: 2005
@@ -288,8 +288,8 @@ strankabulanku.wz.cz:
 - id: 12
 - shown-name: null
 - canon_url: "https://web.archive.org/web/20061206211829/http://strankabulanku.wz.cz/"
-- description_cs:
-- description_en:
+- description_cs: Fanouškovský web obsahující základní informace o hře <i>Bulánci</i>, její stažitelnou verzi a další oficiální soubory.
+- description_en: A fan website featuring basic information about <i>Bulánci</i>, a downloadable version of the game, and other official files.
 - startYear: 2004
   source: wbm
 - endYear: 2006
@@ -313,8 +313,8 @@ bulanci.webzdarma.cz:
 - id: 13
 - shown-name: ANNIHIL@TORS
 - canon_url: "https://web.archive.org/web/http://bulanci.webzdarma.cz/index.php"
-- description_cs:
-- description_en:
+- description_cs: Pouze ve fragmentech dochovaný web bulánčího klanu s názvem Annihilators.
+- description_en: A website of the <i>Bulánci</i> clan Annihilators, preserved only in fragments.
 - startYear: 2005
   source: wbm
 - endYear: 2005
@@ -337,9 +337,9 @@ bulanci.webzdarma.cz:
 bulanci.mysteria.cz:
 - id: 14
 - shown-name: BULANCI.mysteria.cz
-- canon_url: "https://web.archive.org/web/http://bulanci.webzdarma.cz/index.php"
-- description_cs:
-- description_en:
+- canon_url: "https://web.archive.org/web/20061220055949/http://bulanci.mysteria.cz"
+- description_cs: Fanouškovský web obsahující základní informace o hře <i>Bulánci</i>, její stažitelnou verzi a další oficiální soubory. Součástí webu je také autorův popis jednotlivých herních prvků.
+- description_en: A fan website featuring basic information about <i>Bulánci</i>, a downloadable version of the game, and other official files. The website also includes the author's descriptions of various game elements.
 - startYear: 2005
   source: wbm
 - endYear: 2005
@@ -359,12 +359,12 @@ bulanci.mysteria.cz:
   - own-levels: false
   - levels-of-other: false
 
-bulancibom.estranky.cz:
+bulanciborn.estranky.cz:
 - id: 15
 - shown-name: null
-- canon_url: "https://web.archive.org/web/http://bulanci.webzdarma.cz/index.php"
-- description_cs:
-- description_en:
+- canon_url: "https://web.archive.org/web/20070714174248/http://www.bulancibom.estranky.cz/"
+- description_cs: Standardní fanouškovský web obsahující popis hry <i>Bulánci</i> a oficiální soubory ke stažení, včetně samotné hry a jejího traileru.
+- description_en: A typical fan website featuring a description of <i>Bulánci</i> and official downloadable files, including the game itself and its trailer.
 - startYear: 2005
   source: web
 - endYear: 2008
@@ -388,8 +388,8 @@ gandalf.estranky.cz:
 - id: 16
 - shown-name: Gandalfovy stránky
 - canon_url: "https://web.archive.org/web/20090415165933/http://www.gandalf.estranky.cz/"
-- description_cs:
-- description_en:
+- description_cs: Osobní blog prominentního tvůrce map z bulánčí komunity vystupujícího pod přezdívkou Gandalf. <i>Bulánci</i> zde představují pouze okrajové téma, neboť autor se zaměřuje především na své další zájmy.
+- description_en: A personal blog by Gandalf, a prominent map creator in the <i>Bulánci</i> community. <i>Bulánci</i> are only a minor topic on the blog, as the author primarily focuses on his other interests.
 - startYear: 2005
   source: web
 - endYear: 2008
@@ -413,8 +413,8 @@ maps-of-bulanci.wz.cz:
 - id: 18
 - shown-name: Maps of Bulánci
 - canon_url: "https://web.archive.org/web/20070212030544/http://maps-of-bulanci.wz.cz/"
-- description_cs: Jeden z prvních fanouškovských webů věnovaných hře <i>Bulánci</i>, který se snažil o agregaci fanouškovských map. Díky jeho prvenství do značné míry definoval, které mapy se nejčastěji šířily v rámci různých kolekcí fanouškovského obsahu. 
-- description_en:
+- description_cs: Pravděpodobně první fanouškovský web věnovaný hře <i>Bulánci</i>, který se zaměřoval na shromažďování fanouškovských map. Díky svému prvenství do značné míry ovlivnil, které mapy se nejčastěji šířily v různých kolekcích fanouškovského obsahu.
+- description_en: Probably the first fan website dedicated to <i>Bulánci</i> to focus on collecting fan-made maps. As one of the earliest sites of its kind, it largely shaped which maps were most frequently distributed in various collections of fan-made content.
 - startYear: 2006
   source: web
 - endYear: 2007
@@ -437,9 +437,9 @@ maps-of-bulanci.wz.cz:
 sp.webgarden.cz:
 - id: 19
 - shown-name: Bulánčí klan <=SP=> a Vodní dýmky
-- canon_url: "https://web.archive.org/web/20090415165933/http://www.gandalf.estranky.cz/"
-- description_cs:
-- description_en:
+- canon_url: "https://web.archive.org/web/20070523071617/http://sp.webgarden.cz/"
+- description_cs: Web prezentující aktivity bulánčího klanu <=SP=>. Obsahuje novinky a fotografie z činnosti klanu, stejně jako stažitelnou verzi hry <i>Bulánci</i> a bulánčí poezii. Kromě <i>Bulánků</i> se web zaměřuje také na vodní dívky.
+- description_en: A website showcasing the activities of the <i>Bulánci</i> clan <=SP=>. It features clan news and photographs, as well as a downloadable version of <i>Bulánci</i> and poetry inspired by the game. In addition to <i>Bulánci</i>, the website also focuses on water girls.
 - startYear: 2006
   source: web
 - endYear: 2007
@@ -463,11 +463,11 @@ mybulanci.estranky.cz:
 - id: 20
 - shown-name: kdo se vleče, neuteče
 - canon_url: "https://web.archive.org/web/20070709210458/http://www.mybulanci.estranky.cz/"
-- description_cs:
-- description_en:
+- description_cs: Krátce fungující fanouškovský web, který obsahoval stažitelnou verzi hry <i>Bulánci</i> a základní informace o ní. Původně měl web obsahovat také sekci s příběhy o <i>Buláncích</i>. 
+- description_en: A short-lived fan website featuring a downloadable version of <i>Bulánci</i> and basic information about the game. The website was originally also intended to include a section with stories about <i>Bulánci</i>.
 - startYear: 2006
   source: web
-- endYear: 2007
+- endYear: 2006
   source: web
 - service: estranky
 - referenced-web: !!set {}
@@ -488,8 +488,8 @@ s-clan.wz.cz:
 - id: 21
 - shown-name: S-clan Team
 - canon_url: "https://web.archive.org/web/20070127223238/http://s-clan.wz.cz/"
-- description_cs:
-- description_en:
+- description_cs: Web prezentující bulánčí tým S-Clan. Kromě seznamu členů a základních informací o hře <i>Bulánci</i>, včetně možnosti jejího stažení, obsahuje také fanouškovské mapy ke stažení, novinky a návody.
+- description_en: A website showcasing the <i>Bulánci</i> team S-Clan. In addition to a list of members and basic information about the game, including a download option, it also features downloadable fan-made maps, news, and guides.
 - startYear: 2006
   source: wbm
 - endYear: 2008
@@ -513,8 +513,8 @@ tomaskukal.blog.cz:
 - id: 22
 - shown-name: Zápisky Tomáše Kukala
 - canon_url: "https://web.archive.org/web/20150923043843/http://tomaskukal.blog.cz/"
-- description_cs:
-- description_en:
+- description_cs: Osobní blog prominentního člena bulánčí komunity Tomáše Kukala. <i>Bulánci</i> zde představují pouze okrajové téma a autor se většinou věnuje jiným svým zájmům.
+- description_en: A personal blog by Tomáš Kukal, a prominent member of the <i>Bulánci</i> community. <i>Bulánci</i> are only a minor topic on the blog, with the author mostly focusing on his other interests.
 - startYear: 2006
   source: web
 - endYear: 2019
@@ -538,8 +538,8 @@ saw3.wbs.cz:
 - id: 23
 - shown-name: Zábava
 - canon_url: "https://web.archive.org/web/20071118021037/http://www.saw3.wbs.cz/index.php?menu=0"
-- description_cs: Fanouškovský web věnovaný hrám <i>Bulánci</i> a <i>Original War</i>.
-- description_en:
+- description_cs: Fanouškovský web věnovaný hrám <i>Bulánci</i> a <i>Original War</i>. Věnuje se zejména stažitelné verzi hry <i>Bulánci</i> a uživatelským výtvorům autora webu.
+- description_en: A fan website dedicated to the games <i>Bulánci</i> and <i>Original War</i>. Its content related to <i>Bulánci</i> consists primarily of a downloadable version of the game and user-created content by the website's author.
 - startYear: 2007
   source: wbm
 - endYear: 2007
@@ -563,8 +563,8 @@ bulanci.hu.cz:
 - id: 24
 - shown-name: null
 - canon_url: "https://web.archive.org/web/20070206180743/http://www.bulanci.hu.cz/"
-- description_cs:
-- description_en:
+- description_cs: Standardní fanouškovský web obsahující stažitelnou verzi hry <i>Bulánci</i> a základní informace o ní. Kromě toho nabízí také návody, jak hrát na základních herních mapách.
+- description_en: A typical fan website featuring a downloadable version of <i>Bulánci</i> and basic information about the game. It also provides guides on how to play on the game's original maps.
 - startYear: 2007
   source: wbm
 - endYear: 2007
@@ -588,8 +588,8 @@ klubhobit.blog.cz:
 - id: 25
 - shown-name: klub hobit
 - canon_url: "https://web.archive.org/web/20080619041305/http://klubhobit.blog.cz/"
-- description_cs:
-- description_en:
+- description_cs: Blog neformálního uskupení klub hobit, které se vedle mnoha dalších aktivit věnovalo také hře <i>Bulánci</i>. Na webu se nacházely i mapy vytvořené členy klubu.
+- description_en: A blog of the informal group klub hobit, which, among many other activities, also engaged with <i>Bulánci</i>. The website also featured maps created by the group's members.
 - startYear: 2007
   source: wbm
 - endYear: 2007
@@ -613,8 +613,8 @@ parime.estranky.cz:
 - id: 26
 - shown-name: Paříme
 - canon_url: "https://web.archive.org/web/20071015062534/http://www.parime.estranky.cz/clanky/bulanci-nove-mapy"
-- description_cs:
-- description_en:
+- description_cs: Web věnovaný různým zájmům autora a digitálním hrám, včetně <i>Bulánků</i>. Kromě samotné hry nabízí ke stažení také řadu fanouškovských map.
+- description_en: A website dedicated to the author's various interests and video games, including <i>Bulánci</i>. In addition to the game itself, it also offers a wide selection of fan-made maps for download.
 - startYear: 2007
   source: wbm
 - endYear: 2007
@@ -638,8 +638,8 @@ klanparbiku.blog.cz:
 - id: 27
 - shown-name: Klan Pabříků
 - canon_url: "https://web.archive.org/web/20090918215004/http://klanparbiku.blog.cz/"
-- description_cs:
-- description_en:
+- description_cs: Blog bulánčího klanu Pabříků, jehož členové se shodovali se členy Klubu Hobit. Oproti němu se však více zaměřoval na samotnou hru <i>Bulánci</i>. Na webu se šířily mapy vytvořené členy klanu.
+- description_en: A blog of the <i>Bulánci</i> clan Pabříci, whose members were the same as those of Klub Hobit. Unlike Klub Hobit, however, the blog focused more specifically on the game itself. The website served as a platform for distributing maps created by clan members.
 - startYear: 2007
   source: web
 - endYear: 2007
@@ -663,8 +663,8 @@ mapsbulanci.blog.cz:
 - id: 29
 - shown-name: Maps for Bulánci
 - canon_url: "https://web.archive.org/web/20180125200828/http://mapsbulanci.blog.cz/"
-- description_cs:
-- description_en:
+- description_cs: Pokus o vytvoření agregačního webu pro fanouškovské mapy do hry <i>Bulánci</i>. Web však fungoval pouze krátkou dobu.
+- description_en: An attempt to create an aggregation website for fan-made maps for <i>Bulánci</i>. However, the website was only active for a short period of time.
 - startYear: 2007
   source: web
 - endYear: 2007
@@ -688,8 +688,8 @@ bulanci2.blog.cz:
 - id: 30
 - shown-name: null
 - canon_url: "https://web.archive.org/web/20070918130302/http://bulanci2.blog.cz/"
-- description_cs:
-- description_en:
+- description_cs: Osobní blog jednoho z prominentnějších členů bulánčí komunity. Stránka sloužila především k distribuci autorových fanouškovských map do hry <i>Bulánci</i> a později také map do hry <i>Warcraft</i>. Blog však nebyl příliš aktivní, protože autor krátce po jeho založení přesunul svou tvorbu z platformy Blog.cz na eStranky.
+- description_en: A personal blog by one of the more prominent members of the <i>Bulánci</i> community. The website primarily served as a platform for distributing the author's fan-made maps for <i>Bulánci</i> and later also maps for <i>Warcraft</i>. The blog was not particularly active, as the author moved his content from Blog.cz to eStranky shortly after its creation.
 - startYear: 2007
   source: web
 - endYear: 2008
@@ -713,8 +713,8 @@ bulanci.ezin.cz:
 - id: 31
 - shown-name: Klan DrM
 - canon_url: "https://web.archive.org/web/20070629203033/http://bulanci.ezin.cz/"
-- description_cs:
-- description_en:
+- description_cs: Fanouškovská stránka významná zejména proto, že patřila mezi hlavní distribuční místa map do hry <i>Bulánci</i>. Zároveň sloužila jako prezentační platforma bulánčího klanu Klan DrM.
+- description_en: A fan website notable primarily for being one of the main distribution points for maps for <i>Bulánci</i>. It also served as a platform for showcasing the activities of the Bulánci clan known as Klan DrM.
 - startYear: 2007
   source: wbm
 - endYear: 2008
@@ -738,8 +738,8 @@ bulanci-levely.tym.cz:
 - id: 32
 - shown-name: null
 - canon_url: "https://web.archive.org/web/20070819233014/http://bulanci-levely.tym.cz/bulanci/"
-- description_cs:
-- description_en:
+- description_cs: Jeden z několika agregačních webů zaměřených na shromažďování a distribuci fanouškovských map do hry <i>Bulánci</i>. Patřil mezi aktivnější a déle fungující weby tohoto typu.
+- description_en: One of several aggregation websites dedicated to collecting and distributing fan-made maps for <i>Bulánci</i>. It was among the more active and longer-running websites of its kind.
 - startYear: 2007
   source: web
 - endYear: 2008
@@ -763,8 +763,8 @@ bulankov.blog.cz:
 - id: 33
 - shown-name: Bulánkov
 - canon_url: "https://web.archive.org/web/20071214025444/http://bulankov.blog.cz/"
-- description_cs:
-- description_en:
+- description_cs: Jeden ze dvou blogů prominentního člena bulánčí komunity Martina „Made“ Madejewského. Blog sloužil především k prezentaci autorových map a map vytvořených dalšími fanoušky.
+- description_en: One of two blogs run by Martin “Made” Madejewski, a prominent member of the <i>Bulánci</i> community. The blog primarily served as a platform for showcasing maps created by the author and other fans.
 - startYear: 2007
   source: web
 - endYear: 2008
@@ -788,8 +788,8 @@ drkiller.blog.cz:
 - id: 34
 - shown-name: Dr. Killer Blog
 - canon_url: "https://web.archive.org/web/20160402174716/http://drkiller.blog.cz/"
-- description_cs:
-- description_en:
+- description_cs: Blog prominentního člena bulánčí komunity vystupujícího pod přezdívkou Dr. Killer. Web obsahuje jeho autorské mapy, návody ke hře i příspěvky a novinky o <i>Buláncích</i> a jejich portech na tlačítkové telefony.
+- description_en: A blog by a prominent member of the <i>Bulánci</i> community known by the nickname Dr. Killer. The website features his custom-made maps, game guides, and posts and news about <i>Bulánci</i> and its ports for feature phones.
 - startYear: 2007
   source: web
 - endYear: 2009
@@ -813,8 +813,8 @@ bulanci.osoba.cz:
 - id: 35
 - shown-name: Nové mapy do Bulánků
 - canon_url: "https://web.archive.org/web/20070522154153/http://www.bulanci.osoba.cz/"
-- description_cs:
-- description_en:
+- description_cs: Pokus o vytvoření agregačního webu zaměřeného na shromažďování map do hry <i>Bulánci</i>. Během své existence však web shromáždil jen malé množství map.
+- description_en: An attempt to create an aggregation website dedicated to collecting maps for <i>Bulánci</i>. However, the website gathered only a small number of maps during its existence.
 - startYear: 2007
   source: web
 - endYear: 2009
@@ -838,8 +838,8 @@ bulanci007.blog.cz:
 - id: 36
 - shown-name: Bulánci a Descent 3
 - canon_url: "https://web.archive.org/web/20080917210806/http://bulanci007.blog.cz/"
-- description_cs: Blog se věnovanl <i>Bulánkům</i> pouze z počátku (zhruba do konce roku 2007), pak se zde řeší zejména <i>Descent 3</i>.
-- description_en:
+- description_cs: Blog věnovaný hrám <i>Bulánci</i> a <i>Descent 3</i>. <i>Bulánkům</i> se autor věnuje pouze v počátečním období existence blogu, přibližně do konce roku 2007, poté se zaměřuje na zmíněnou hru <i>Descent 3</i>.
+- description_en: A blog dedicated to the games <i>Bulánci</i> and <i>Descent 3</i>. The author writes about <i>Bulánci</i> only during the blog's early period, approximately until the end of 2007, after which the focus shifts to <i>Descent 3</i>.
 - startYear: 2007
   source: web
 - endYear: 2009
@@ -863,8 +863,8 @@ klansvobodnibulanci.blog.cz:
 - id: 37
 - shown-name: Klan svobodných bulánků
 - canon_url: "https://web.archive.org/web/20070717022228/http://klansvobodnibulanci.blog.cz/"
-- description_cs:
-- description_en:
+- description_cs: Blog Klanu svobodných bulánků, který sloužil k prezentaci aktivit klanu a jeho tvorby, včetně fanouškovských map a dalších uživatelských výtvorů.
+- description_en: A blog of the Clan of Free Bulánci, dedicated to showcasing the clan's activities and creations, including fan-made maps and other user-generated content.
 - startYear: 2007
   source: web
 - endYear: 2010
@@ -888,8 +888,8 @@ nbulanci.blog.cz:
 - id: 38
 - shown-name: Madeho blog
 - canon_url: "https://web.archive.org/web/20070824175620/http://nbulanci.blog.cz/"
-- description_cs:
-- description_en:
+- description_cs: Jeden ze dvou blogů prominentního člena bulánčí komunity Martina „Made“ Madejewského. <i>Bulánci</i> zde představovali pouze okrajové téma. Blog sloužil kromě prezentace autorových map a map vytvořených dalšími fanoušky také k prezentaci jeho dalších zájmů.
+- description_en: One of two blogs run by Martin “Made” Madejewski, a prominent member of the <i>Bulánci</i> community. <i>Bulánci</i> were only a minor topic on this blog. In addition to showcasing maps created by the author and other fans, the blog also served as a platform for presenting his other interests.
 - startYear: 2007
   source: web
 - endYear: 2010
@@ -913,8 +913,8 @@ bulanci9.blog.cz:
 - id: 39
 - shown-name: null
 - canon_url: "https://web.archive.org/web/20090720040844/http://bulanci9.blog.cz/"
-- description_cs:
-- description_en:
+- description_cs: Osobní blog fanouška hry <i>Bulánci</i> vystupujícího pod přezdívkou Knoflík, který sloužil především k distribuci jeho fanouškovských map.
+- description_en: A personal blog by a fan of <i>Bulánci</i> known by the nickname Knoflík, primarily used to distribute his fan-made maps.
 - startYear: 2007
   source: web
 - endYear: 2011
@@ -938,8 +938,8 @@ bulanci.yc.cz:
 - id: 40
 - shown-name: Neoficiální stránka hry bulánci
 - canon_url: "https://web.archive.org/web/20070824062818/http://www.bulanci.yc.cz/"
-- description_cs:
-- description_en:
+- description_cs: Fanouškovský web věnovaný hře <i>Bulánci</i>, obsahující základní informace o hře, oficiální obsah ke stažení a fanouškovské mapy vytvořené autorem webu i dalšími fanoušky.
+- description_en: A fan website dedicated to <i>Bulánci</i>, featuring basic information about the game, official downloadable content, and fan-made maps created by the website's author and other fans.
 - startYear: 2007
   source: wbm
 - endYear: 2013
@@ -963,8 +963,8 @@ bulanci.wbl.sk:
 - id: 41
 - shown-name: null
 - canon_url: "https://web.archive.org/web/20071019022019/http://www.bulanci.wbl.sk/"
-- description_cs:
-- description_en:
+- description_cs: Slovenský fanouškovský web obsahující základní informace o hře <i>Bulánci</i>, její stažitelnou verzi a fanouškovské mapy vytvořené autorem webu.
+- description_en: A Slovak fan website featuring basic information about <i>Bulánci</i>, a downloadable version of the game, and fan-made maps created by the website's author.
 - startYear: 2007
   source: wbm
 - endYear: 2014
@@ -988,8 +988,8 @@ bulanci.akonato.biz:
 - id: 42
 - shown-name: null
 - canon_url: "https://web.archive.org/web/20080705013759/http://www.bulanci.akonato.biz/bulanci-uvod.htm"
-- description_cs:
-- description_en:
+- description_cs: Web věnovaný různým zájmům autora, na kterém je hře <i>Bulánci</i> věnována pouze jedna stránka obsahující základní informace o hře a její stažitelnou verzi.
+- description_en: A website dedicated to the author's various interests, with only one page devoted to <i>Bulánci</i>, featuring basic information about the game and a downloadable version.
 - startYear: 2008
   source: web
 - endYear: 2008
@@ -1013,8 +1013,8 @@ bulanci.hustej.net:
 - id: 43
 - shown-name: null
 - canon_url: "https://web.archive.org/web/20080407223229/http://www.bulanci.hustej.net/"
-- description_cs:
-- description_en:
+- description_cs: Standardní fanouškovský web obsahující základní informace o hře <i>Bulánci</i>, její stažitelnou verzi a návody ke hře vytvořené autorem webu.
+- description_en: A typical fan website featuring basic information about <i>Bulánci</i>, a downloadable version of the game, and game guides created by the website's author.
 - startYear: 2008
   source: wbm
 - endYear: 2008
@@ -1038,8 +1038,8 @@ bulanci.webovastranka.sk: #doplnit mapy z webu do dtb map
 - id: 44
 - shown-name: null
 - canon_url: "https://web.archive.org/web/20090302113708/http://bulanci.webovastranka.sk/"
-- description_cs:
-- description_en:
+- description_cs: Slovenský fanouškovský web zaměřený na distribuci fanouškovských map do hry <i>Bulánci</i>.
+- description_en: A Slovak fan website dedicated to distributing fan-made maps for <i>Bulánci</i>.
 - startYear: 2008
   source: wbm
 - endYear: 2008
@@ -1063,8 +1063,8 @@ jatka666.blog.cz:
 - id: 45
 - shown-name: Jatka bulánci a jiné
 - canon_url: "https://web.archive.org/web/20100329073555/http://jatka666.blog.cz/"
-- description_cs:
-- description_en:
+- description_cs: Blog věnovaný prezentaci autorových map do hry <i>Bulánci</i>. V pozdějších letech existence blogu se autor věnuje také svým dalším zájmům.
+- description_en: A blog dedicated to showcasing the author's maps for <i>Bulánci</i>. In the later years of the blog's existence, the author also writes about his other interests.
 - startYear: 2008
   source: web
 - endYear: 2009
@@ -1088,8 +1088,8 @@ bdteam.webnode.cz:
 - id: 46
 - shown-name: Bdteam
 - canon_url: "https://web.archive.org/web/20091215053010/https://bdteam.webnode.cz/"
-- description_cs:
-- description_en:
+- description_cs: Web, který sloužil k distribuci fanouškovských map vytvořených jeho autory.
+- description_en: A website dedicated to distributing fan-made maps created by its authors.
 - startYear: 2009
   source: web
 - endYear: 2009
@@ -1113,8 +1113,8 @@ bulanci-map.webnode.sk:
 - id: 47
 - shown-name: Bulanci-map
 - canon_url: "https://web.archive.org/web/20260125204438/https://bulanci-map.webnode.sk/"
-- description_cs:
-- description_en:
+- description_cs: Slovenský fanouškovský web, který sloužil k distribuci fanouškovských map do hry <i>Bulánci</i> vytvořených jeho autory.
+- description_en: A Slovak fan website used to distribute fan-made maps for <i>Bulánci</i> created by the website's authors.
 - startYear: 2010
   source: web
 - endYear: 2010
@@ -1138,8 +1138,8 @@ bulani.wbs.cz:
 - id: 48
 - shown-name: Bulani
 - canon_url: "https://web.archive.org/web/20100219232156/https://bulani.wbs.cz/Info.html"
-- description_cs:
-- description_en:
+- description_cs: Fanouškovský web obsahující kromě základních informací o hře <i>Bulánci</i> a její stažitelné verze také několik map vytvořených autorem webu a celou řadu map od dalších fanoušků.
+- description_en: A fan website featuring basic information about <i>Bulánci</i> and a downloadable version of the game, as well as several maps created by the website's author and a wide selection of maps by other fans.
 - startYear: 2009
   source: web
 - endYear: 2011
@@ -1163,8 +1163,8 @@ levelydobulanku.wbs.cz:
 - id: 49
 - shown-name: Levely do hry Bulánci
 - canon_url: "https://web.archive.org/web/20100306160619/https://levelydobulanku.wbs.cz/"
-- description_cs:
-- description_en:
+- description_cs: Jeden z nejmladších fanouškovských webů věnovaných hře <i>Bulánci</i>. Autorovi JP3035 sloužil web k distribuci jeho vlastních map a později také k prezentaci dalších zájmů, například seriálu <i>Simpsonovi</i>.
+- description_en: One of the latest fan websites dedicated to <i>Bulánci</i>. Its author, JP3035, used the website to distribute his own maps and later to showcase his other interests, such as the TV series <i>The Simpsons</i>.
 - startYear: 2010
   source: web
 - endYear: 2016
@@ -1188,8 +1188,8 @@ war-bulanci.blog.cz:
 - id: 50
 - shown-name: Mapy do bulánků
 - canon_url: "https://web.archive.org/web/20190824104720/http://war-bulanci.blog.cz/"
-- description_cs:
-- description_en:
+- description_cs: Osobní blog fanouška hry <i>Bulánci</i> vystupujícího pod přezdívkou X_warcraft_X, na kterém prezentoval a sdílel své mapy do hry.
+- description_en: A personal blog by a fan of <i>Bulánci</i> known by the nickname X_warcraft_X, where he showcased and shared his custom maps for the game.
 - startYear: 2009
   source: web
 - endYear: 2009
@@ -1213,8 +1213,8 @@ bulanci2.wbl.sk:
 - id: 51
 - shown-name: KTO SE VLEČE‚ NEUTEČE !
 - canon_url: "https://web.archive.org/web/20151229171914/http://www.bulanci2.wbl.sk/Bulanci.html"
-- description_cs:
-- description_en:
+- description_cs: Slovenský fanouškovský web věnovaný hře <i>Bulánci</i>. Kromě základních informací o hře, kterou lze na webu také stáhnout, nabízí i fanouškovské mapy ke stažení a editor map.
+- description_en: A Slovak fan website dedicated to <i>Bulánci</i>. In addition to basic information about the game, which is also available for download, the website offers downloadable fan-made maps and a map editor.
 - startYear: 2010
   source: wbm
 - endYear: 2010
@@ -1238,8 +1238,8 @@ mostly-harmless.estranky.cz:
 - id: 52
 - shown-name: Mostly Harmlessův blog
 - canon_url: "web.archive.org/web/20070513032236/http://www.mostly-harmless.estranky.cz/clanky/download/levely-do-hry-bulanci"
-- description_cs: Blog věnovaný různým zájmům autora. <i>Bulánci</i> hrají na tomto blogu jen silně okrajové téma a je jim věnován pouze jeden blog-post.
-- description_en:
+- description_cs: Blog věnovaný různým zájmům autora. <i>Bulánci</i> zde představují pouze okrajové téma a je jim věnován jen jeden příspěvek.
+- description_en: A blog dedicated to the author's various interests. <i>Bulánci</i> are only a minor topic on the blog and are covered in just one post.
 - startYear: 2006
   source: web
 - endYear: 2008
@@ -1263,8 +1263,8 @@ broucin.blog.cz:
 - id: 53
 - shown-name: null
 - canon_url: "https://web.archive.org/web/20071109115842/http://broucin.blog.cz/0702/levely-k-bulankum"
-- description_cs: Blog věnovaný různým zájmům autora. <i>Bulánci</i> hrají na tomto blogu jen silně okrajové téma a je jim věnován pouze jeden blog-post.
-- description_en:
+- description_cs: Blog věnovaný různým zájmům autora. <i>Bulánci</i> zde hrají pouze okrajovou roli a je jim věnován jen jeden příspěvek.
+- description_en: A blog dedicated to the author's various interests. <i>Bulánci</i> play only a minor role on this blog and are mentioned in just one post.
 - startYear: 2006
   source: web
 - endYear: 2008
@@ -1313,8 +1313,8 @@ mujweb.cz/www/klanmazliku/:
 - id: 55
 - shown-name: Klan Mazlíků
 - canon_url: "https://web.archive.org/web/20050316034818/http://mujweb.cz/www/klanmazliku/"
-- description_cs:
-- description_en:
+- description_cs: Pouze ve fragmentech dochovaný web, který sloužil k prezentaci aktivit bulánčího klanu Mazlíci. Obsahoval mimo jiné seznam členů klanu.
+- description_en: A website preserved only in fragments, which served to showcase the activities of the <i>Bulánci</i> clan Mazlíci. Among other things, it featured a list of clan members.
 - startYear: 2002
   source: wbm
 - endYear: 2002

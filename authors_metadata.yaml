@@ -43,7 +43,11 @@ Charlie Stevens:
   visible: true
 chozze: null
 Cronos:
+- description_cs: Jiří Chovanec, narozen roku 1990, je bývalý fanoušek hry <i>Bulánci</i>. K <i>Bulánkům</i> se dostal zřejmě skrze své starší sourozence a později vytvořil pár map do hry, významný agregační web kde se fanouškovské mapy šířily a také spoluzaložil Klan DrM.
+- description_en: Jiří Chovanec, born in 1990, is a former fan of the game <i>Bulánci</i>. He got into <i>Bulánci</i> through his older siblings and later created several maps for the game, a significant aggregation website where fan-made maps were shared, and also co-founded the Klan DrM.
 - web: bulanci.ezin.cz
+- alias: Jiří Chovanec
+  visible: true
 Daniel Procházka: null
 David P.:
 - alias: David
