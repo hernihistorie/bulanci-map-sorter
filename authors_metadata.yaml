@@ -1,22 +1,31 @@
 40cent, Blade:
 - alias: 40cent,Blade
   visible: false
+
 =53rgi: null
+
 '[MKJ]Devil': null
+
 adam:
 - alias: ADAM
   visible: false
+
 Ametis:
 - web: bulani.wbs.cz
 - alias: ametis
   visible: false
 - alias: Magda
   visible: false
+
 Andrej Macuľa:
 - web: bulanci2.wbl.sk
+
 ANONYM: null
+
 Atamii: null
+
 AvilX: null
+
 B&D Team:
 - web: bdteam.webnode.cz
 - alias: B&DTeam
@@ -25,50 +34,77 @@ B&D Team:
   visible: true
 - alias: 'Born & Duck Team '
   visible: false
+
 Beerman: null
+
 Bert.Q:
 - alias: Marek Fuchs
   visible: false
+
 Blulánek:
 - web: mapsbulanci.blog.cz
+
 bobik: null
+
 Boink Games: null
+
 BOREC XL:
 - alias: Borec XL
   visible: false
+
 bulda15: null
+
 Carl114: null
+
 Charlie Stevens:
 - alias: Charlie
   visible: true
+
 chozze: null
+
 Cronos:
 - description_cs: Jiří Chovanec, narozen roku 1990, je bývalý fanoušek hry <i>Bulánci</i>. K <i>Bulánkům</i> se dostal zřejmě skrze své starší sourozence a později vytvořil pár map do hry, významný agregační web kde se fanouškovské mapy šířily a také spoluzaložil Klan DrM.
 - description_en: Jiří Chovanec, born in 1990, is a former fan of the game <i>Bulánci</i>. He got into <i>Bulánci</i> through his older siblings and later created several maps for the game, a significant aggregation website where fan-made maps were shared, and also co-founded the Klan DrM.
+- clan: Klan DrM
 - web: bulanci.ezin.cz
 - alias: Jiří Chovanec
   visible: true
+
 Daniel Procházka: null
+
 David P.:
 - alias: David
   visible: true
 - alias: davidpalecek@seznam.cz
   visible: false
+
 denny315: null
+
+DJ Sanka:
+- web: bulanci.zapisky.info
+
 Doby: null
+
 Dominik:
 - web: parime.estranky.cz
+
 DOPELLSOLDER:
 - alias: kevin
   visible: true
+
 Dr. Killer:
+- description_cs: Dr. Killer byl prominentním členem fanouškovské komunity kolem hry <i>Bulánci</i>. Kromě tvorby map, které patřily k nejrozšířenějším mezi fanoušky, provozoval také vlastní web s několika populárními návody ke hře. Byl rovněž jedním z fanoušků, kteří se aktivně snažili komunikovat s autory hry, zejména v období vývoje jejích mobilních verzí. 
+- description_en: Dr. Killer was a prominent member of the <i>Bulánci</i> fan community. In addition to creating maps that became some of the most widely distributed among fans, he also ran his own website featuring several popular game guides. He was also one of the fans who actively sought to communicate with the game's developers, particularly during the development of its mobile versions.
 - web: drkiller.blog.cz
 - alias: Dr._Killer
   visible: false
+
 Drakensang: null
+
 DRURY:
 - alias: Drury
   visible: false
+
 DzUsiK:
 - alias: dzUsso
   visible: true
@@ -80,26 +116,40 @@ DzUsiK:
   visible: false
 - alias: DzUsSoFt
   visible: true
+
 Démon industries:
 - alias: Kijar
   visible: true
+
 Elisabeth:
+- description_cs: Členka zaniklého klanu svobodných bulánků a sestra prominentního člena fanouškovské komunity Tomáše Kukala.
+- description_en: A member of the defunct klan svobodných bulánků (Clan of Free Bulánci) and the sister of Tomáš Kukal, a prominent member of the fan community.
 - clan: klan svobodných bulánků
 - alias: Andrea
   visible: false
 - alias: Králíček
   visible: true
+
 Filip Řeha:
 - web: bulanci.yc.cz
 - alias: Filip Řeha (webmaster)
   visible: false
+
 FoSSie: null
+
 Frankee: null
+
 funMahdi:
 - alias: Pat&Mat
   visible: false
+
 Gabriel Janovský: null
+
 Gandalf:
+- description_cs: Autor několika fanouškovských map a webů a zároveň člen Klubu Hobit a Klanu Pabříků.
+- description_en: Creator of several fan-made maps and websites, as well as a member of Klub Hobit (Hobit Club) and Klan Pabříků (Pabřík Clan).
+- clan: klub hobit
+- clan: Klan Pabříků
 - web: gandalf.estranky.cz
 - web: bulanci2.blog.cz
 - web: klanpabriku.blog.cz
@@ -107,84 +157,165 @@ Gandalf:
   visible: true
 - alias: Gandalf (bulanci2.blog.cz)
   visible: true
+
 Gladiator: null
+
 Green Killer:
 - alias: GreenKiller
   visible: false
+
 H&E&P Team:
 - alias: H&E&P TEAM
   visible: false
 - alias: H&E&P team
   visible: false
+
 Helča: null
+
 Hofik:
 - alias: Honza
   visible: false
+
 Hoky:
 - alias: Honza
   visible: true
+
 Hráč: null
+
 Iron Killer:
 - alias: Iron_Killer
   visible: false
+
 jakub ryska:
 - alias: Kuba
   visible: true
+
 James:
 - alias: Jakub Šlancar
   visible: false
+
+Jan Záruba:
+- web: bulanci.czweb.cz
+
 jary: null
+
 Jary ml.: null
+
 Jatka:
 - web: jatka666.blog.cz
 - alias: Jatka666
   visible: true
+
 JaVys27: null
+
 jaXmi: null
+
 Jirka: null
+
+Jiří Dadák:
+- web: flash-bulanci.wz.cz
+
 Jiří Dienstieber:
 - web: bulanci.yc.cz
+
 Joey: null
+
 Jogurth:
 - alias: Michal Junwirth
   visible: false
+
 Jozuo:
 - alias: jozuo
   visible: false
 - alias: Jožoman
   visible: true
+
 JP3035:
+- description_cs: Jan Pokorný, známý také pod přezdívkou JP3035, narozený v roce 1990, patřil k pozdějším aktivním členům bulánčí komunity. Ke hře <i>Bulánci</i> se dostal prostřednictvím kamarádů ze školy, se kterými ji také hrával. Později založil vlastní web, na němž propojil svůj zájem o <i>Bulánky</i> s hromadnou městskou dopravou. Vydal zde také několik map, které tyto dva zájmy kombinovaly.
+- description_en: Jan Pokorný, also known by the nickname JP3035 and born in 1990, was one of the later active members of the <i>Bulánci</i> community. He discovered the game through his school friends, with whom he also played it. He later created his own website, combining his interest in <i>Bulánci</i> with his passion for public transport. He also published several maps that brought these two interests together.
 - web: levelydobulanku.wbs.cz
+- alias: Jan Pokorný
+  visible: true
 - alias: Jan
   visible: true
 - alias: Bulánek Twůrčí
   visible: true
 - alias: J
   visible: true
+
 Ján Kucan:
 - web: bulanci.wbl.sk
 - alias: ján kucan
   visible: false
 - alias: ján
   visible: true
+
 Karel Beneš:
 - alias: Kaja2804
   visible: true
 - alias: kaja_benes@seznam.cz
   visible: false
+
 Kejo:
 - alias: kejo
   visible: true
+
 Kelt: null
-Klan Ohořelý polštáře: null
+
+Killer:
+- web: bulanci.webz.cz
+
+Klan <=SP=>:
+- clan: true
+- web: sp.webgarden.cz
+
+Klan ANNIHILATORS:
+- clan: true
+- web: bulanci.webzdarma.cz
+
+Klan DrM:
+- clan: true
+- web: bulanci.ezin.cz
+
+Klan iNtruders:
+- clan: true
+- web: intruders.wz.cz
+
+Klan Ohořelý polštáře:
+- clan: true
+
+Klan Pabříků:
+- clan: true
+- web: klanpabriku.blog.cz
+
 klan svobodných bulánků:
+- clan: true
 - web: klansvobodnibulanci.blog.cz
+
+klub hobit:
+- clan: true
+- web: klubhobit.blog.cz
+
+klan Mazlík:
+- clan: true
+- web: bulanci.3games.cz
+
+S-Clan Team:
+- clan: true
+- web: s-clan.wz.cz
+
 Klayman:
 - web: bulanci-map.webnode.sk
+
 kluci.cz:
 - alias: KLUCI.CZ
   visible: false
+
 Knoflík:
+- description_cs: Autor několika fanouškovských map, administrátor několika webů a člen Klanu Pabříků a Klubu Hobit.
+- description_en: Creator of several fan-made maps, administrator of several websites, and a member of Klan Pabříků (Pabřík Clan) and Klub Hobit (Hobit Club).
+- clan: Klan Pabříků
+- clan: klub hobit
 - web: bulanci9.blog.cz
 - web: klubhobit.blog.cz
 - web: klanpabriku.blog.cz
@@ -196,9 +327,16 @@ Knoflík:
   visible: false
 - alias: Adam (Knoflík)
   visible: false
+
 Kraamis: null
+
 Krakenak: null
+
+Kriss:
+- web: bulanci.aktualne.cz
+
 lacko4444122: null
+
 Lakomy:
 - alias: Ulfshardje
   visible: true
@@ -206,6 +344,7 @@ Lakomy:
   visible: false
 - alias: Lakomý Ondřej
   visible: false
+
 Leatherface:
 - alias: leatherface
   visible: false
@@ -213,6 +352,7 @@ Leatherface:
   visible: false
 - alias: KozenaDrzka
   visible: true
+
 LeatherSoft:
 - alias: Leathersoft
   visible: false
@@ -220,28 +360,32 @@ LeatherSoft:
   visible: false
 - alias: LEATHERSOFT
   visible: false
+
 Lineman: null
+
 Lord Pecka: null
+
 Luboman: null
+
 Luk H:
 - alias: luk H
   visible: false
+
 Lukáš Holeczy:
 - alias: Holi
   visible: true
+
 Lukáš Medvecký:
 - alias: 'Lukáš Medvecký '
   visible: false
+
 lunfardos:
 - alias: lunfadros
   visible: false
+
 Made:
-- description_cs: Martin Madejewský, narozen roku 1994, je bývalý fanoušek hry <i>Bulánci</i>.
-    K <i>Bulánkům</i> se dostal kolem roku 2006 a později vytvořil celou řadu map
-    do hry a několik blogů dedikovaných této hře.
-- decription_en: Martin Madejewský, born in 1994, is a former fan of the game <i>Bulánci</i>.
-    He got into <i>Bulánci</i> around 2006 and later created a whole series of maps
-    for the game and several blogs dedicated to this game.
+- description_cs: Martin Madejewský, narozen roku 1994, je bývalý fanoušek hry <i>Bulánci</i>. K <i>Bulánkům</i> se dostal kolem roku 2006 a později vytvořil celou řadu map do hry a několik blogů dedikovaných této hře.
+- decription_en: Martin Madejewský, born in 1994, is a former fan of the game <i>Bulánci</i>. He got into <i>Bulánci</i> around 2006 and later created a whole series of maps for the game and several blogs dedicated to this game.
 - web: bulankov.blog.cz
 - web: nbulanci.blog.cz
 - alias: Martin Madejewský
@@ -254,9 +398,13 @@ Made:
   visible: false
 - alias: Made - www.nbulanci.blog.cz
   visible: true
+
 Markéta: null
+
 martin555: null
+
 Master: null
+
 Matúš:
 - web: bulanci-map.webnode.sk
 - alias: Matus
@@ -265,14 +413,19 @@ Matúš:
   visible: false
 - alias: MT
   visible: true
+
 Max: null
+
 MeeShanek:
 - alias: Meeshanek
   visible: false
 - alias: MeeShanek /icq 381656206/
   visible: false
+
 Melamber777: null
+
 Memphis: null
+
 MENTYR:
 - alias: 'Firma: MENTYR'
   visible: true
@@ -282,7 +435,9 @@ MENTYR:
   visible: false
 - alias: 'Firma :  MENTYR'
   visible: false
+
 Michael Bucha: null
+
 Michael de Vile:
 - alias: Nekked.snake@seznam.cz
   visible: false
@@ -290,103 +445,163 @@ Michael de Vile:
   visible: false
 - alias: Michalpribyl@email.cz
   visible: false
+
 Michal Hinda:
+- description_cs: Autor map a jeden z několika členů klanu svobodných bulánků.
+- description_en: Map creator and one of several members of the Klan svobodných bulánků (Clan of Free Bulánci).
 - clan: klan svobodných bulánků
 - alias: Puklík
   visible: true
+
+Michal Krejčí:
+- web: bulanci.akonato.biz
+
+miky_forgget:
+- web: bulanci.hustej.net
+
 Milos: null
+
 Minatory: null
+
 Mirek Schnaubert:
 - alias: SCHNAUBELT
   visible: true
+
 Mostly Harmless:
 - web: mostly-harmless.estranky.cz
 - alias: gjjm
   visible: true
 - alias: gjjm@centrum.cz
   visible: false
+
 MRAZOR:
 - alias: mrazor
   visible: false
+
 Nachtom:
 - web: nachtom.sblog.cz
+
 Nequos:
 - alias: Matěj Nekvinda
   visible: false
+
 nio34: null
+
 NJDG30rPP: null
+
 ondatra:
 - alias: Ondatra
   visible: false
-Ondra F.: null
+
+Ondra F.:
+- description_cs: Spoluautor několika map a přítel významného fanouška <i>Bulánků</i> Martina Madejewského.
+- description_en: Co-creator of several maps and a friend of Martin Madejewski, a prominent <i>Bulánci</i> fan.
+
 ondraxa: null
+
 Padouch.hr:
 - alias: padouch
   visible: true
+
 paprii:
 - alias: Dominik
   visible: false
+
 Patty Jackob:
 - web: broucin.blog.cz
 - alias: Jan Homolka
   visible: false
 - alias: Patty Jakob
   visible: false
+
 Paull25:
 - alias: ' Pavel S.'
   visible: false
 - alias: pauell
   visible: false
+
 Pavel Švec: null
+
 Petike: null
-Petty: null
+
+Peter:
+- web: strankabulanku.wz.cz
+
 Radek44: null
+
 Raminem: null
+
 Raul:
 - alias: raul
   visible: false
+
 Raveland development team: null
+
 Red Bull: null
+
 rezygame.eu:
 - alias: rezygame
   visible: true
+
 Richard Podzemský: null
+
 Risa Weiss:
 - alias: R. Weiss
   visible: true
 - alias: R.Weiss
   visible: false
+
 Rox Cox: null
+
 Rychvald Pillow Art:
 - alias: RPA - Rychvald Pillow Art
   visible: false
+
 SCRAT:
 - alias: Scrat
   visible: false
+
 Sergejovic:
 - alias: sergejovic1
   visible: true
+
 Sertr Cz:
 - alias: '[ACS]Sertr Cz'
   visible: true
+
 Shadow The Liga: null
+
 Skipper: null
+
 Skull55:
 - alias: Skul55
   visible: false
-SleepTeam Labs: null
+
+SleepTeam Labs:
+- web: bulanci.cz
+- description_cs: Uskupení autorů hry <i>Bulánci</i>.
+- description_en: A group of creators of the game <i>Bulánci</i>.
+
 smartwas:
+- description_cs: Smartwas je jedním z nejplodnějších autorů fanouškovských map do hry <i>Bulánci</i>. Kromě jejich tvorby provozoval také jeden z několika webů, které shromažďovaly mapy od různých autorů. Vedle cizích map na něm distribuoval i své vlastní.
+- description_en: Smartwas is one of the most prolific creators of fan-made maps for <i>Bulánci</i>. In addition to creating maps, he also ran one of several websites dedicated to collecting maps by various authors, where he distributed both other creators' maps and his own.
 - web: bulanci.osoba.cz
 - alias: Antonín Edr
   visible: false
 - alias: Anotnín Edr
   visible: false
+
 Smiley: null
+
 Smoče: null
+
 SnoPPi:
+- description_cs: SnoPPi byl velmi významným členem bulánčí komunity, a to zejména v počátcích šíření uživatelských map. Jeho web byl totiž zřejmě prvním, který se pokusil fanouškovské mapy shromažďovat a vytvořil tak základní soubor map, jež se mezi fanoušky běžně distribuovaly.
+- description_en: SnoPPi was a highly influential member of the <i>Bulánci</i> community, particularly during the early spread of user-created maps. His website was apparently the first to attempt to collect fan-made maps in one place, thereby establishing a core selection of maps that were commonly distributed among fans.
 - web: maps-of-bulanci.wz.cz
 - alias: Vilém Adamec
   visible: false
+
 Snorlax:
 - alias: SNORLAX
   visible: true
@@ -394,36 +609,54 @@ Snorlax:
   visible: true
 - alias: ggg
   visible: false
+
 soldier:
 - alias: Mikuláš Michal
   visible: false
+
 SONNyq: null
+
 Spooky:
 - alias: SPOOKY
   visible: true
+
 STEGY: null
+
 Stoky:
 - alias: stoky
   visible: true
+
 Studio FNPF:
 - alias: FNPF
   visible: true
 - alias: 'Studio FNPF '
   visible: false
+
 Takk Moil:
 - alias: Takk Moil (takkmoil@gmail.com)
   visible: false
+
 TERCIE-B:
 - web: tercie-b.wbs.cz
 - alias: Ňamka
   visible: true
+
 TheLukasluk: null
+
 tom: null
+
 TombaP:
 - alias: LukinP
   visible: true
+
 tomo.: null
+
+Tomas:
+- web: strankabulanku.wz.cz
+
 Tomáš Kukal:
+- description_cs: Tomáš Kukal, známý také pod přezdívkou Bimbis a narozený v roce 1992, byl jedním z prominentních členů bulánčí komunity na internetu. Ke hře se pravděpodobně dostal prostřednictvím školy a později spolu se svými kamarády kolem ní založil klan svobodných bulánků. V rámci klanu vytvářel mapy, které následně distribuoval prostřednictvím svého osobního i klanového blogu.
+- description_en: Tomáš Kukal, also known by the nickname Bimbis and born in 1992, was one of the prominent members of the online <i>Bulánci</i> community. He most likely discovered the game at school and later founded the klan svobodných bulánků (Clan of Free Bulánci) together with his friends. As a member of the clan, he created maps, which he subsequently distributed through both his personal blog and the clan's blog.
 - web: tomaskukal.blog.cz
 - web: klansvobodnibulanci.blog.cz
 - clan: klan svobodných bulánků
@@ -441,33 +674,60 @@ Tomáš Kukal:
   visible: true
 - alias: Tomáš Kukal Bimbis
   visible: true
+
 Tomáš Snopko: null
+
 Tonda: null
+
 TONY-VOCKO: null
+
+Uzlík: bulanci.hu.cz
+
 Vistys: null
+
 Vivko: null
+
 Vojta: null
+
+Vojtěch Peterka:
+- web: bulanci.wz.cz
+
 WhoTakeMyCoffee:
 - alias: WTMC
   visible: true
+
 Will Turner:
+- description_cs: Autor map a jeden z několika členů klanu svobodných bulánků.
+- description_en: Map creator and one of several members of the Klan svobodných bulánků (Clan of Free Bulánci).
+- clan: klan svobodných bulánků
 - alias: Filip
   visible: false
+
 wishbone: null
+
 witiko:
 - alias: Witiko
   visible: false
+
 wupuchim: null
+
 X_warcraft_X:
 - web: war-bulanci.blog.cz
+
 Xmilan: null
+
 Znicitel:
 - alias: nicitel
   visible: true
+
 Zombík: null
+
 ÍA: null
+
 čočka: null
+
 Čuba.CZ: null
+
 Šťaba:
 - alias: Šťaba aka Don West
   visible: false

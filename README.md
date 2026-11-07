@@ -15,7 +15,7 @@ The processing pipeline consists of the following steps:
 * Creating HTML overview
 
 ---
-## Metadata structure
+## Map metadata structure
 There is 13 metadata attributes describing the maps. Some of them are generated from the source files, some are attributed with external tool or manually.
 
 ### Automatically generated metadata
@@ -59,7 +59,17 @@ Some of the metadata is visible on the website, some of them are used for filter
 - **description_source**
 - **description_note**
 - **author_eap**
+---
+## Author metadata structure
+There is a YAML file with all the people and clans, that created maps or websites. This yaml uses severall attributes:
+- **alias**: Alias of the author
+  - **visible**: Is the alias shown??
+- **web**: ID of a website created or co-created by the author.
+- **description_cs**: Description of the author in czech.
+- **description_en**: Description of the author in english.
+- **clan**: If the described entity is a clan, the attribute is boolean **true**. If the entity is a part o a clan, than the attribute is a string with the name of the clan.
 
+---
 ## Hasher
 
 This part sorts `.eap` files from the `unsorted_maps` folder by creating hashes of the files and checking whether a file has already been processed.
