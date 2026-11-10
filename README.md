@@ -105,7 +105,7 @@ Like the Name getter, this script requires permission to access the display and 
 xhost +
 ```
 
-The resulting images are saved as `.png` files in the `_MAPS_` folder.
+The resulting images are saved as `.png` files in the `maps_images` folder.
 
 ---
 

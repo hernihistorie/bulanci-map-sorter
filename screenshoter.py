@@ -72,16 +72,16 @@ def bulanci_screenshot(file_name):
             pyautogui.press("enter")
         if color == green:
             screenshot = ImageGrab.grab(bbox=(0, 0, 800, 600), xdisplay= None)
-            screenshot.save(f"./_MAPS_/{file_name}_load.png")
+            screenshot.save(f"./maps_images/{file_name}_load.png")
             time.sleep(3)
             screenshot = ImageGrab.grab(bbox=(0, 0, 800, 600), xdisplay= None)
-            screenshot.save(f"./_MAPS_/{file_name}.png")
+            screenshot.save(f"./maps_images/{file_name}.png")
             break
     print(f"Screenshot of {file_name}.eap taken.")
     return True
 
 def screenshot_exist_check(file_name):
-    screenshot_file = f"./_MAPS_/{file_name}.png"
+    screenshot_file = f"./maps_images/{file_name}.png"
     return os.path.isfile(screenshot_file)
 
 def main():
