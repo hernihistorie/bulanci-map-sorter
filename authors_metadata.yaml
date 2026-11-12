@@ -265,6 +265,8 @@ Kelt: null
 Killer:
 - web: bulanci.webz.cz
 
+killerFPM: null
+
 Klan <=SP=>:
 - clan: true
 - web: sp.webgarden.cz
@@ -385,7 +387,7 @@ lunfardos:
 
 Made:
 - description_cs: Martin Madejewský, narozen roku 1994, je bývalý fanoušek hry <i>Bulánci</i>. K <i>Bulánkům</i> se dostal kolem roku 2006 a později vytvořil celou řadu map do hry a několik blogů dedikovaných této hře.
-- decription_en: Martin Madejewský, born in 1994, is a former fan of the game <i>Bulánci</i>. He got into <i>Bulánci</i> around 2006 and later created a whole series of maps for the game and several blogs dedicated to this game.
+- description_en: Martin Madejewský, born in 1994, is a former fan of the game <i>Bulánci</i>. He got into <i>Bulánci</i> around 2006 and later created a whole series of maps for the game and several blogs dedicated to this game.
 - web: bulankov.blog.cz
 - web: nbulanci.blog.cz
 - alias: Martin Madejewský
@@ -681,7 +683,8 @@ Tonda: null
 
 TONY-VOCKO: null
 
-Uzlík: bulanci.hu.cz
+Uzlík:
+- web: bulanci.hu.cz
 
 Vistys: null
 
