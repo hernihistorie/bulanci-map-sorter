@@ -146,10 +146,10 @@ funMahdi:
 Gabriel Janovský: null
 
 Gandalf:
-- description_cs: Autor několika fanouškovských map a webů a zároveň člen Klubu Hobit a Klanu Pabříků.
-- description_en: Creator of several fan-made maps and websites, as well as a member of Klub Hobit (Hobit Club) and Klan Pabříků (Pabřík Clan).
+- description_cs: Autor několika fanouškovských map a webů a zároveň člen Klubu Hobit a Klanu Pařbíků.
+- description_en: Creator of several fan-made maps and websites, as well as a member of Klub Hobit (Hobit Club) and Klan Pařbíků (Pařbík Clan).
 - clan: klub hobit
-- clan: Klan Pabříků
+- clan: Klan Pařbíků
 - web: gandalf.estranky.cz
 - web: bulanci2.blog.cz
 - web: klanparbiku.blog.cz
@@ -286,7 +286,7 @@ Klan iNtruders:
 Klan Ohořelý polštáře:
 - clan: true
 
-Klan Pabříků:
+Klan Pařbíků:
 - clan: true
 - web: klanparbiku.blog.cz
 
@@ -314,9 +314,9 @@ kluci.cz:
   visible: false
 
 Knoflík:
-- description_cs: Autor několika fanouškovských map, administrátor několika webů a člen Klanu Pabříků a Klubu Hobit.
-- description_en: Creator of several fan-made maps, administrator of several websites, and a member of Klan Pabříků (Pabřík Clan) and Klub Hobit (Hobit Club).
-- clan: Klan Pabříků
+- description_cs: Autor několika fanouškovských map, administrátor několika webů a člen Klanu Pařbíků a Klubu Hobit.
+- description_en: Creator of several fan-made maps, administrator of several websites, and a member of Klan Pařbíků (Pařbík Clan) and Klub Hobit (Hobit Club).
+- clan: Klan Pařbíků
 - clan: klub hobit
 - web: bulanci9.blog.cz
 - web: klubhobit.blog.cz
